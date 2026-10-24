@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Customer_Segment,Region,City,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Method,Order_Status
+ORD100001,16-10-2025,1001,Ananya Singh,Consumer,South,Hyderabad,Electronics,Smartwatch,1,5000,0.2,4000,100,UPI,Delivered
+ORD100002,05-04-2024,1002,Riya Agarwal,Home Office,North,Lucknow,Beauty,Face Wash,4,450,0.05,1710,720,Debit Card,Delivered
+ORD100003,07-01-2024,1001,Ananya Singh,Corporate,South,Kochi,Home & Kitchen,Air Fryer,3,6500,0.05,18525,4485,UPI,Delivered
+ORD100004,04-04-2024,1003,Neha Yadav,Home Office,West,Mumbai,Fashion,Jeans,1,1800,0.15,1530,486,Debit Card,Delivered
+ORD100005,05-10-2025,1004,Neha Agarwal,Consumer,South,Bengaluru,Electronics,Smartphone,2,28000,0.1,50400,6720,UPI,Delivered
+ORD100006,24-01-2025,1005,Neha Gupta,Home Office,West,Ahmedabad,Furniture,Office Chair,3,6500,0.25,-11700,-1092,UPI,Returned
+ORD100007,15-09-2025,1006,Meera Singh,Home Office,South,Kochi,Home & Kitchen,Cookware Set,3,3200,0.25,-5760,-230.4,Credit Card,Returned
+ORD100008,02-12-2025,1007,Vivaan Singh,Home Office,North,Jaipur,Home & Kitchen,Cookware Set,3,3200,0,9600,2688,Debit Card,Delivered
+ORD100009,05-08-2024,1008,Kavya Patel,Home Office,South,Chennai,Electronics,Keyboard,2,1800,0.25,0,0,Debit Card,Cancelled
+ORD100010,21-08-2025,1009,Nisha Mishra,Consumer,West,Pune,Electronics,Keyboard,4,1800,0,7200,1584,Credit Card,Delivered
+ORD100011,04-10-2025,1010,Isha Agarwal,Home Office,North,Chandigarh,Home & Kitchen,Cookware Set,4,3200,0.2,10240,1024,UPI,Delivered
+ORD100012,27-11-2025,1009,Nisha Mishra,Consumer,West,Ahmedabad,Home & Kitchen,Air Fryer,1,6500,0.1,5850,1170,Cash on Delivery,Delivered
+ORD100013,04-01-2024,1005,Neha Gupta,Home Office,West,Pune,Fashion,Backpack,1,1500,0.25,1125,255,Net Banking,Delivered
+ORD100014,15-09-2025,1011,Neha Gupta,Corporate,North,Jaipur,Fashion,Sneakers,1,3200,0,3200,1344,Credit Card,Delivered
+ORD100015,29-02-2024,1012,Nisha Verma,Corporate,North,Chandigarh,Electronics,Headphones,2,2500,0.05,-3800,-680,Net Banking,Returned
+ORD100016,18-06-2024,1013,Simran Mishra,Corporate,South,Hyderabad,Home & Kitchen,Mixer Grinder,4,4200,0.25,-10080,-403.2,Cash on Delivery,Returned
+ORD100017,13-06-2025,1014,Yash Singh,Consumer,North,Jaipur,Electronics,Laptop,2,55000,0.2,88000,2200,UPI,Delivered
+ORD100018,25-12-2025,1015,Yash Verma,Corporate,North,Lucknow ,Electronics,Headphones,2,2500,0.1,-3600,-480,Credit Card,Returned
+ORD100019,06-07-2025,1016,Nisha Agarwal,Consumer,East,Bhubaneswar,Fashion,Sneakers,4,3200,0.05,12160,4736,Cash on Delivery,Delivered
+ORD100020,28-12-2024,1017,Pooja Sharma,Consumer,North,Delhi,Home & Kitchen,Cookware Set,3,3200,0,9600,2688,Credit Card,Delivered
+ORD100021,03-07-2025,1018,Isha Gupta,Consumer,West,Surat,Furniture,Study Table,1,8500,0.15,0,0,UPI,Cancelled
+ORD100022,29-10-2025,1001,Ananya Singh,Corporate,South,Bengaluru,Furniture,Study Table,2,8500,0.15,14450,2890,Credit Card,Delivered
+ORD100023,14-02-2025,1006,Meera Singh,Corporate,South,Kochi,Electronics,Laptop,4,55000,0.1,198000,26400,Cash on Delivery,Delivered
+ORD100024,14-12-2025,1018,Isha Gupta,Consumer,West,Surat,Electronics,Keyboard,2,1800,0.1,3240,432,Net Banking,Delivered
+ORD100025,09-07-2025,1019,Priya Sharma,Consumer,North,Chandigarh,Fashion,Backpack,2,1500,0,0,0,Credit Card,Cancelled
+ORD100026,11-03-2024,1020,Yash Mishra,Corporate,North,Lucknow,Beauty,Perfume,1,1800,0.2,1440,450,Net Banking,Delivered
+ORD100027,01-08-2025,1021,Ananya Singh,Home Office,West,Pune,Furniture,Bookshelf,4,4500,0.05,-13680,-3888,Debit Card,Returned
+ORD100028,13-04-2025,1022,Aditya Sharma,Consumer,East,Kolkata,Electronics,Headphones,2,2500,0.2,4000,100,Debit Card,Delivered
+ORD100029,11-03-2024,1012,Nisha Verma,Corporate,North,Jaipur,Electronics,Mouse,4,900,0.2,-2304,-57.6,Net Banking,Returned
+ORD100030,31-10-2025,1023,Meera Kumar,Home Office,North,Lucknow,Furniture,Bookshelf,1,4500,0,-3600,-1152,Credit Card,Returned
+ORD100031,05-10-2024,1024,Karan Yadav,Consumer,South,Chennai,Fashion,Backpack,4,1500,0.1,5400,1920,Cash on Delivery,Delivered
+ORD100032,10-10-2024,1025,Priya Gupta,Consumer,West,Pune,Fashion,Jeans,4,1800,0.2,5760,1584,UPI,Delivered
+ORD100033,08-12-2025,1018,Isha Gupta,Consumer,West,Mumbai,Home & Kitchen,Coffee Maker,2,3800,0.15,6460,988,Debit Card,Delivered
+ORD100034,08-01-2025,1002,Riya Agarwal,Corporate,North,Jaipur,Furniture,Office Chair,2,6500,0.25,9750,910,Net Banking,Delivered
+ORD100035,20-02-2025,1024,Karan Yadav,Consumer,South,Hyderabad,Furniture,Study Table,2,8500,0.05,16150,4590,Credit Card,Delivered
+ORD100036,06-12-2024,1014,Yash Singh,Corporate,North,Lucknow,Furniture,Bookshelf,2,4500,0.25,6750,630,UPI,Delivered
+ORD100037,26-04-2025,1026,Pooja Yadav,Corporate,West,Pune,Furniture,Study Table,1,8500,0.25,6375,595,Debit Card,Delivered
+ORD100038,12-10-2024,1025,Priya Gupta,Corporate,West,Ahmedabad,Home & Kitchen,Coffee Maker,4,3800,0.25,0,0,UPI,Cancelled
+ORD100039,28-04-2024,1009,Nisha Mishra,Home Office,West,Pune,Beauty,Perfume,3,1800,0,5400,2430,Cash on Delivery,Delivered
+ORD100040,19-12-2024,1011,Neha Gupta,Consumer,North,Chandigarh,Beauty,Hair Dryer,1,2200,0.15,0,0,Debit Card,Cancelled
+ORD100041,15-02-2024,1027,Aarav Jain,Home Office,South,Chennai,Fashion,T-Shirt,1,900,0.25,675,153,Debit Card,Delivered
+ORD100042,10-11-2025,1024,Karan Yadav,Corporate,South,Chennai,Fashion,Backpack,3,1500,0.25,3375,765,Cash on Delivery,Delivered
+ORD100043,14-12-2025,1028,Rohan Singh,Consumer,East,Ranchi,Electronics,Mouse,3,900,0.15,0,0,Debit Card,Cancelled
+ORD100044,20-10-2024,1029,Nisha Agarwal,Home Office,West,Surat,Fashion,Jeans,4,1800,0.25,5400,1224,Cash on Delivery,Delivered
+ORD100045,22-06-2024,1030,Aditi Jain,Consumer,West,Mumbai,Furniture,Study Table,3,8500,0.05,24225,6885,UPI,Delivered
+ORD100046,17-02-2024,1031,Sneha Agarwal,Corporate,North,Chandigarh,Fashion,T-Shirt,2,900,0.25,-1080,-244.8,Cash on Delivery,Returned
+ORD100047,13-02-2025,1032,Aarav Verma,Consumer,East,Bhubaneswar,Electronics,Mouse,4,900,0,0,0,UPI,Cancelled
+ORD100048,12-04-2025,1033,Pooja Jain,Consumer,West,Surat,Beauty,Hair Dryer,4,2200,0.2,7040,2200,Cash on Delivery,Delivered
+ORD100049,05-04-2025,1034,Yash Kumar,Corporate,East,Bhubaneswar,Furniture,Bookshelf,4,4500,0,-14400,-4608,Credit Card,Returned
+ORD100050,05-10-2024,1035,Meera Verma,Home Office,South,Hyderabad,Furniture,Study Table,4,8500,0.25,25500,2380,Credit Card,Delivered
+ORD100051,06-03-2024,1036,Priya Jain,Home Office,East,Ranchi,Electronics,Smartphone,2,28000,0.15,47600,3920,UPI,Delivered
+ORD100052,12-08-2025,1037,Aarav Yadav,Corporate,West,Surat,Fashion,T-Shirt,2,900,0.15,1530,486,Cash on Delivery,Delivered
+ORD100053,12-05-2025,1038,Priya Mishra,Home Office,South,Kochi,Electronics,Keyboard,1,1800,0.15,0,0,UPI,Cancelled
+ORD100054,26-03-2024,1039,Rohan Patel,Corporate,South,Bengaluru,Furniture,Bookshelf,4,4500,0.1,16200,3960,Debit Card,Delivered
+ORD100055,11-12-2024,1025,Priya Gupta,Consumer,West,Ahmedabad,Fashion,T-Shirt,3,900,0,2700,1134,Net Banking,Delivered
+ORD100056,23-02-2024,1023,Meera Kumar,Consumer,North,Lucknow,Electronics,Headphones,1,2500,0,2500,550,UPI,Delivered
+ORD100057,28-09-2025,1040,Rohan Patel,Home Office,North,Lucknow,Fashion,Jeans,3,1800,0.1,4860,1728,Net Banking,Delivered
+ORD100058,27-04-2024,1011,Neha Gupta,Home Office,North,Jaipur,Electronics,Smartwatch,1,5000,0.1,0,0,Cash on Delivery,Cancelled
+ORD100059,10-02-2025,1013,Simran Mishra,Corporate,South,Bengaluru,Beauty,Perfume,2,1800,0,-2880,-1296,Net Banking,Returned
+ORD100060,03-05-2024,1037,Aarav Yadav,Consumer,West,Mumbai,Home & Kitchen,Coffee Maker,4,3800,0.25,11400,456,Net Banking,Delivered
+ORD100061,25-10-2025,1041,Isha Patel,Corporate,North,Chandigarh,Home & Kitchen,Coffee Maker,4,3800,0.25,11400,456,Credit Card,Delivered
+ORD100062,18-06-2025,1018,Isha Gupta,Corporate,West,Surat,Fashion,Jeans,4,1800,0.25,0,0,Debit Card,Cancelled
+ORD100063,08-09-2024,1006,Meera Singh,Home Office,South,Chennai,Fashion,Jeans,2,1800,0.15,0,0,Cash on Delivery,Cancelled
+ORD100064,10-12-2024,1042,Priya Gupta,Home Office,East,Bhubaneswar,Home & Kitchen,Coffee Maker,3,3800,0.1,10260,2052,UPI ,Delivered
+ORD100065,23-07-2025,1043,Karan Verma,Home Office,South,Kochi,Fashion,Sneakers,2,3200,0.25,4800,1088,Cash on Delivery,Delivered
+ORD100066,03-04-2025,1006,Meera Singh,Corporate,South,Chennai,Furniture,Study Table,4,8500,0.25,25500,2380,Net Banking,Delivered
+ORD100067,12-01-2025,1044,Riya Yadav,Corporate,East,Patna,Home & Kitchen,Coffee Maker,4,3800,0.1,13680,2736,Credit Card,Delivered
+ORD100068,03-05-2024,1021,Ananya Singh,Home Office,West,Mumbai,Beauty,Face Wash,2,450,0.05,855,360,Cash on Delivery,Delivered
+ORD100069,10-10-2024,1034,Yash Kumar,Corporate,East,Patna,Electronics,Smartwatch,2,5000,0.1,9000,1200,Credit Card,Delivered
+ORD100070,05-11-2024,1045,Meera Gupta,Home Office,West,Mumbai,Electronics,Smartphone,3,28000,0.25,63000,-2520,Cash on Delivery,Delivered
+ORD100071,15-04-2024,1037,Aarav Yadav,Consumer,West,Ahmedabad,Fashion,Sneakers,4,3200,0.15,10880,3456,UPI,Delivered
+ORD100072,15-09-2024,1031,Sneha Agarwal,Home Office,North,Delhi,Electronics,Headphones,4,2500,0.15,8500,700,UPI,Delivered
+ORD100073,04-06-2024,1046,Nisha Kumar,Home Office,North,Lucknow,Electronics,Smartwatch,4,5000,0.2,0,0,Credit Card,Cancelled
+ORD100074,19-06-2025,1047,Pooja Kumar,Consumer,East,Patna,Beauty,Perfume,1,1800,0.2,-1152,-360,Credit Card,Returned
+ORD100075,02-10-2025,1048,Aditya Gupta,Corporate,South,Hyderabad,Beauty,Face Wash,1,450,0.05,427.5,180,Cash on Delivery,Delivered
+ORD100076,06-12-2025,1049,Aditi Sharma,Consumer,South,Chennai,Home & Kitchen,Mixer Grinder,4,4200,0,-13440,-3763.2,Debit Card,Returned
+ORD100077,02-10-2025,1050,Karan Mishra,Consumer,North,Lucknow,Electronics,Keyboard,3,1800,0.05,5130,918,Credit Card,Delivered
+ORD100078,10-11-2024,1051,Nisha Kumar,Corporate,East,Kolkata,Fashion,Jeans,3,1800,0.25,4050,918,Net Banking,Delivered
+ORD100079,06-07-2025,1052,Aditya Agarwal,Consumer,North,Chandigarh,Home & Kitchen,Air Fryer,3,6500,0,19500,5460,Net Banking,Delivered
+ORD100080,24-08-2025,1049,Aditi Sharma,Home Office,South,Chennai,Beauty,Perfume,1,1800,0.05,1710,720,Cash on Delivery,Delivered
+ORD100081,11-10-2024,1053,Nisha Mishra,Corporate,East,Kolkata,Fashion,Sneakers,3,3200,0.15,8160,2592,UPI,Delivered
+ORD100082,13-06-2024,1054,Sneha Kumar,Corporate,East,Kolkata,Fashion,Jeans,1,1800,0.1,1620,576,UPI,Delivered
+ORD100083,17-02-2025,1053,Nisha Mishra,Consumer,East,Kolkata,Beauty,Face Wash,4,450,0.15,1530,540,Net Banking,Delivered
+ORD100084,05-01-2025,1055,Sneha Patel,Home Office,North,Lucknow,Furniture,Bookshelf,2,4500,0.1,8100,1980,Cash on Delivery,Delivered
+ORD100085,04-05-2024,1056,Simran Singh,Consumer,South,Chennai,Beauty,Face Wash,1,450,0.2,360,112.5,Credit Card,Delivered
+ORD100086,26-04-2024,1057,Arjun Gupta,Corporate,East,Patna,Fashion,Backpack,3,1500,0.15,3825,1215,Credit Card,Delivered
+ORD100087,12-04-2025,1058,Kavya Singh,Corporate,South,Bengaluru,Furniture,Bookshelf,4,4500,0.1,0,0,UPI,Cancelled
+ORD100088,16-10-2024,1054,Sneha Kumar,Corporate,East,Ranchi,Electronics,Keyboard,4,1800,0.2,5760,144,Debit Card,Delivered
+ORD100089,19-07-2025,1025,Priya Gupta,Home Office,West,Surat,Home & Kitchen,Air Fryer,2,6500,0.25,9750,390,Cash on Delivery,Delivered
+ORD100090,27-08-2024,1027,Aarav Jain,Corporate,South,Bengaluru,Home & Kitchen,Air Fryer,4,6500,0.25,19500,780,Credit Card,Delivered
+ORD100091,22-05-2025,1009,Nisha Mishra,Corporate,West,Ahmedabad,Electronics,Smartwatch,4,5000,0,0,0,UPI,Cancelled
+ORD100092,27-05-2024,1059,Rohan Verma,Corporate,East,Patna,Home & Kitchen,Air Fryer,4,6500,0.25,19500,780,Net Banking,Delivered
+ORD100093,24-01-2025,1041,Isha Patel,Consumer,North,Chandigarh,Beauty,Face Wash,1,450,0.2,360,112.5,Debit Card,Delivered
+ORD100094,20-08-2024,1028,Rohan Singh,Corporate,East,Kolkata,Electronics,Smartwatch,4,5000,0.05,-15200,-2720,UPI,Returned
+ORD100095,17-02-2024,1060,Vivaan Kumar,Corporate,West,Ahmedabad,Fashion,T-Shirt,2,900,0.05,0,0,Net Banking,Cancelled
+ORD100096,29-11-2025,1011,Neha Gupta,Consumer,North,Lucknow,Electronics,Headphones,4,2500,0.2,-6400,-160,Cash on Delivery,Returned
+ORD100097,20-08-2025,1061,Pooja Kumar,Home Office,East,Patna,Electronics,Laptop,4,55000,0.1,-158400,-21120,Credit Card,Returned
+ORD100098,16-03-2024,1062,Neha Agarwal,Corporate,West,Surat,Furniture,Bookshelf,4,4500,0.1,16200,3960,Cash on Delivery,Delivered
+ORD100099,19-04-2024,1063,Nisha Yadav,Home Office,West,Ahmedabad,Electronics,Laptop,4,55000,0.1,198000,26400,UPI,Delivered
+ORD100100,12-09-2025,1054,Sneha Kumar,Consumer,East,Patna,Furniture,Study Table,3,8500,0.05,-19380,-5508,Net Banking,Returned
+ORD100101,13-09-2024,1064,Rohan Verma,Home Office,North,Jaipur,Fashion,Jeans,1,1800,0.2,1440,396,Credit Card,Delivered
+ORD100102,02-04-2024,1042,Priya Gupta,Corporate,East,Ranchi,Electronics,Mouse,2,900,0.05,0,0,Net Banking,Cancelled
+ORD100103,28-05-2025,1022,Aditya Sharma,Consumer,East,Patna,Fashion,Sneakers,3,3200,0.25,7200,1632,Cash on Delivery,Delivered
+ORD100104,18-03-2024,1065,Yash Mishra,Consumer,West,Mumbai,Home & Kitchen,Cookware Set,1,3200,0.1,0,0,Cash on Delivery,Cancelled
+ORD100105,12-01-2025,1066,Ananya Agarwal,Home Office,East,Patna,Electronics,Smartwatch,2,5000,0.15,8500,700,Net Banking,Delivered
+ORD100106,01-12-2024,1029,Nisha Agarwal,Consumer,West,Mumbai,Fashion,Jeans,3,1800,0.25,4050,918,Credit Card,Delivered
+ORD100107,16-02-2024,1039,Rohan Patel,Consumer,South,Kochi,Electronics,Smartwatch,1,5000,0.05,0,0,Cash on Delivery,Cancelled
+ORD100108,09-04-2025,1067,Meera Mishra,Corporate,South,Kochi,Electronics,Smartwatch,4,5000,0.2,16000,400,UPI,Delivered
+ORD100109,07-12-2025,1068,Pooja Patel,Corporate,South,Chennai,Electronics,Smartwatch,3,5000,0.2,-9600,-240,UPI,Returned
+ORD100110,11-02-2025,1069,Arjun Patel ,Consumer,North,Lucknow,Beauty,Hair Dryer,1,2200,0,2200,990,Credit Card,Delivered
+ORD100111,01-08-2025,1070,Meera Singh,Corporate,South,Hyderabad,Home & Kitchen,Air Fryer,2,6500,0.2,10400,1040,Credit Card,Delivered
+ORD100112,13-05-2024,1071,Rahul Verma,Corporate,North,Lucknow,Electronics,Laptop,3,55000,0.05,0,0,UPI,Cancelled
+ORD100113,27-06-2024,1072,Rohan Mishra,Home Office,North,Delhi,Fashion,Sneakers,4,3200,0.1,0,0,UPI,Cancelled
+ORD100114,07-04-2025,1073,Simran Sharma,Corporate,West,Surat,Electronics,Laptop,1,55000,0.15,46750,3850,UPI,Delivered
+ORD100115,17-05-2025,1074,Pooja Verma,Corporate,North,Jaipur,Beauty,Hair Dryer,2,2200,0,4400,1980,Net Banking,Delivered
+ORD100116,10-10-2025,1075,Priya Mishra,Consumer,West,Surat,Fashion,Backpack,4,1500,0,-4800,-2016,Net Banking,Returned
+ORD100117,08-08-2024,1076,Yash Mishra,Corporate,West,Surat,Home & Kitchen,Cookware Set,4,3200,0.25,9600,384,Cash on Delivery,Delivered
+ORD100118,16-11-2024,1077,Neha Gupta,Consumer,East,Kolkata,Electronics,Headphones,1,2500,0,2500,550,Debit Card,Delivered
+ORD100119,13-05-2024,1078,Nisha Jain,Home Office,West,Mumbai,Fashion,T-Shirt,3,900,0.25,2025,459,UPI,Delivered
+ORD100120,21-10-2024,1079,Neha Verma,Home Office,South,Hyderabad,Fashion,Sneakers,2,3200,0,6400,2688,Debit Card,Delivered
+ORD100121,27-04-2024,1074,Pooja Verma,Home Office,North,Lucknow,Fashion,T-Shirt,1,900,0.2,-576,-158.4,Debit Card,Returned
+ORD100122,30-01-2024,1080,Aditi Yadav,Corporate,West,Mumbai,Electronics,Mouse,2,900,0.2,-1152,-28.8,UPI,Returned
+ORD100123,25-05-2024,1004,Neha Agarwal,Corporate,South,Bengaluru,Fashion,Backpack,2,1500,0.15,2550,810,Debit Card,Delivered
+ORD100124,10-06-2024,1081,Priya Agarwal,Home Office,North,Delhi,Electronics,Keyboard,2,1800,0.2,2880,72,UPI,Delivered
+ORD100125,05-10-2024,1082,Isha Patel,Corporate,East,Ranchi,Furniture,Bookshelf,2,4500,0.2,7200,1080,Cash on Delivery,Delivered
+ORD100126,23-04-2024,1083,Nisha Patel,Consumer,West,Mumbai,Furniture,Study Table,4,8500,0.2,27200,4080,Credit Card,Delivered
+ORD100127,04-11-2024,1018,Isha Gupta,Corporate,West,Ahmedabad,Home & Kitchen,Mixer Grinder,3,4200,0,12600,3528,Cash on Delivery,Delivered
+ORD100128,28-06-2024,1084,Meera Singh,Corporate,West,Mumbai,Home & Kitchen,Cookware Set,1,3200,0.15,2720,416,UPI,Delivered
+ORD100129,16-11-2024,1085,Nisha Mishra,Consumer,East,Patna,Electronics,Smartwatch,4,5000,0,20000,4400,Net Banking,Delivered
+ORD100130,16-04-2025,1047,Pooja Kumar,Home Office,East,Kolkata,Fashion,T-Shirt,1,900,0.05,855,333,Cash on Delivery,Delivered
+ORD100131,20-06-2025,1086,Aditi Yadav,Consumer,South,Chennai,Electronics,Mouse,1,900,0.2,-576,-14.4,Net Banking,Returned
+ORD100132,06-06-2025,1087,Neha Yadav,Consumer,South,Hyderabad,Electronics,Smartwatch,2,5000,0.1,9000,1200,Net Banking,Delivered
+ORD100133,05-06-2024,1084,Meera Singh,Home Office,West,Mumbai,Electronics,Mouse,4,900,0.15,0,0,Cash on Delivery,Cancelled
+ORD100134,28-11-2025,1073,Simran Sharma,Corporate,West,Ahmedabad,Home & Kitchen,Air Fryer,2,6500,0.15,11050,1690,Cash on Delivery,Delivered
+ORD100135,08-10-2025,1088,Ananya Agarwal,Corporate,North,Jaipur,Fashion,Backpack,1,1500,0.1,1350,480,UPI,Delivered
+ORD100136,28-02-2024,1089,Aditi Verma,Home Office,North,Chandigarh,Fashion,Jeans,1,1800,0.15,0,0,Credit Card,Cancelled
+ORD100137,25-11-2024,1090,Riya Gupta,Home Office,North,Chandigarh,Electronics,Smartwatch,3,5000,0.25,11250,-450,Credit Card,Delivered
+ORD100138,10-02-2024,1091,Pooja Patel,Corporate,South,Chennai,Home & Kitchen,Coffee Maker,3,3800,0.15,9690,1482,Net Banking,Delivered
+ORD100139,23-02-2024,1083,Nisha Patel,Home Office,West,Ahmedabad,Electronics,Headphones,3,2500,0,0,0,Cash on Delivery,Cancelled
+ORD100140,17-10-2024,1092,Simran Gupta,Home Office,West,Mumbai,Beauty,Perfume,2,1800,0.1,3240,1260,Cash on Delivery,Delivered
+ORD100141,12-05-2024,1093,Aditya Kumar,Corporate,East,Patna,Electronics,Keyboard,1,1800,0.25,-1080,-43.2,Net Banking,Returned
+ORD100142,05-01-2025,1094,Aditi Gupta,Consumer,South,Chennai,Fashion,Sneakers,2,3200,0.05,6080,2368,UPI,Delivered
+ORD100143,29-10-2024,1013,Simran Mishra,Consumer,South,Bengaluru,Home & Kitchen,Air Fryer,2,6500,0.2,10400,1040,Credit Card,Delivered
+ORD100144,04-07-2024,1080,Aditi Yadav,Home Office,West,Pune,Fashion,Jeans,1,1800,0.15,1530,486,Credit Card,Delivered
+ORD100145,30-03-2025,1095,Pooja Singh,Home Office,South,Chennai,Fashion,Sneakers,2,3200,0.1,-4608,-1638.4,Cash on Delivery,Returned
+ORD100146,17-04-2025,1049,Aditi Sharma,Corporate,South,Kochi,Electronics,Mouse,2,900,0.2,1440,36,UPI,Delivered
+ORD100147,18-10-2025,1096,Neha Jain,Corporate,North,Delhi,Home & Kitchen,Mixer Grinder,1,4200,0.05,3990,966,Net Banking,Delivered
+ORD100148,30-05-2024,1012,Nisha Verma,Consumer,North,Lucknow,Fashion,Jeans,3,1800,0,5400,2268,Cash on Delivery,Delivered
+ORD100149,29-05-2025,1097,Kavya Verma,Home Office,West,Pune,Electronics,Laptop,3,55000,0,-132000,-29040,Debit Card,Returned
+ORD100150,29-05-2024,1098,Aditi Patel,Corporate,South,Kochi,Fashion,Jeans,1,1800,0,1800,756,Credit Card,Delivered
+ORD100151,02-06-2024,1099,Simran Jain,Consumer,East,Kolkata,Home & Kitchen,Mixer Grinder,2,4200,0.1,7560,1512,Credit Card,Delivered
+ORD100152,05-03-2025,1100,Simran Patel,Home Office,North,Delhi,Fashion,Sneakers,1,3200,0.25,0,0,Credit Card,Cancelled
+ORD100153,27-05-2024,1101,Aarav Agarwal,Home Office,West,Pune,Beauty,Perfume,4,1800,0.05,-5472,-2304,UPI,Returned
+ORD100154,20-06-2025,1009,Nisha Mishra,Corporate,West,Mumbai,Home & Kitchen,Cookware Set,4,3200,0,-10240,-2867.2,Debit Card,Returned
+ORD100155,16-09-2024,1046,Nisha Kumar,Home Office,North,Delhi,Home & Kitchen,Coffee Maker,2,3800,0.25,-4560,-182.4,UPI,Returned
+ORD100156,18-08-2025,1043,Karan Verma,Home Office,South,Hyderabad,Electronics,Smartphone,3,28000,0.2,67200,1680,Credit Card,Delivered
+ORD100157,02-12-2025,1102,Sneha Gupta,Consumer,South,Bengaluru,Fashion,Jeans,1,1800,0.1,1620,576,Credit Card,Delivered
+ORD100158,12-02-2024,1103,Aditi Jain,Corporate,East,Ranchi,Furniture,Bookshelf,1,4500,0.25,3375,315,Debit Card,Delivered
+ORD100159,18-02-2024,1043,Karan Verma,Home Office,South,Chennai,Electronics,Smartwatch,3,5000,0.15,12750,1050,Cash on Delivery,Delivered
+ORD100160,30-01-2025,1104,Rahul Patel,Corporate,East,Patna,Fashion,Backpack,3,1500,0,-3600,-1512,UPI,Returned
+ORD100161,16-03-2025,1105,Rahul Jain,Corporate,West,Ahmedabad,Electronics,Smartwatch,1,5000,0.1,-3600,-480,Debit Card,Returned
+ORD100162,01-04-2025,1106,Isha Gupta,Home Office,East,Patna,Fashion,Jeans,1,1800,0.25,1350,306,Cash on Delivery,Delivered
+ORD100163,08-10-2024,1107,Vivaan Verma,Home Office,East,Patna,Fashion,Backpack,2,1500,0,3000,1260,Cash on Delivery,Delivered
+ORD100164,05-02-2024,1108,Yash Yadav,Home Office,West,Surat,Beauty,Perfume,1,1800,0.2,1440,450,Cash on Delivery,Delivered
+ORD100165,14-01-2025,1109,Aditya Agarwal,Consumer,South,Chennai,Home & Kitchen,Cookware Set,3,3200,0.25,7200,288,UPI,Delivered
+ORD100166,27-01-2024,1064,Rohan Verma,Home Office,North,Chandigarh,Beauty,Face Wash,1,450,0.1,405,157.5,Cash on Delivery,Delivered
+ORD100167,07-08-2024,1037,Aarav Yadav,Corporate,West,Surat,Furniture,Office Chair,1,6500,0.05,6175,1755,Credit Card,Delivered
+ORD100168,31-12-2025,1110,Aditya Yadav,Home Office,West,Mumbai,Beauty,Face Wash,3,450,0.1,1215,472.5,Credit Card,Delivered
+ORD100169,05-01-2025,1111,Arjun Singh,Home Office,South,Hyderabad,Fashion,Sneakers,1,3200,0.1,0,0,Debit Card,Cancelled
+ORD100170,23-04-2025,1071,Rahul Verma,Corporate,North,Lucknow,Beauty,Hair Dryer,1,2200,0,2200,990,Cash on Delivery,Delivered
+ORD100171,22-06-2025,1112,Isha Agarwal,Home Office,North,Lucknow,Home & Kitchen,Air Fryer,1,6500,0.15,5525,845,Net Banking,Delivered
+ORD100172,18-12-2024,1113,Meera Agarwal,Consumer,South,Hyderabad,Fashion,T-Shirt,1,900,0,0,0,Debit Card,Cancelled
+ORD100173,17-06-2024,1114,Yash Yadav,Corporate,West,Mumbai,Furniture,Bookshelf,2,4500,0.25,0,0,Credit Card,Cancelled
+ORD100174,02-10-2025,1115,Meera Verma,Consumer,South,Hyderabad,Electronics,Mouse,3,900,0.2,2160,54,UPI,Delivered
+ORD100175,16-02-2024,1099,Simran Jain,Consumer,East,Patna,Furniture,Office Chair,4,6500,0.2,-16640,-2496,Cash on Delivery,Returned
+ORD100176,04-10-2025,1116,Aditi Patel,Consumer,South,Kochi,Home & Kitchen,Mixer Grinder,4,4200,0,-13440,-3763.2,Credit Card,Returned
+ORD100177,26-03-2025,1117,Pooja Singh,Corporate,West,Pune,Home & Kitchen,Air Fryer,3,6500,0.25,14625,585,Credit Card,Delivered
+ORD100178,14-01-2025,1118,Arjun Yadav,Consumer,South,Kochi,Electronics,Smartwatch,3,5000,0.15,12750,1050,UPI,Delivered
+ORD100179,21-02-2024,1119,Kavya Agarwal,Corporate,East,Bhubaneswar,Electronics,Mouse,3,900,0.2,-1728,-43.2,Credit Card,Returned
+ORD100180,12-06-2024,1120,Riya Patel,Home Office,East,Patna,Fashion,Sneakers,1,3200,0,3200,1344,Cash on Delivery,Delivered
+ORD100181,03-09-2024,1121,Neha Sharma,Consumer,North,Jaipur,Fashion,Sneakers,4,3200,0.1,0,0,UPI,Cancelled
+ORD100182,17-03-2025,1122,Ananya Yadav,Home Office,East,Patna,Electronics,Smartphone,4,28000,0,0,0,Credit Card,Cancelled
+ORD100183,06-01-2025,1123,Aditya Mishra,Corporate,East,Patna,Beauty,Hair Dryer,1,2200,0.05,2090,880,Debit Card,Delivered
+ORD100184,13-12-2024,1124,Neha Gupta,Consumer,South,Kochi,Fashion,Backpack,1,1500,0,1500,630,Debit Card,Delivered
+ORD100185,30-04-2025,1125,Rohan Agarwal,Home Office,South,Chennai,Beauty,Hair Dryer,3,2200,0.05,6270,2640,Debit Card,Delivered
+ORD100186,30-08-2025,1126,Riya Jain,Home Office,East,Patna,Fashion,Sneakers,1,3200,0.1,2880,1024,UPI,Delivered
+ORD100187,02-03-2025,1127,Aarav Agarwal,Home Office,East,Patna,Beauty,Perfume,2,1800,0.25,2700,720,Cash on Delivery,Delivered
+ORD100188,23-06-2024,1128,Simran Mishra,Corporate,South,Hyderabad,Electronics,Smartphone,1,28000,0.05,26600,4760,Debit Card,Delivered
+ORD100189,04-03-2025,1129,Karan Mishra,Home Office,East,Kolkata,Electronics,Keyboard,2,1800,0.2,2880,72,Cash on Delivery,Delivered
+ORD100190,22-06-2025,1130,Rahul Patel,Corporate,West,Ahmedabad,Furniture,Bookshelf,4,4500,0.05,17100,4860,Net Banking,Delivered
+ORD100191,01-11-2024,1131,Aditi Kumar,Home Office,South,Kochi,Home & Kitchen,Air Fryer,4,6500,0.1,0,0,Debit Card,Cancelled
+ORD100192,21-10-2024,1132,Meera Mishra,Home Office,East,Patna,Electronics,Keyboard,3,1800,0,5400,1188,UPI,Delivered
+ORD100193,20-12-2024,1066,Ananya Agarwal,Home Office,East,Ranchi,Furniture,Office Chair,2,6500,0.2,10400,1560,Debit Card,Delivered
+ORD100194,20-05-2024,1133,Nisha Singh,Consumer,South,Bengaluru,Fashion,Backpack,2,1500,0.25,2250,510,UPI,Delivered
+ORD100195,27-02-2025,1134,Sneha Verma,Corporate,South,Bengaluru,Beauty,Face Wash,2,450,0.15,-612,-216,Cash on Delivery,Returned
+ORD100196,28-10-2025,1135,Aditi Yadav,Home Office,West,Mumbai,Electronics,Headphones,2,2500,0.2,-3200,-80,UPI,Returned
+ORD100197,28-06-2024,1136,Rahul Sharma,Corporate,East,Ranchi,Electronics,Mouse,3,900,0,2700,594,Net Banking,Delivered
+ORD100198,09-09-2025,1137,Priya Kumar,Consumer,East,Ranchi,Electronics,Keyboard,4,1800,0.1,6480,864,Debit Card,Delivered
+ORD100199,15-06-2024,1066,Ananya Agarwal,Home Office,East,Bhubaneswar,Electronics,Laptop,3,55000,0.1,0,0,Credit Card,Cancelled
+ORD100200,28-06-2024,1138,Kavya Mishra,Corporate,West,Mumbai,Home & Kitchen,Cookware Set,1,3200,0.05,3040,736,Debit Card,Delivered
+ORD100201,11-09-2024,1139,Kavya Singh,Home Office,East,Patna,Home & Kitchen,Air Fryer,3,6500,0.2,-12480,-1248,UPI,Returned
+ORD100202,24-09-2024,1140,Yash Sharma,Home Office,North,Chandigarh,Home & Kitchen,Mixer Grinder,2,4200,0.15,-5712,-873.6,Debit Card,Returned
+ORD100203,07-12-2025,1141,Aditi Yadav,Home Office,South,Hyderabad,Electronics,Keyboard,4,1800,0.05,6840,1224,Net Banking,Delivered
+ORD100204,17-01-2025,1142,Meera Patel,Home Office,South,Hyderabad,Beauty,Hair Dryer,1,2200,0.2,1760,550,Debit Card,Delivered
+ORD100205,20-03-2024,1029,Nisha Agarwal,Consumer,West,Mumbai,Beauty,Face Wash,2,450,0.2,0,0,Credit Card,Cancelled
+ORD100206,01-12-2024,1114,Yash Yadav,Corporate,West,Mumbai,Furniture,Office Chair,4,6500,0,0,0,UPI,Cancelled
+ORD100207,09-04-2025,1143,Isha Patel,Consumer,North,Chandigarh,Home & Kitchen,Mixer Grinder,1,4200,0.15,3570,546,Credit Card,Delivered
+ORD100208,15-08-2025,1144,Isha Yadav,Corporate,North,Delhi,Electronics,Headphones,4,2500,0,10000,2200,Credit Card,Delivered
+ORD100209,18-05-2024,1108,Yash Yadav,Consumer,West,Ahmedabad,Home & Kitchen,Cookware Set,4,3200,0.15,10880,1664,Net Banking,Delivered
+ORD100210,16-05-2024,1145,Neha Verma,Consumer,South,Kochi,Fashion,Backpack,2,1500,0.25,2250,510,UPI,Delivered
+ORD100211,01-11-2024,1146,Meera Mishra,Corporate,East,Bhubaneswar,Furniture,Study Table,4,8500,0.1,30600,7480,Credit Card,Delivered
+ORD100212,25-04-2024,1147,Isha Agarwal,Consumer,North,Lucknow,Furniture,Office Chair,1,6500,0,0,0,Cash on Delivery,Cancelled
+ORD100213,04-09-2025,1148,Vivaan Singh,Consumer,North,Chandigarh,Fashion,Jeans,2,1800,0.2,2880,792,Credit Card,Delivered
+ORD100214,30-05-2025,1060,Vivaan Kumar,Consumer,West,Ahmedabad,Beauty,Perfume,3,1800,0.05,5130,2160,Net Banking,Delivered
+ORD100215,14-08-2024,1149,Ananya Sharma,Home Office,South,Kochi,Beauty,Face Wash,4,450,,1800,810,Cash on Delivery,Delivered
+ORD100216,21-06-2025,1150,Isha Mishra,Consumer,South,Chennai,Home & Kitchen,Cookware Set,2,3200,0.2,5120,512,Credit Card,Delivered
+ORD100217,03-11-2024,1037,Aarav Yadav,Home Office,West,Surat,Electronics,Smartphone,4,28000,0.15,0,0,Credit Card,Cancelled
+ORD100218,01-02-2025,1151,Karan Yadav,Consumer,North,Chandigarh,Home & Kitchen,Coffee Maker,1,3800,0.2,-2432,-243.2,UPI,Returned
+ORD100219,01-10-2024,1152,Simran Agarwal,Corporate,North,Delhi,Furniture,Office Chair,2,6500,0.15,11050,2210,Debit Card,Delivered
+ORD100220,16-01-2024,1153,Karan Verma,Home Office,East,Bhubaneswar,Beauty,Hair Dryer,2,2200,0.15,3740,1320,Debit Card,Delivered
+ORD100221,16-10-2024,1154,Meera Yadav,Home Office,West,Ahmedabad,Home & Kitchen,Coffee Maker,4,3800,0.15,12920,1976,Cash on Delivery,Delivered
+ORD100222,23-11-2024,1095,Pooja Singh,Home Office,South,Chennai,Fashion,T-Shirt,1,900,0.2,720,198,Credit Card,Delivered
+ORD100223,17-01-2024,1155,Nisha Agarwal,Corporate,East,Patna,Electronics,Keyboard,2,1800,0.1,3240,432,Net Banking,Delivered
+ORD100224,08-09-2024,1156,Priya Kumar,Consumer,East,Ranchi,Fashion,Jeans,2,1800,0.25,2700,612,Credit Card,Delivered
+ORD100225,13-07-2025,1157,Meera Sharma,Home Office,North,Delhi,Electronics,Smartphone,1,28000,0.15,23800,1960,Credit Card,Delivered
+ORD100226,10-03-2024,1158,Aarav Singh,Consumer,East,Patna,Electronics,Smartphone,4,28000,0.25,84000,-3360,UPI,Delivered
+ORD100227,28-06-2025,1159,Aarav Sharma,Consumer,West,Ahmedabad,Electronics,Laptop,4,55000,0.05,209000,37400,Net Banking,Delivered
+ORD100228,01-06-2024,1160,Simran Jain,Corporate,West,Ahmedabad,Furniture,Bookshelf,4,4500,0,18000,5760,Cash on Delivery,Delivered
+ORD100229,01-08-2025,1161,Yash Kumar,Home Office,North,Delhi,Electronics,Headphones,4,2500,0.15,8500,700,Cash on Delivery,Delivered
+ORD100230,27-02-2024,1162,Rahul Verma,Consumer,East,Ranchi,Home & Kitchen,Air Fryer,1,6500,0.2,5200,520,Credit Card,Delivered
+ORD100231,09-12-2025,1122,Ananya Yadav,Home Office,East,Patna,Electronics,Smartphone,1,28000,0.25,21000,-840,Net Banking,Delivered
+ORD100232,04-11-2025,1163,Priya Sharma,Home Office,South,Hyderabad,Home & Kitchen,Cookware Set,1,3200,0.1,2880,576,Credit Card,Delivered
+ORD100233,03-08-2025,1100,Simran Patel,Consumer,North,Jaipur,Home & Kitchen,Cookware Set,2,3200,0.25,-3840,-153.6,Net Banking,Returned
+ORD100234,20-12-2024,1164,Isha Singh,Home Office,North,Jaipur,Beauty,Hair Dryer,4,2200,0.1,7920,3080,Debit Card,Delivered
+ORD100235,06-04-2025,1165,Neha Jain,Corporate,East,Ranchi,Electronics,Mouse,4,900,0,0,0,Credit Card,Cancelled
+ORD100236,31-12-2025,1166,Ananya Gupta,Consumer,East,Bhubaneswar,Home & Kitchen,Cookware Set,3,3200,0.1,8640,1728,UPI,Delivered
+ORD100237,11-11-2024,1167,Ananya Verma,Home Office,South,Bengaluru,Electronics,Mouse,4,900,0.15,0,0,Net Banking,Cancelled
+ORD100238,21-02-2025,1168,Aditya Yadav,Corporate,North,Jaipur,Home & Kitchen,Cookware Set,1,3200,0.1,2880,576,UPI,Delivered
+ORD100239,26-07-2025,1063,Nisha Yadav,Corporate,West,Pune,Home & Kitchen,Cookware Set,2,3200,0.05,6080,1472,Debit Card,Delivered
+ORD100240,19-05-2025,1169,Rahul Mishra,Corporate,West,Surat,Home & Kitchen,Mixer Grinder,4,4200,0,16800,4704,Credit Card,Delivered
+ORD100241,02-10-2025,1170,Simran Singh,Corporate,East,Kolkata,Electronics,Keyboard,3,1800,0,5400,1188,Net Banking,Delivered
+ORD100242,24-01-2025,1085,Nisha Mishra,Consumer,East,Ranchi,Home & Kitchen,Air Fryer,4,6500,0.25,0,0,Debit Card,Cancelled
+ORD100243,24-11-2024,1171,Karan Patel,Home Office,West,Pune,Home & Kitchen,Cookware Set,3,3200,0.1,-6912,-1382.4,Cash on Delivery,Returned
+ORD100244,12-08-2025,1084,Meera Singh,Home Office,West,Surat,Furniture,Bookshelf,4,4500,0.1,16200,3960,Credit Card,Delivered
+ORD100245,29-08-2025,1047,Pooja Kumar,Home Office,East,Kolkata,Fashion,Jeans,2,1800,0.15,3060,972,UPI,Delivered
+ORD100246,22-02-2025,1172,Rohan Kumar,Corporate,South,Chennai,Electronics,Keyboard,4,1800,0.15,6120,504,Net Banking,Delivered
+ORD100247,05-05-2025,1173,Meera Jain,Home Office,East,Kolkata,Home & Kitchen,Coffee Maker,1,3800,0,3800,1064,Debit Card,Delivered
+ORD100248,19-06-2024,1174,Vivaan Agarwal,Corporate,East,Patna,Fashion,T-Shirt,1,900,0,900,378,Credit Card,Delivered
+ORD100249,06-06-2025,1143,Isha Patel,Home Office,North,Lucknow,Fashion,Jeans,3,1800,0.15,4590,1458,Net Banking,Delivered
+ORD100250,08-12-2025,1175,Neha Sharma,Home Office,East,Kolkata,Home & Kitchen,Mixer Grinder,4,4200,0,16800,4704,Credit Card,Delivered
+ORD100251,22-12-2024,1176,Pooja Singh,Home Office,East,Patna,Fashion,Sneakers,1,3200,0.15,-2176,-691.2,Cash on Delivery,Returned
+ORD100252,22-11-2024,1177,Vivaan Verma,Home Office,North,Jaipur,Electronics,Smartwatch,2,5000,0.25,7500,-300,Credit Card,Delivered
+ORD100253,19-07-2025,1178,Meera Mishra,Home Office,East,Bhubaneswar,Home & Kitchen,Cookware Set,2,3200,0.05,-4864,-1177.6,Cash on Delivery,Returned
+ORD100254,09-02-2025,1179,Simran Singh,Consumer,East,Ranchi,Home & Kitchen,Cookware Set,1,3200,0.25,2400,96,Debit Card,Delivered
+ORD100255,21-12-2025,1017,Pooja Sharma,Consumer,North,Delhi,Beauty,Face Wash,2,450,0.1,810,315,Cash on Delivery,Delivered
+ORD100256,26-04-2024,1180,Sneha Jain,Corporate,West,Surat,Beauty,Hair Dryer,4,2200,0.2,7040,2200,Debit Card,Delivered
+ORD100257,13-04-2025,1181,Aditi Agarwal,Consumer,North,Lucknow,Home & Kitchen,Air Fryer,1,6500,0.05,6175,1495,Credit Card,Delivered
+ORD100258,17-01-2025,1182,Riya Mishra,Corporate,East,Bhubaneswar,Beauty,Perfume,4,1800,0.15,6120,2160,Net Banking,Delivered
+ORD100259,11-12-2025,1045,Meera Gupta,Corporate,West,Pune,Fashion,Sneakers,3,3200,0.05,9120,3552,Cash on Delivery,Delivered
+ORD100260,26-09-2025,1183,Neha Sharma,Home Office,East,Bhubaneswar,Furniture,Office Chair,4,6500,0.2,0,0,Cash on Delivery,Cancelled
+ORD100261,22-02-2025,1184,Isha Patel,Consumer,East,Bhubaneswar,Electronics,Headphones,1,2500,0.05,2375,425,Debit Card,Delivered
+ORD100262,18-08-2024,1185,Rahul Patel,Corporate,East,Kolkata,Beauty,Perfume,1,1800,0.1,0,0,Net Banking,Cancelled
+ORD100263,12-02-2024,1113,Meera Agarwal,Consumer,South,Hyderabad,Fashion,T-Shirt,1,900,0.25,-540,-122.4,Debit Card,Returned
+ORD100264,03-02-2024,1186,Neha Verma,Home Office,East,Kolkata,Furniture,Study Table,2,8500,0.25,0,0,Debit Card,Cancelled
+ORD100265,28-12-2025,1187,Isha Gupta,Home Office,South,Hyderabad,Furniture,Office Chair,1,6500,0.2,5200,780,Debit Card,Delivered
+ORD100266,03-09-2025,1188,Priya Kumar,Consumer,West,Ahmedabad,Fashion,Backpack,1,1500,0.05,1425,555,Debit Card,Delivered
+ORD100267,02-11-2025,1189,Rohan Singh,Home Office,South,Chennai,Furniture,Study Table,4,8500,0.15,28900,5780,Debit Card,Delivered
+ORD100268,04-10-2025,1190,Pooja Verma,Corporate,North,Chandigarh,Fashion,Backpack,3,1500,0.25,3375,765,Cash on Delivery,Delivered
+ORD100269,01-12-2024,1191,Aditya Patel,Consumer,West,Mumbai,Beauty,Face Wash,4,450,0.05,1710,720,Cash on Delivery,Delivered
+ORD100270,01-10-2024,1192,Aditi Yadav,Home Office,South,Kochi,Home & Kitchen,Air Fryer,1,6500,0,6500,1820,Cash on Delivery,Delivered
+ORD100271,17-01-2024,1193,Rahul Patel,Home Office,East,Kolkata,Fashion,T-Shirt,2,900,0.25,1350,306,Debit Card,Delivered
+ORD100272,11-06-2024,1071,Rahul Verma,Home Office,North,Delhi,Home & Kitchen,Coffee Maker,3,3800,0,11400,3192,Credit Card,Delivered
+ORD100273,23-02-2024,1194,Aditi Singh,Consumer,East,Kolkata,Electronics,Smartwatch,1,5000,0.05,4750,850,Credit Card,Delivered
+ORD100274,30-08-2025,1195,Pooja Sharma,Corporate,North,Jaipur,Electronics,Smartwatch,4,5000,0.25,15000,-600,UPI,Delivered
+ORD100275,22-08-2024,1196,Arjun Verma,Home Office,West,Ahmedabad,Home & Kitchen,Mixer Grinder,2,4200,0.15,7140,1092,Credit Card,Delivered
+ORD100276,11-03-2024,1197,Aarav Agarwal,Consumer,South,Kochi,Home & Kitchen,Coffee Maker,2,3800,0.25,-4560,-182.4,Cash on Delivery,Returned
+ORD100277,22-09-2025,1198,Karan Verma,Corporate,North,Lucknow,Electronics,Smartwatch,4,5000,0.1,18000,2400,Credit Card,Delivered
+ORD100278,10-09-2024,1199,Aditya Singh,Home Office,West,Mumbai,Home & Kitchen,Mixer Grinder,2,4200,0.2,0,0,Credit Card,Cancelled
+ORD100279,05-02-2025,1200,Vivaan Singh,Home Office,East,Ranchi,Electronics,Smartwatch,2,5000,0.15,-6800,-560,UPI,Returned
+ORD100280,24-06-2025,1004,Neha Agarwal,Corporate,South,Chennai,Home & Kitchen,Air Fryer,2,6500,0.15,0,0,Debit Card,Cancelled
+ORD100281,13-07-2025,1201,Sneha Verma,Consumer,North,Delhi,Electronics,Laptop,3,55000,0.05,156750,28050,Cash on Delivery,Delivered
+ORD100282,02-06-2025,1202,Riya Mishra,Corporate,East,Ranchi,Electronics,Headphones,2,2500,0.1,4500,600,UPI,Delivered
+ORD100283,07-06-2025,1040,Rohan Patel,Corporate,North,Jaipur,Home & Kitchen,Cookware Set,1,3200,0.1,-2304,-460.8,Credit Card,Returned
+ORD100284,29-02-2024,1203,Isha Verma,Home Office,East,Kolkata,Home & Kitchen,Mixer Grinder,2,4200,0,8400,2352,Credit Card,Delivered
+ORD100285,19-12-2025,1204,Sneha Yadav,Home Office,West,Pune,Home & Kitchen,Coffee Maker,2,3800,0.25,5700,228,UPI,Delivered
+ORD100286,31-01-2024,1205,Isha Kumar,Home Office,North,Jaipur,Beauty,Perfume,1,1800,0.15,1530,540,Debit Card,Delivered
+ORD100287,26-02-2024,1206,Nisha Gupta,Home Office,West,Pune,Furniture,Bookshelf,1,4500,0.2,-2880,-432,UPI,Returned
+ORD100288,21-08-2024,1001,Ananya Singh,Corporate,South,Bengaluru,Electronics,Laptop,2,55000,0,110000,24200,Cash on Delivery,Delivered
+ORD100289,02-06-2024,1207,Vivaan Jain,Corporate,East,Bhubaneswar,Home & Kitchen,Air Fryer,2,6500,0.15,-8840,-1352,Debit Card,Returned
+ORD100290,20-03-2024,1208,Arjun Jain,Corporate,North,Lucknow,Furniture,Study Table,1,8500,0.15,7225,1445,Debit Card,Delivered
+ORD100291,14-11-2024,1209,Meera Patel,Home Office,North,Jaipur,Furniture,Office Chair,3,6500,0.2,15600,2340,Net Banking,Delivered
+ORD100292,05-09-2024,1210,Nisha Patel,Consumer,South,Hyderabad,Electronics,Keyboard,1,1800,0.15,1530,126,Net Banking,Delivered
+ORD100293,20-12-2024,1211,Aarav Yadav,Consumer,North,Chandigarh,Home & Kitchen,Mixer Grinder,1,4200,0.05,0,0,Cash on Delivery,Cancelled
+ORD100294,18-05-2025,1037,Aarav Yadav,Corporate,West,Ahmedabad,Electronics,Headphones,1,2500,0.05,0,0,Debit Card,Cancelled
+ORD100295,14-04-2025,1022,Aditya Sharma,Consumer,East,Kolkata,Fashion,Backpack,2,1500,0.25,2250,510,Net Banking,Delivered
+ORD100296,04-08-2025,1212,Rohan Singh,Corporate,West,Ahmedabad,Home & Kitchen,Air Fryer,4,6500,0.25,-15600,-624,Debit Card,Returned
+ORD100297,08-04-2025,1213,Aditya Singh,Corporate,South,Bengaluru,Electronics,Keyboard,1,1800,0.05,1710,306,Debit Card,Delivered
+ORD100298,20-02-2025,1214,Neha Singh,Consumer,East,Patna,Fashion,Jeans,3,1800,0,5400,2268,Debit Card,Delivered
+ORD100299,22-12-2025,1215,Vivaan Singh,Home Office,West,Pune,Electronics,Headphones,2,2500,0.1,4500,600,UPI,Delivered
+ORD100300,24-11-2025,1216,Rahul Sharma,Consumer,East,Ranchi,Beauty,Face Wash,2,450,0,900,405,Credit Card,Delivered
+ORD100301,04-05-2024,1217,Yash Gupta,Corporate,South,Kochi,Home & Kitchen,Coffee Maker,1,3800,0.2,0,0,UPI,Cancelled
+ORD100302,23-01-2024,1051,Nisha Kumar,Consumer,East,Ranchi,Electronics,Keyboard,1,1800,0.1,1620,216,Cash on Delivery,Delivered
+ORD100303,21-02-2024,1218,Nisha Mishra,Consumer,East,Ranchi,Electronics,Laptop,4,55000,0.25,165000,-6600,Debit Card,Delivered
+ORD100304,07-08-2024,1071,Rahul Verma,Home Office,North,Jaipur,Fashion,Jeans,2,1800,0,0,0,Net Banking,Cancelled
+ORD100305,08-09-2024,1219,Sneha Mishra,Corporate,East,Kolkata,Electronics,Headphones,3,2500,0.15,6375,525,Credit Card,Delivered
+ORD100306,20-10-2025,1135,Aditi Yadav,Corporate,West,Pune,Beauty,Face Wash,1,450,0.15,-306,-108,Cash on Delivery,Returned
+ORD100307,11-07-2025,1089,Aditi Verma,Corporate,North,Jaipur,Home & Kitchen,Cookware Set,3,3200,0.05,9120,2208,Net Banking,Delivered
+ORD100308,12-08-2024,1220,Ananya Sharma,Consumer,East,Patna,Beauty,Perfume,2,1800,0.05,3420,1440,Credit Card,Delivered
+ORD100309,29-09-2024,1221,Vivaan Singh,Corporate,East,Patna,Electronics,Mouse,2,900,0.05,0,0,Debit Card,Cancelled
+ORD100310,28-08-2025,1222,Neha Agarwal,Consumer,South,Hyderabad,Fashion,Sneakers,3,3200,0.05,9120,3552,UPI,Delivered
+ORD100311,27-02-2024,1223,Yash Sharma,Home Office,East,Kolkata,Home & Kitchen,Air Fryer,2,6500,0.05,12350,2990,Credit Card,Delivered
+ORD100312,27-11-2024,1224,Rohan Agarwal,Home Office,South,Bengaluru,Fashion,Backpack,3,1500,0,4500,1890,Cash on Delivery,Delivered
+ORD100313,23-08-2025,1225,Aditi Yadav,Consumer,South,Hyderabad,Fashion,T-Shirt,4,900,0.25,2700,612,Net Banking,Delivered
+ORD100314,11-12-2025,1158,Aarav Singh,Home Office,East,Patna,Furniture,Study Table,2,8500,0.15,14450,2890,Debit Card,Delivered
+ORD100315,10-05-2024,1226,Aarav Agarwal,Home Office,East,Kolkata,Electronics,Mouse,3,900,0.2,2160,54,Net Banking,Delivered
+ORD100316,16-04-2024,1037,Aarav Yadav,Consumer,West,Ahmedabad,Electronics,Headphones,2,2500,0.1,4500,600,UPI,Delivered
+ORD100317,26-12-2025,1227,Priya Patel,Corporate,North,Jaipur,Furniture,Office Chair,2,6500,0.25,9750,910,Debit Card,Delivered
+ORD100318,20-04-2024,1013,Simran Mishra,Corporate,South,Kochi,Fashion,Jeans,4,1800,0.05,6840,2664,Cash on Delivery,Delivered
+ORD100319,25-12-2024,1228,Arjun Patel,Consumer,South,Hyderabad,Fashion,Jeans,1,1800,0,1800,756,Debit Card,Delivered
+ORD100320,24-09-2024,1019,Priya Sharma,Consumer,North,Jaipur,Electronics,Mouse,4,900,0.05,-2736,-489.6,Net Banking,Returned
+ORD100321,05-04-2024,1229,Simran Patel,Consumer,North,Chandigarh,Electronics,Mouse,4,900,0.05,3420,612,Debit Card,Delivered
+ORD100322,29-07-2024,1105,Rahul Jain,Consumer,West,Ahmedabad,Home & Kitchen,Mixer Grinder,3,4200,0.05,11970,2898,Cash on Delivery,Delivered
+ORD100323,08-08-2025,1230,Sneha Gupta,Home Office,North,Jaipur,Electronics,Laptop,4,55000,0,220000,48400,Net Banking,Delivered
+ORD100324,06-05-2025,1231,Aarav Singh,Corporate,South,Chennai,Electronics,Headphones,4,2500,0,10000,2200,Cash on Delivery,Delivered
+ORD100325,15-05-2025,1068,Pooja Patel,Corporate,South,Bengaluru,Beauty,Face Wash,4,450,0.05,1710,720,Debit Card,Delivered
+ORD100326,10-07-2024,1232,Ananya Patel,Consumer,East,Patna,Furniture,Study Table,3,8500,0.2,20400,3060,UPI,Delivered
+ORD100327,28-03-2024,1233,Meera Mishra,Corporate,South,Bengaluru,Home & Kitchen,Cookware Set,4,3200,0.2,-8192,-819.2,Net Banking,Returned
+ORD100328,29-08-2024,1234,Aditya Mishra,Consumer,North,Lucknow,Electronics,Smartwatch,4,5000,0.05,19000,3400,Credit Card,Delivered
+ORD100329,09-05-2024,1235,Aditya Mishra,Consumer,South,Hyderabad,Beauty,Hair Dryer,3,2200,0.1,-4752,-1848,UPI,Returned
+ORD100330,01-02-2025,1236,Meera Yadav,Consumer,West,Surat,Electronics,Laptop,4,55000,0,220000,48400,Credit Card,Delivered
+ORD100331,03-08-2025,1237,Arjun Verma,Corporate,North,Jaipur,Beauty,Face Wash,3,450,0.15,1147.5,405,Cash on Delivery,Delivered
+ORD100332,08-08-2025,1238,Vivaan Gupta,Corporate,West,Surat,Electronics,Keyboard,4,1800,0,7200,1584,Credit Card,Delivered
+ORD100333,20-02-2024,1236,Meera Yadav,Corporate,West,Ahmedabad,Home & Kitchen,Coffee Maker,1,3800,0.1,3420,684,Debit Card,Delivered
+ORD100334,18-05-2025,1176,Pooja Singh,Corporate,East,Kolkata,Furniture,Study Table,2,8500,0.1,-12240,-2992,Debit Card,Returned
+ORD100335,02-10-2024,1155,Nisha Agarwal,Home Office,East,Kolkata,Furniture,Office Chair,4,6500,0.05,24700,7020,Cash on Delivery,Delivered
+ORD100336,12-06-2025,1211,Aarav Yadav,Home Office,North,Delhi,Fashion,Backpack,2,1500,0,3000,1260,Net Banking,Delivered
+ORD100337,17-02-2025,1239,Riya Agarwal,Consumer,North,Lucknow,Furniture,Office Chair,2,6500,0,13000,4160,Cash on Delivery,Delivered
+ORD100338,21-02-2024,1181,Aditi Agarwal,Corporate,North,Lucknow,Furniture,Bookshelf,3,4500,0.15,0,0,UPI,Cancelled
+ORD100339,28-11-2025,1240,Neha Patel,Corporate,East,Bhubaneswar,Fashion,Sneakers,3,3200,0.1,8640,3072,UPI,Delivered
+ORD100340,18-10-2024,1241,Vivaan Gupta,Corporate,South,Hyderabad,Furniture,Study Table,2,8500,0.1,-12240,-2992,Net Banking,Returned
+ORD100341,21-01-2024,1197,Aarav Agarwal,Home Office,South,Bengaluru,Fashion,Sneakers,2,3200,0.25,4800,1088,UPI,Delivered
+ORD100342,17-08-2024,1242,Aditi Kumar,Corporate,East,Ranchi,Home & Kitchen,Coffee Maker,4,3800,0.1,13680,2736,Debit Card,Delivered
+ORD100343,24-11-2025,1243,Simran Mishra,Home Office,North,Delhi,Fashion,Backpack,3,1500,0.2,-2880,-792,Net Banking,Returned
+ORD100344,16-10-2024,1244,Arjun Patel,Home Office,North,Jaipur,Furniture,Bookshelf,3,4500,0.1,12150,2970,Debit Card,Delivered
+ORD100345,11-07-2024,1245,Yash Sharma,Corporate,East,Patna,Electronics,Keyboard,1,1800,0.25,1350,-54,Debit Card,Delivered
+ORD100346,04-03-2025,1246,Vivaan Agarwal,Home Office,South,Chennai,Furniture,Study Table,4,8500,0.25,25500,2380,Debit Card,Delivered
+ORD100347,23-06-2024,1225,Aditi Yadav,Home Office,South,Hyderabad,Home & Kitchen,Mixer Grinder,1,4200,0.15,3570,546,Debit Card,Delivered
+ORD100348,26-07-2025,1047,Pooja Kumar,Home Office,East,Patna,Electronics,Headphones,2,2500,0.1,4500,600,Debit Card,Delivered
+ORD100349,06-03-2025,1085,Nisha Mishra,Corporate,East,Patna,Furniture,Bookshelf,3,4500,0.15,11475,2295,UPI,Delivered
+ORD100350,11-10-2025,1247,Simran Verma,Home Office,East,Bhubaneswar,Fashion,Backpack,1,1500,0.25,1125,255,Debit Card,Delivered
+ORD100351,27-02-2025,1248,Rohan Gupta,Home Office,South,Chennai,Fashion,T-Shirt,4,900,0.05,3420,1332,Credit Card,Delivered
+ORD100352,23-03-2024,1249,Rahul Yadav,Home Office,North,Delhi,Fashion,Jeans,3,1800,0.05,5130,1998,Credit Card,Delivered
+ORD100353,16-05-2025,1200,Vivaan Singh,Corporate,East,Kolkata,Electronics,Keyboard,4,1800,0.25,5400,-216,Cash on Delivery,Delivered
+ORD100354,03-05-2025,1250,Vivaan Jain,Consumer,South,Chennai,Electronics,Laptop,3,55000,0.2,132000,3300,UPI,Delivered
+ORD100355,03-10-2025,1058,Kavya Singh,Home Office,South,Chennai,Home & Kitchen,Mixer Grinder,2,4200,0,8400,2352,Net Banking,Delivered
+ORD100356,09-11-2024,1251,Vivaan Kumar,Consumer,West,Surat,Fashion,Backpack,3,1500,0.15,-3060,-972,Debit Card,Returned
+ORD100357,16-05-2025,1252,Karan Gupta,Consumer,East,Kolkata,Furniture,Study Table,2,8500,0.25,12750,1190,UPI,Delivered
+ORD100358,26-08-2025,1253,Arjun Yadav,Home Office,North,Chandigarh,Furniture,Bookshelf,1,4500,0.2,3600,540,UPI,Delivered
+ORD100359,31-10-2025,1013,Simran Mishra,Home Office,South,Bengaluru,Fashion,T-Shirt,4,900,0.15,3060,972,Debit Card,Delivered
+ORD100360,30-04-2025,1254,Karan Sharma,Home Office,West,Surat,Electronics,Smartwatch,3,5000,0.2,0,0,Credit Card,Cancelled
+ORD100361,04-03-2025,1027,Aarav Jain,Consumer,South,Bengaluru,Home & Kitchen,Mixer Grinder,1,4200,0,4200,1176,Net Banking,Delivered
+ORD100362,23-07-2024,1213,Aditya Singh,Consumer,South,Hyderabad,Home & Kitchen,Coffee Maker,4,3800,0.1,13680,2736,Net Banking,Delivered
+ORD100363,23-05-2025,1177,Vivaan Verma,Home Office,North,Chandigarh,Home & Kitchen,Air Fryer,2,6500,0,13000,3640,UPI,Delivered
+ORD100364,23-04-2024,1172,Rohan Kumar,Home Office,South,Kochi,Electronics,Keyboard,1,1800,0.2,1440,36,UPI,Delivered
+ORD100365,19-09-2024,1255,Pooja Kumar,Corporate,West,Surat,Electronics,Smartphone,1,28000,0.05,26600,4760,Debit Card,Delivered
+ORD100366,24-11-2025,1256,Arjun Verma,Corporate,North,Delhi,Electronics,Keyboard,2,1800,0.1,3240,432,Net Banking,Delivered
+ORD100367,01-10-2024,1048,Aditya Gupta,Corporate,South,Chennai,Home & Kitchen,Air Fryer,2,6500,0,13000,3640,Cash on Delivery,Delivered
+ORD100368,05-10-2024,1245,Yash Sharma,Home Office,East,Ranchi,Electronics,Mouse,1,900,0.05,-684,-122.4,UPI,Returned
+ORD100369,12-06-2024,1257,Nisha Patel,Consumer,East,Bhubaneswar,Beauty,Hair Dryer,4,2200,0.1,0,0,Credit Card,Cancelled
+ORD100370,09-05-2025,1058,Kavya Singh,Home Office,South,Kochi,Fashion,Jeans,1,1800,0,1800,756,Debit Card,Delivered
+ORD100371,13-01-2024,1258,Riya Agarwal,Home Office,South,Chennai,Fashion,Backpack,1,1500,0.15,-1020,-324,Credit Card,Returned
+ORD100372,08-05-2025,1259,Kavya Gupta,Consumer,North,Delhi,Electronics,Mouse,4,900,0.15,3060,252,Cash on Delivery,Delivered
+ORD100373,24-11-2024,1260,Ananya Sharma,Corporate,South,Kochi,Home & Kitchen,Cookware Set,2,3200,0,6400,1792,Net Banking,Delivered
+ORD100374,03-04-2025,1261,Sneha Patel,Corporate,West,Mumbai,Fashion,Sneakers,1,3200,0,3200,1344,UPI,Delivered
+ORD100375,24-07-2025,1262,Aditya Agarwal,Consumer,West,Pune,Fashion,Jeans,3,1800,0.1,4860,1728,Cash on Delivery,Delivered
+ORD100376,05-12-2024,1263,Simran Agarwal,Consumer,East,Patna,Fashion,Jeans,1,1800,0,-1440,-604.8,UPI,Returned
+ORD100377,15-12-2024,1264,Aditi Jain,Home Office,West,Mumbai,Electronics,Smartphone,2,28000,0.15,47600,3920,Cash on Delivery,Delivered
+ORD100378,19-04-2024,1265,Karan Singh,Corporate,North,Chandigarh,Furniture,Office Chair,4,6500,0.05,-19760,-5616,UPI,Returned
+ORD100379,28-02-2025,1266,Nisha Verma,Home Office,East,Ranchi,Beauty,Perfume,2,1800,0.15,3060,1080,UPI,Delivered
+ORD100380,20-07-2025,1248,Rohan Gupta,Consumer,South,Hyderabad,Beauty,Perfume,2,1800,0.25,2700,720,Cash on Delivery,Delivered
+ORD100381,04-11-2025,1267,Priya Jain,Corporate,East,Ranchi,Beauty,Hair Dryer,2,2200,0.1,3960,1540,Debit Card,Delivered
+ORD100382,08-04-2025,1071,Rahul Verma,Corporate,North,Chandigarh,Beauty,Hair Dryer,3,2200,0.25,0,0,Net Banking,Cancelled
+ORD100383,09-10-2025,1268,Karan Agarwal,Home Office,West,Ahmedabad,Electronics,Keyboard,2,1800,0.2,0,0,Debit Card,Cancelled
+ORD100384,28-12-2025,1269,Neha Jain,Home Office,East,Ranchi,Beauty,Face Wash,3,450,0.15,1147.5,405,UPI,Delivered
+ORD100385,26-01-2024,1270,Vivaan Sharma,Consumer,South,Chennai,Electronics,Mouse,3,900,0.25,2025,-81,UPI,Delivered
+ORD100386,08-12-2025,1105,Rahul Jain,Home Office,West,Mumbai,Home & Kitchen,Coffee Maker,4,3800,0,0,0,Net Banking,Cancelled
+ORD100387,17-08-2024,1200,Vivaan Singh,Consumer,East,Bhubaneswar,Fashion,Backpack,3,1500,0.25,-2700,-612,Cash on Delivery,Returned
+ORD100388,31-01-2025,1271,Priya Jain,Consumer,North,Delhi,Furniture,Bookshelf,2,4500,0.2,7200,1080,Debit Card,Delivered
+ORD100389,25-08-2025,1272,Simran Singh,Consumer,South,Chennai,Fashion,Jeans,2,1800,0.25,2700,612,Credit Card,Delivered
+ORD100390,10-06-2025,1273,Vivaan Mishra,Consumer,West,Ahmedabad,Electronics,Keyboard,2,1800,0.2,2880,72,Debit Card,Delivered
+ORD100391,22-04-2025,1274,Rohan Sharma,Home Office,South,Chennai,Beauty,Hair Dryer,1,2200,0.25,0,0,Debit Card,Cancelled
+ORD100392,17-05-2025,1184,Isha Patel,Consumer,East,Kolkata,Home & Kitchen,Air Fryer,2,6500,0.05,0,0,Net Banking,Cancelled
+ORD100393,12-06-2024,1275,Meera Mishra,Corporate,North,Jaipur,Furniture,Study Table,2,8500,0.25,12750,1190,Debit Card,Delivered
+ORD100394,27-10-2024,1276,Simran Jain,Home Office,East,Kolkata,Electronics,Smartwatch,3,5000,0.15,12750,1050,Net Banking,Delivered
+ORD100395,28-09-2025,1277,Vivaan Yadav,Corporate,East,Kolkata,Home & Kitchen,Cookware Set,3,3200,0.2,-6144,-614.4,UPI,Returned
+ORD100396,13-06-2025,1192,Aditi Yadav,Consumer,South,Kochi,Fashion,Sneakers,1,3200,0.1,-2304,-819.2,Debit Card,Returned
+ORD100397,10-06-2025,1278,Arjun Gupta,Consumer,North,Delhi,Furniture,Office Chair,2,6500,0.25,9750,910,Credit Card,Delivered
+ORD100398,04-07-2025,1223,Yash Sharma,Corporate,East,Kolkata,Electronics,Keyboard,1,1800,0.15,-1224,-100.8,UPI,Returned
+ORD100399,30-03-2024,1279,Rahul Kumar,Home Office,North,Lucknow,Furniture,Bookshelf,4,4500,0.15,15300,3060,Cash on Delivery,Delivered
+ORD100400,19-03-2025,1280,Kavya Verma,Corporate,North,Delhi,Beauty,Perfume,1,1800,0.25,1350,360,Net Banking,Delivered
+ORD100401,18-04-2024,1281,Aditi Agarwal,Consumer,North,Jaipur,Fashion,Jeans,4,1800,0.15,-4896,-1555.2,Cash on Delivery,Returned
+ORD100402,09-06-2024,1282,Rohan Mishra,Home Office,West,Pune,Home & Kitchen,Mixer Grinder,3,4200,0,0,0,Credit Card,Cancelled
+ORD100403,06-05-2024,1283,Nisha Agarwal,Home Office,East,Kolkata,Home & Kitchen,Mixer Grinder,2,4200,0.25,-5040,-201.6,Debit Card,Returned
+ORD100404,04-08-2024,1284,Riya Gupta,Consumer,South,Hyderabad,Furniture,Study Table,3,8500,0.05,24225,6885,Net Banking,Delivered
+ORD100405,25-02-2024,1282,Rohan Mishra,Consumer,West,Surat,Beauty,Face Wash,1,450,0.1,-324,-126,Debit Card,Returned
+ORD100406,10-04-2024,1285,Nisha Patel,Home Office,West,Ahmedabad,Electronics,Keyboard,2,1800,0,3600,792,UPI,Delivered
+ORD100407,17-07-2024,1286,Pooja Yadav,Consumer,West,Pune,Beauty,Perfume,3,1800,0.1,4860,1890,UPI,Delivered
+ORD100408,16-11-2024,1287,Yash Mishra,Corporate,West,Ahmedabad,Electronics,Keyboard,3,1800,0.15,4590,378,Debit Card,Delivered
+ORD100409,08-11-2024,1288,Arjun Gupta,Home Office,North,Jaipur,Electronics,Keyboard,2,1800,0.1,-2592,-345.6,UPI,Returned
+ORD100410,18-03-2024,1260,Ananya Sharma,Consumer,South,Bengaluru,Beauty,Perfume,4,1800,0.2,5760,1800,Net Banking,Delivered
+ORD100411,23-09-2024,1289,Meera Patel,Corporate,South,Chennai,Home & Kitchen,Cookware Set,2,3200,0.2,-4096,-409.6,Credit Card,Returned
+ORD100412,20-04-2025,1290,Aditya Mishra,Corporate,West,Mumbai,Furniture,Study Table,2,8500,0.2,13600,2040,Credit Card,Delivered
+ORD100413,02-07-2024,1291,Nisha Gupta,Consumer,East,Patna,Electronics,Smartphone,2,28000,0.15,47600,3920,Debit Card,Delivered
+ORD100414,13-01-2025,1292,Karan Jain,Home Office,West,Surat,Fashion,Sneakers,4,3200,0,12800,5376,Debit Card,Delivered
+ORD100415,15-04-2024,1293,Riya Kumar,Home Office,West,Pune,Home & Kitchen,Cookware Set,4,3200,0.1,0,0,UPI,Cancelled
+ORD100416,13-06-2025,1294,Yash Jain,Consumer,East,Patna,Home & Kitchen,Coffee Maker,4,3800,0.15,0,0,Net Banking,Cancelled
+ORD100417,22-05-2024,1295,Yash Verma,Home Office,West,Pune,Electronics,Keyboard,2,1800,0.05,3420,612,UPI,Delivered
+ORD100418,07-11-2025,1296,Priya Verma,Home Office,East,Mumbai ,Fashion,Sneakers,2,3200,0.2,5120,1408,Cash on Delivery,Delivered
+ORD100419,23-01-2024,1297,Rohan Agarwal,Consumer,South,Hyderabad,Fashion,Backpack,1,1500,0.2,1200,330,Credit Card,Delivered
+ORD100420,21-09-2024,1265,Karan Singh,Home Office,North,Chandigarh,Beauty,Hair Dryer,1,2200,0.25,-1320,-352,Debit Card,Returned
+ORD100421,28-03-2024,1298,Simran Patel,Home Office,East,Bhubaneswar,Furniture,Study Table,4,8500,0.2,27200,4080,Credit Card,Delivered
+ORD100422,30-09-2025,1299,Ananya Gupta,Corporate,West,Surat,Beauty,Hair Dryer,1,2200,0.05,2090,880,Credit Card,Delivered
+ORD100423,21-04-2024,1300,Riya Jain,Home Office,East,Bhubaneswar,Beauty,Hair Dryer,1,2200,0.05,2090,880,Net Banking,Delivered
+ORD100424,09-02-2024,1273,Vivaan Mishra,Home Office,West,Mumbai,Electronics,Headphones,4,2500,0.25,7500,-300,Net Banking,Delivered
+ORD100425,02-01-2024,1221,Vivaan Singh,Corporate,East,Ranchi,Home & Kitchen,Coffee Maker,1,3800,0.25,0,0,Credit Card,Cancelled
+ORD100426,08-05-2025,1196,Arjun Verma,Corporate,West,Ahmedabad,Beauty,Perfume,1,1800,0.15,1530,540,Cash on Delivery,Delivered
+ORD100427,26-08-2024,1043,Karan Verma,Consumer,South,Chennai,Beauty,Hair Dryer,4,2200,0.1,7920,3080,UPI,Delivered
+ORD100428,14-08-2025,1301,Riya Sharma,Consumer,East,Bhubaneswar,Home & Kitchen,Air Fryer,4,6500,0.1,23400,4680,Cash on Delivery,Delivered
+ORD100429,29-10-2025,1302,Ananya Jain,Consumer,East,Patna,Beauty,Hair Dryer,3,2200,0.25,4950,1320,Cash on Delivery,Delivered
+ORD100430,19-07-2025,1248,Rohan Gupta,Home Office,South,Hyderabad,Home & Kitchen,Coffee Maker,4,3800,0.1,13680,2736,Debit Card,Delivered
+ORD100431,23-12-2025,1303,Rohan Verma,Corporate,South,Kochi,Electronics,Mouse,1,900,0.05,0,0,Debit Card,Cancelled
+ORD100432,17-07-2025,1304,Vivaan Gupta,Corporate,East,Kolkata,Electronics,Headphones,2,2500,0.15,0,0,UPI,Cancelled
+ORD100433,06-03-2024,1305,Neha Verma,Consumer,North,Chandigarh,Home & Kitchen,Cookware Set,3,3200,0.25,0,0,Credit Card,Cancelled
+ORD100434,17-10-2025,1306,Aarav Singh,Home Office,West,Pune,Electronics,Smartphone,2,28000,0.2,44800,1120,UPI,Delivered
+ORD100435,03-01-2025,1307,Aarav Gupta,Corporate,North,Jaipur,Home & Kitchen,Cookware Set,3,3200,0.25,7200,288,Net Banking,Delivered
+ORD100436,24-07-2024,1308,Aditya Verma,Consumer,West,Ahmedabad,Home & Kitchen,Coffee Maker,3,3800,0.05,0,0,Cash on Delivery,Cancelled
+ORD100437,17-02-2025,1309,Ananya Gupta,Corporate,East,Kolkata,Beauty,Face Wash,1,450,0.2,360,112.5,UPI,Delivered
+ORD100438,09-06-2025,1276,Simran Jain,Consumer,East,Patna,Fashion,Jeans,4,1800,0.2,5760,1584,Debit Card,Delivered
+ORD100439,14-04-2025,1310,Nisha Sharma,Consumer,East,Kolkata,Furniture,Bookshelf,1,4500,0.15,-3060,-612,Credit Card,Returned
+ORD100440,19-11-2024,1311,Neha Jain,Home Office,North,Jaipur,Furniture,Study Table,3,8500,0,25500,8160,Debit Card,Delivered
+ORD100441,18-03-2024,1312,Rahul Patel,Home Office,West,Ahmedabad,Furniture,Office Chair,3,6500,0.05,-14820,-4212,Credit Card,Returned
+ORD100442,25-05-2025,1121,Neha Sharma,Consumer,North,Lucknow,Furniture,Bookshelf,2,4500,0.05,8550,2430,Net Banking,Delivered
+ORD100443,30-12-2024,1313,Arjun Verma,Corporate,North,Chandigarh,Beauty,Hair Dryer,1,2200,0.2,1760,550,Debit Card,Delivered
+ORD100444,27-09-2025,1314,Nisha Kumar,Home Office,East,Bhubaneswar,Fashion,Backpack,3,1500,0.15,3825,1215,Credit Card,Delivered
+ORD100445,25-02-2024,1315,Isha Patel,Home Office,North,Jaipur,Home & Kitchen,Cookware Set,2,3200,0.15,5440,832,Net Banking,Delivered
+ORD100446,16-04-2025,1316,Aarav Sharma,Home Office,South,Kochi,Beauty,Perfume,1,1800,0.1,1620,630,Debit Card,Delivered
+ORD100447,10-07-2024,1317,Yash Kumar,Consumer,East,Patna,Home & Kitchen,Coffee Maker,2,3800,0.15,6460,988,Cash on Delivery,Delivered
+ORD100448,18-12-2025,1187,Isha Gupta,Consumer,South,Kochi,Furniture,Bookshelf,4,4500,0.05,0,0,Net Banking,Cancelled
+ORD100449,03-12-2025,1318,Arjun Kumar,Consumer,South,Kochi,Home & Kitchen,Cookware Set,2,3200,0.05,-4864,-1177.6,Cash on Delivery,Returned
+ORD100450,10-01-2024,1319,Sneha Gupta,Consumer,West,Surat,Home & Kitchen,Mixer Grinder,3,4200,0.2,0,0,Cash on Delivery,Cancelled
+ORD100451,11-04-2024,1320,Vivaan Singh,Corporate,West,Surat,Electronics,Smartwatch,4,5000,0.25,15000,-600,Debit Card,Delivered
+ORD100452,03-01-2025,1321,Ananya Yadav,Consumer,North,Chandigarh,Electronics,Smartwatch,3,5000,0.25,0,0,Net Banking,Cancelled
+ORD100453,12-08-2025,1322,Meera Gupta,Consumer,West,Ahmedabad,Home & Kitchen,Air Fryer,4,6500,0.25,19500,780,Cash on Delivery,Delivered
+ORD100454,20-09-2025,1323,Rohan Gupta,Consumer,West,Surat,Beauty,Hair Dryer,4,2200,0,8800,3960,Debit Card,Delivered
+ORD100455,21-08-2024,1324,Aditi Kumar,Home Office,East,Patna,Fashion,Jeans,3,1800,0.25,0,0,Cash on Delivery,Cancelled
+ORD100456,27-02-2025,1325,Aarav Gupta,Consumer,South,Chennai,Electronics,Headphones,2,2500,0.05,4750,850,UPI,Delivered
+ORD100457,06-03-2024,1243,Simran Mishra,Consumer,North,Delhi,Electronics,Laptop,4,55000,0.2,176000,4400,Debit Card,Delivered
+ORD100458,24-09-2025,1326,Kavya Kumar,Consumer,South,Hyderabad,Home & Kitchen,Mixer Grinder,4,4200,0.25,12600,504,Net Banking,Delivered
+ORD100459,23-06-2024,1327,Neha Yadav,Consumer,East,Ranchi,Beauty,Face Wash,3,450,0.2,1080,337.5,Net Banking,Delivered
+ORD100460,30-06-2024,1328,Pooja Agarwal,Consumer,East,Patna,Home & Kitchen,Coffee Maker,4,3800,0.2,12160,1216,Cash on Delivery,Delivered
+ORD100461,11-11-2024,1329,Ananya Gupta,Corporate,West,Mumbai,Electronics,Laptop,2,55000,0.1,99000,13200,Net Banking,Delivered
+ORD100462,09-01-2024,1330,Sneha Patel,Consumer,West,Mumbai,Fashion,T-Shirt,3,900,0.2,2160,594,Net Banking,Delivered
+ORD100463,17-01-2025,1331,Meera Mishra,Corporate,East,Bhubaneswar,Electronics,Mouse,4,900,0.15,3060,252,UPI,Delivered
+ORD100464,08-03-2025,1332,Riya Agarwal,Consumer,West,Ahmedabad,Beauty,Face Wash,3,450,0.15,1147.5,405,Credit Card,Delivered
+ORD100465,19-05-2024,1333,Pooja Agarwal,Consumer,East,Patna,Beauty,Hair Dryer,4,2200,0.05,8360,3520,Credit Card,Delivered
+ORD100466,20-02-2024,1012,Nisha Verma,Home Office,North,Lucknow,Electronics,Smartwatch,3,5000,0.1,13500,1800,Cash on Delivery,Delivered
+ORD100467,09-01-2024,1334,Rohan Sharma,Corporate,East,Bhubaneswar,Home & Kitchen,Air Fryer,4,6500,0.1,23400,4680,Cash on Delivery,Delivered
+ORD100468,14-12-2025,1170,Simran Singh,Consumer,East,Kolkata,Electronics,Keyboard,1,1800,0.1,1620,216,Net Banking,Delivered
+ORD100469,26-04-2025,1335,Ananya Mishra,Home Office,North,Delhi,Furniture,Study Table,4,8500,0.15,28900,5780,UPI,Delivered
+ORD100470,22-07-2024,1336,Arjun Jain,Home Office,South,Kochi,Home & Kitchen,Cookware Set,3,3200,0.1,8640,1728,UPI,Delivered
+ORD100471,16-07-2025,1337,Ananya Patel,Consumer,West,Pune,Home & Kitchen,Coffee Maker,1,3800,0.25,2850,114,Credit Card,Delivered
+ORD100472,10-10-2025,1338,Aarav Gupta,Home Office,West,Mumbai,Home & Kitchen,Cookware Set,2,3200,0,6400,1792,Cash on Delivery,Delivered
+ORD100473,05-12-2025,1339,Neha Verma,Corporate,South,Hyderabad,Fashion,Sneakers,1,3200,0.25,0,0,UPI,Cancelled
+ORD100474,02-03-2024,1340,Rohan Jain,Home Office,North,Lucknow,Fashion,Sneakers,2,3200,0.1,0,0,Debit Card,Cancelled
+ORD100475,25-03-2025,1011,Neha Gupta,Corporate,North,Chandigarh,Home & Kitchen,Coffee Maker,2,3800,0.1,6840,1368,Cash on Delivery,Delivered
+ORD100476,26-07-2025,1341,Sneha Singh,Home Office,South,Chennai,Home & Kitchen,Air Fryer,4,6500,0.1,0,0,Credit Card,Cancelled
+ORD100477,11-03-2024,1342,Pooja Kumar,Corporate,West,Ahmedabad,Fashion,Jeans,1,1800,0.25,0,0,Credit Card,Cancelled
+ORD100478,20-01-2024,1343,Neha Agarwal,Home Office,South,Chennai,Electronics,Headphones,4,2500,0.05,0,0,Cash on Delivery,Cancelled
+ORD100479,18-07-2025,1344,Aditi Yadav,Consumer,East,Patna,Electronics,Smartwatch,1,5000,0.2,-3200,-80,UPI,Returned
+ORD100480,12-05-2024,1345,Vivaan Singh,Home Office,North,Chandigarh,Furniture,Office Chair,1,6500,0,0,0,Cash on Delivery,Cancelled
+ORD100481,04-11-2025,1346,Simran Agarwal,Consumer,West,Mumbai,Home & Kitchen,Coffee Maker,2,3800,0.2,-4864,-486.4,UPI,Returned
+ORD100482,01-08-2024,1347,Aditya Patel,Consumer,North,Jaipur,Beauty,Face Wash,4,450,0.1,-1296,-504,Net Banking,Returned
+ORD100483,29-09-2024,1348,Aditya Kumar,Consumer,North,Lucknow,Fashion,Backpack,1,1500,0,-1200,-504,Net Banking,Returned
+ORD100484,29-01-2025,1349,Riya Singh,Home Office,South,Kochi,Electronics,Smartwatch,3,5000,0.25,11250,-450,Cash on Delivery,Delivered
+ORD100485,16-04-2024,1350,Rahul Jain,Home Office,East,Patna,Electronics,Mouse,4,900,0.1,3240,432,Debit Card,Delivered
+ORD100486,15-01-2025,1212,Rohan Singh,Consumer,West,Surat,Home & Kitchen,Air Fryer,2,6500,0.2,0,0,Cash on Delivery,Cancelled
+ORD100487,17-07-2025,1131,Aditi Kumar,Home Office,South,Chennai,Fashion,Jeans,4,1800,0.15,6120,1944,UPI,Delivered
+ORD100488,18-10-2024,1306,Aarav Singh,Corporate,West,Mumbai,Fashion,Backpack,2,1500,0.1,2700,960,Credit Card,Delivered
+ORD100489,07-08-2024,1162,Rahul Verma,Corporate,East,Kolkata,Furniture,Bookshelf,2,4500,0,9000,2880,Debit Card,Delivered
+ORD100490,08-06-2024,1071,Rahul Verma,Corporate,North,Jaipur,Home & Kitchen,Coffee Maker,2,3800,0.05,7220,1748,UPI,Delivered
+ORD100491,07-08-2025,1205,Isha Kumar,Corporate,North,Lucknow,Electronics,Headphones,3,2500,0.15,6375,525,Net Banking,Delivered
+ORD100492,07-04-2024,1305,Neha Verma,Corporate,North,Jaipur,Electronics,Smartphone,4,28000,0,112000,24640,Debit Card,Delivered
+ORD100493,20-03-2025,1214,Neha Singh,Corporate,East,Kolkata,Furniture,Study Table,1,8500,0.25,-5100,-476,UPI,Returned
+ORD100494,08-11-2024,1269,Neha Jain,Home Office,East,Kolkata,Home & Kitchen,Air Fryer,2,6500,0.1,0,0,Credit Card,Cancelled
+ORD100495,05-06-2024,1026,Pooja Yadav,Corporate,West,Surat,Fashion,Jeans,1,1800,0.05,1710,666,Cash on Delivery,Delivered
+ORD100496,31-05-2024,1068,Pooja Patel,Consumer,South,Chennai,Electronics,Headphones,4,2500,0.2,-6400,-160,Net Banking,Returned
+ORD100497,12-02-2025,1135,Aditi Yadav,Consumer,West,Mumbai,Home & Kitchen,Cookware Set,4,3200,0.25,9600,384,Cash on Delivery,Delivered
+ORD100498,26-07-2025,1102,Sneha Gupta,Home Office,South,Kochi,Home & Kitchen,Cookware Set,2,3200,0.2,0,0,Net Banking,Cancelled
+ORD100499,09-09-2024,1125,Rohan Agarwal,Home Office,South,Bengaluru,Furniture,Bookshelf,4,4500,0.1,-12960,-3168,UPI,Returned
+ORD100500,25-04-2024,1344,Aditi Yadav,Corporate,East,Ranchi,Fashion,T-Shirt,3,900,0.1,2430,864,Debit Card,Delivered
+ORD100501,31-08-2025,1336,Arjun Jain,Corporate,South,Bengaluru,Home & Kitchen,Mixer Grinder,2,4200,0.1,0,0,Net Banking,Cancelled
+ORD100502,29-05-2024,1226,Aarav Agarwal,Consumer,East,Kolkata,Furniture,Study Table,2,8500,0.25,12750,1190,UPI,Delivered
+ORD100503,25-04-2024,1028,Rohan Singh,Corporate,East,Bhubaneswar,Beauty,Hair Dryer,2,2200,0.1,3960,1540,UPI,Delivered
+ORD100504,08-11-2024,1231,Aarav Singh,Home Office,South,Kochi,Electronics,Laptop,3,55000,0.05,-125400,-22440,Credit Card,Returned
+ORD100505,27-07-2024,1280,Kavya Verma,Consumer,North,Jaipur,Beauty,Face Wash,4,450,0.2,-1152,-360,UPI,Returned
+ORD100506,20-01-2025,1299,Ananya Gupta,Consumer,West,Mumbai,Furniture,Bookshelf,2,4500,0,9000,2880,Net Banking,Delivered
+ORD100507,04-10-2024,1028,Rohan Singh,Corporate,East,Ranchi,Electronics,Laptop,1,55000,0.15,-37400,-3080,Debit Card,Returned
+ORD100508,20-04-2024,1010,Isha Agarwal,Home Office,North,Jaipur,Home & Kitchen,Cookware Set,2,3200,0.15,0,0,UPI,Cancelled
+ORD100509,19-11-2024,1249,Rahul Yadav,Home Office,North,Delhi,Electronics,Mouse,2,900,0.2,1440,36,UPI,Delivered
+ORD100510,10-02-2024,1127,Aarav Agarwal,Consumer,East,Patna,Home & Kitchen,Air Fryer,4,6500,0.15,-17680,-2704,UPI,Returned
+ORD100511,21-12-2024,1181,Aditi Agarwal,Consumer,North,Jaipur,Home & Kitchen,Mixer Grinder,2,4200,0.2,6720,672,Debit Card,Delivered
+ORD100512,31-01-2025,1016,Nisha Agarwal,Home Office,East,Patna,Furniture,Study Table,2,8500,0.1,15300,3740,Credit Card,Delivered
+ORD100513,30-03-2024,1196,Arjun Verma,Corporate,West,Pune,Fashion,T-Shirt,2,900,0.2,1440,396,Debit Card,Delivered
+ORD100514,11-09-2025,1169,Rahul Mishra,Consumer,West,Surat,Beauty,Face Wash,2,450,0.05,-684,-288,Net Banking,Returned
+ORD100515,08-07-2025,1104,Rahul Patel,Home Office,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,2,4200,0.15,7140,1092,Net Banking,Delivered
+ORD100516,10-06-2024,1163,Priya Sharma,Consumer,South,Bengaluru,Beauty,Face Wash,1,450,0.05,427.5,180,UPI,Delivered
+ORD100517,22-11-2024,1212,Rohan Singh,Home Office,West,Surat,Home & Kitchen,Mixer Grinder,4,4200,0.25,-10080,-403.2,Debit Card,Returned
+ORD100518,04-06-2024,1097,Kavya Verma,Home Office,West,Mumbai,Electronics,Keyboard,2,1800,0,0,0,Debit Card,Cancelled
+ORD100519,12-09-2025,1291,Nisha Gupta,Consumer,East,Bhubaneswar,Beauty,Hair Dryer,2,2200,0.05,-3344,-1408,Debit Card,Returned
+ORD100520,22-03-2024,1245,Yash Sharma,Corporate,East,Bhubaneswar,Fashion,Backpack,4,1500,0.25,-3600,-816,Credit Card,Returned
+ORD100521,31-01-2025,1252,Karan Gupta,Consumer,East,Ranchi,Electronics,Keyboard,2,1800,0.05,3420,612,Cash on Delivery,Delivered
+ORD100522,16-01-2024,1139,Kavya Singh,Consumer,East,Ranchi,Furniture,Study Table,2,8500,0.05,16150,4590,Cash on Delivery,Delivered
+ORD100523,23-09-2025,1251,Vivaan Kumar,Consumer,West,Ahmedabad,Fashion,Jeans,2,1800,0.15,3060,972,Net Banking,Delivered
+ORD100524,24-01-2025,1161,Yash Kumar,Corporate,North,Chandigarh,Beauty,Hair Dryer,1,2200,0.2,1760,550,Cash on Delivery,Delivered
+ORD100525,13-02-2024,1126,Riya Jain,Consumer,East,Ranchi,Electronics,Smartphone,4,28000,0.2,-71680,-1792,Credit Card,Returned
+ORD100526,25-10-2024,1226,Aarav Agarwal,Corporate,East,Ranchi,Home & Kitchen,Mixer Grinder,3,4200,0.15,10710,1638,Debit Card,Delivered
+ORD100527,19-09-2025,1028,Rohan Singh,Home Office,East,Bhubaneswar,Fashion,Jeans,4,1800,0,-5760,-2419.2,UPI,Returned
+ORD100528,03-07-2024,1300,Riya Jain,Consumer,East,Bhubaneswar,Home & Kitchen,Cookware Set,4,3200,0.1,11520,2304,Credit Card,Delivered
+ORD100529,09-04-2025,1303,Rohan Verma,Home Office,South,Hyderabad,Fashion,Jeans,1,1800,0.1,1620,576,Credit Card,Delivered
+ORD100530,06-05-2024,1047,Pooja Kumar,Home Office,East,Kolkata,Fashion,Jeans,3,1800,0,0,0,Cash on Delivery,Cancelled
+ORD100531,07-06-2025,1314,Nisha Kumar,Corporate,East,Bhubaneswar,Home & Kitchen,Cookware Set,4,3200,0,12800,3584,Net Banking,Delivered
+ORD100532,06-11-2025,1077,Neha Gupta,Corporate,East,Bhubaneswar,Electronics,Keyboard,2,1800,0.25,2700,-108,Debit Card,Delivered
+ORD100533,12-11-2024,1229,Simran Patel,Consumer,North,Jaipur,Electronics,Mouse,1,900,0.05,855,153,Net Banking,Delivered
+ORD100534,16-09-2024,1007,Vivaan Singh,Home Office,North,Chandigarh,Fashion,Sneakers,4,3200,0.2,10240,2816,Cash on Delivery,Delivered
+ORD100535,31-08-2024,1112,Isha Agarwal,Home Office,North,Chandigarh,Fashion,Jeans,4,1800,0.15,6120,1944,Net Banking,Delivered
+ORD100536,07-01-2024,1126,Riya Jain,Consumer,East,Patna,Beauty,Hair Dryer,2,2200,0,4400,1980,UPI,Delivered
+ORD100537,30-10-2025,1179,Simran Singh,Home Office,East,Kolkata,Electronics,Keyboard,1,1800,0.25,0,0,Debit Card,Cancelled
+ORD100538,05-12-2024,1045,Meera Gupta,Home Office,West,Mumbai,Electronics,Smartwatch,4,5000,0.05,19000,3400,Debit Card,Delivered
+ORD100539,17-09-2025,1339,Neha Verma,Corporate,South,Hyderabad,Fashion,Jeans,3,1800,0,5400,2268,Debit Card,Delivered
+ORD100540,12-01-2025,1195,Pooja Sharma,Consumer,North,Delhi,Fashion,T-Shirt,1,900,0.1,810,288,UPI,Delivered
+ORD100541,12-12-2025,1141,Aditi Yadav,Home Office,South,Chennai,Fashion,Backpack,4,1500,0.2,4800,1320,Credit Card,Delivered
+ORD100542,18-09-2025,1030,Aditi Jain,Home Office,West,Mumbai,Beauty,Perfume,1,1800,0.15,-1224,-432,Net Banking,Returned
+ORD100543,24-12-2025,1148,Vivaan Singh,Home Office,North,Chandigarh,Beauty,Hair Dryer,3,2200,0.1,0,0,Net Banking,Cancelled
+ORD100544,28-12-2024,1067,Meera Mishra,Home Office,South,Kochi,Fashion,Backpack,4,1500,0.15,5100,1620,Credit Card,Delivered
+ORD100545,26-12-2025,1149,Ananya Sharma,Home Office,South,Hyderabad,Electronics,Laptop,1,55000,0,55000,12100,UPI,Delivered
+ORD100546,31-07-2024,1316,Aarav Sharma,Home Office,South,Kochi,Fashion,T-Shirt,1,900,0.1,810,288,Credit Card,Delivered
+ORD100547,12-01-2024,1328,Pooja Agarwal,Corporate,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,3,4200,0,12600,3528,Net Banking,Delivered
+ORD100548,17-07-2025,1166,Ananya Gupta,Home Office,East,Kolkata,Electronics,Smartwatch,3,5000,0.1,13500,1800,Net Banking,Delivered
+ORD100549,22-09-2025,1015,Yash Verma,Corporate,North,Lucknow,Furniture,Office Chair,3,6500,0.1,-14040,-3432,Cash on Delivery,Returned
+ORD100550,06-02-2024,1331,Meera Mishra,Home Office,East,Bhubaneswar,Fashion,Sneakers,2,3200,0.25,4800,1088,Debit Card,Delivered
+ORD100551,18-04-2025,1212,Rohan Singh,Home Office,West,Mumbai,Fashion,Backpack,3,1500,0.2,-2880,-792,Debit Card,Returned
+ORD100552,22-07-2025,1275,Meera Mishra,Consumer,North,Delhi,Furniture,Office Chair,3,6500,0.1,17550,4290,Debit Card,Delivered
+ORD100553,01-02-2024,1174,Vivaan Agarwal,Corporate,East,Ranchi,Beauty,Face Wash,2,450,0.2,0,0,Credit Card,Cancelled
+ORD100554,01-09-2025,1060,Vivaan Kumar,Consumer,West,Ahmedabad,Home & Kitchen,Air Fryer,1,6500,0.1,5850,1170,Cash on Delivery,Delivered
+ORD100555,31-08-2024,1191,Aditya Patel,Consumer,West,Surat,Home & Kitchen,Mixer Grinder,2,4200,0.2,6720,672,UPI,Delivered
+ORD100556,18-01-2025,1020,Yash Mishra,Corporate,North,Lucknow,Electronics,Headphones,4,2500,0.2,8000,200,Net Banking,Delivered
+ORD100557,06-06-2024,1098,Aditi Patel,Consumer,South,Chennai,Fashion,Sneakers,3,3200,0.1,8640,3072,Net Banking,Delivered
+ORD100558,23-11-2025,1068,Pooja Patel,Home Office,South,Hyderabad,Electronics,Smartphone,4,28000,0.15,-76160,-6272,UPI,Returned
+ORD100559,05-01-2024,1160,Simran Jain,Consumer,West,Mumbai,Beauty,Hair Dryer,1,2200,0.1,1980,770,UPI,Delivered
+ORD100560,17-06-2025,1338,Aarav Gupta,Corporate,West,Ahmedabad,Electronics,Laptop,3,55000,0.25,123750,-4950,Credit Card,Delivered
+ORD100561,16-07-2024,1147,Isha Agarwal,Consumer,North,Jaipur,Beauty,Face Wash,3,450,0.15,-918,-324,Debit Card,Returned
+ORD100562,01-06-2024,1081,Priya Agarwal,Home Office,North,Jaipur,Electronics,Smartwatch,1,5000,0.2,0,0,UPI,Cancelled
+ORD100563,30-07-2024,1278,Arjun Gupta,Home Office,North,Jaipur,Beauty,Face Wash,3,450,0.1,1215,472.5,Debit Card,Delivered
+ORD100564,10-08-2025,1126,Riya Jain,Home Office,East,Bhubaneswar,Electronics,Headphones,3,2500,0.2,6000,150,Cash on Delivery,Delivered
+ORD100565,21-02-2024,1067,Meera Mishra,Consumer,South,Bengaluru,Fashion,Sneakers,1,3200,0,3200,1344,UPI,Delivered
+ORD100566,12-03-2025,1201,Sneha Verma,Corporate,North,Lucknow,Beauty,Hair Dryer,4,2200,0.2,7040,2200,Debit Card,Delivered
+ORD100567,21-07-2024,1344,Aditi Yadav,Corporate,East,Kolkata,Fashion,Jeans,2,1800,0,-2880,-1209.6,UPI,Returned
+ORD100568,11-04-2025,1159,Aarav Sharma,Home Office,West,Surat,Fashion,Sneakers,2,3200,0.05,6080,2368,Debit Card,Delivered
+ORD100569,07-01-2025,1201,Sneha Verma,Consumer,North,Lucknow,Home & Kitchen,Air Fryer,3,6500,0.15,16575,2535,UPI,Delivered
+ORD100570,01-05-2025,1058,Kavya Singh,Corporate,South,Chennai,Fashion,Sneakers,4,3200,0.05,12160,4736,Net Banking,Delivered
+ORD100571,11-08-2025,1066,Ananya Agarwal,Home Office,East,Kolkata,Home & Kitchen,Cookware Set,1,3200,0.1,0,0,UPI,Cancelled
+ORD100572,05-11-2024,1273,Vivaan Mishra,Consumer,West,Surat,Home & Kitchen,Cookware Set,4,3200,0.05,0,0,Net Banking,Cancelled
+ORD100573,11-06-2024,1247,Simran Verma,Home Office,East,Ranchi,Electronics,Headphones,3,2500,0.05,-5700,-1020,Cash on Delivery,Returned
+ORD100574,21-03-2025,1291,Nisha Gupta,Home Office,East,Patna,Beauty,Face Wash,2,450,0.05,-684,-288,UPI,Returned
+ORD100575,29-12-2025,1294,Yash Jain,Consumer,East,Ranchi,Electronics,Smartwatch,4,5000,0.1,0,0,Cash on Delivery,Cancelled
+ORD100576,29-06-2024,1158,Aarav Singh,Corporate,East,Ranchi,Electronics,Headphones,1,2500,0.25,0,0,Debit Card,Cancelled
+ORD100577,21-05-2025,1331,Meera Mishra,Home Office,East,Kolkata,Electronics,Headphones,2,2500,0.05,0,0,UPI,Cancelled
+ORD100578,30-05-2024,1339,Neha Verma,Home Office,South,Hyderabad,Fashion,Jeans,3,1800,0.15,0,0,Cash on Delivery,Cancelled
+ORD100579,19-07-2024,1106,Isha Gupta,Corporate,East,Patna,Home & Kitchen,Mixer Grinder,3,4200,0.15,-8568,-1310.4,UPI,Returned
+ORD100580,19-08-2025,1005,Neha Gupta,Home Office,West,Surat,Electronics,Keyboard,3,1800,0,5400,1188,UPI,Delivered
+ORD100581,01-01-2024,1287,Yash Mishra,Corporate,West,Ahmedabad,Electronics,Smartwatch,3,5000,0,15000,3300,Net Banking,Delivered
+ORD100582,07-02-2025,1321,Ananya Yadav,Home Office,North,Jaipur,Home & Kitchen,Cookware Set,4,3200,0.15,10880,1664,Credit Card,Delivered
+ORD100583,09-11-2025,1089,Aditi Verma,Corporate,North,Chandigarh,Electronics,Keyboard,2,1800,0.2,2880,72,Cash on Delivery,Delivered
+ORD100584,06-06-2024,1148,Vivaan Singh,Consumer,North,Lucknow,Electronics,Keyboard,1,1800,0,-1440,-316.8,Credit Card,Returned
+ORD100585,13-05-2025,1337,Ananya Patel,Corporate,West,Surat,Electronics,Keyboard,1,1800,0.05,-1368,-244.8,Cash on Delivery,Returned
+ORD100586,13-12-2025,1310,Nisha Sharma,Corporate,East,Ranchi,Beauty,Hair Dryer,2,2200,0.15,0,0,Net Banking,Cancelled
+ORD100587,05-04-2025,1197,Aarav Agarwal,Consumer,South,Chennai,Furniture,Study Table,2,8500,0.15,0,0,Net Banking,Cancelled
+ORD100588,25-05-2025,1122,Ananya Yadav,Home Office,East,Patna,Fashion,T-Shirt,3,900,0,2700,1134,Cash on Delivery,Delivered
+ORD100589,22-12-2025,1189,Rohan Singh,Consumer,South,Bengaluru,Beauty,Perfume,4,1800,0.25,5400,1440,Net Banking,Delivered
+ORD100590,13-10-2024,1239,Riya Agarwal,Home Office,North,Delhi,Fashion,Backpack,1,1500,0.05,1425,555,UPI,Delivered
+ORD100591,01-12-2025,1325,Aarav Gupta,Consumer,South,Chennai,Beauty,Hair Dryer,1,2200,0.1,0,0,Cash on Delivery,Cancelled
+ORD100592,09-04-2025,1263,Simran Agarwal,Corporate,East,Ranchi,Beauty,Perfume,3,1800,0.15,4590,1620,Debit Card,Delivered
+ORD100593,20-06-2024,1019,Priya Sharma,Corporate,North,Jaipur,Beauty,Perfume,3,1800,0,-4320,-1944,Net Banking,Returned
+ORD100594,22-06-2024,1294,Yash Jain,Consumer,East,Kolkata,Home & Kitchen,Mixer Grinder,1,4200,0.1,3780,756,Credit Card,Delivered
+ORD100595,01-06-2025,1040,Rohan Patel,Corporate,North,Jaipur,Furniture,Bookshelf,2,4500,0.2,7200,1080,Debit Card,Delivered
+ORD100596,15-01-2024,1058,Kavya Singh,Corporate,South,Hyderabad,Beauty,Perfume,2,1800,0.25,2700,720,Credit Card,Delivered
+ORD100597,24-09-2024,1121,Neha Sharma,Consumer,North,Chandigarh,Electronics,Mouse,1,900,0.1,810,108,Net Banking,Delivered
+ORD100598,06-06-2024,1254,Karan Sharma,Home Office,West,Surat,Home & Kitchen,Cookware Set,2,3200,0.25,4800,192,Credit Card,Delivered
+ORD100599,03-08-2024,1296,Priya Verma,Consumer,East,Patna,Electronics,Smartphone,3,28000,0,84000,18480,Cash on Delivery,Delivered
+ORD100600,12-02-2025,1244,Arjun Patel,Home Office,North,Jaipur,Fashion,Sneakers,2,3200,0.15,-4352,-1382.4,Cash on Delivery,Returned
+ORD100601,30-04-2025,1135,Aditi Yadav,Corporate,West,Pune,Fashion,Backpack,4,1500,0,6000,2520,Cash on Delivery,Delivered
+ORD100602,25-11-2025,1162,Rahul Verma,Home Office,East,Kolkata,Electronics,Smartwatch,3,5000,0.15,0,0,Debit Card,Cancelled
+ORD100603,09-12-2024,1139,Kavya Singh,Corporate,East,Patna,Electronics,Smartwatch,3,5000,0.25,0,0,Cash on Delivery,Cancelled
+ORD100604,22-11-2025,1124,Neha Gupta,Consumer,South,Hyderabad,Fashion,Backpack,3,1500,0.25,-2700,-612,Debit Card,Returned
+ORD100605,14-07-2025,1006,Meera Singh,Home Office,South,Bengaluru,Electronics,Headphones,1,2500,0.15,2125,175,UPI,Delivered
+ORD100606,02-12-2025,1229,Simran Patel,Consumer,North,Jaipur,Furniture,Study Table,3,8500,0.1,22950,5610,UPI,Delivered
+ORD100607,26-09-2025,1048,Aditya Gupta,Consumer,South,Bengaluru,Beauty,Hair Dryer,2,2200,0.2,-2816,-880,UPI,Returned
+ORD100608,29-03-2024,1310,Nisha Sharma,Consumer,East,Bhubaneswar,Home & Kitchen,Cookware Set,2,3200,0,-5120,-1433.6,Debit Card,Returned
+ORD100609,28-10-2024,1240,Neha Patel,Home Office,East,Kolkata,Fashion,Jeans,3,1800,0.15,-3672,-1166.4,Debit Card,Returned
+ORD100610,20-09-2024,1083,Nisha Patel,Corporate,West,Mumbai,Furniture,Bookshelf,1,4500,0.15,3825,765,UPI,Delivered
+ORD100611,21-09-2024,1136,Rahul Sharma,Home Office,East,Bhubaneswar,Fashion,Jeans,1,1800,0.15,1530,486,Cash on Delivery,Delivered
+ORD100612,01-07-2024,1331,Meera Mishra,Consumer,East,Ranchi,Electronics,Smartwatch,2,5000,0.2,8000,200,Net Banking,Delivered
+ORD100613,20-10-2025,1055,Sneha Patel,Consumer,North,Chandigarh,Furniture,Bookshelf,1,4500,0,4500,1440,Net Banking,Delivered
+ORD100614,13-09-2024,1229,Simran Patel,Consumer,North,Delhi,Fashion,Sneakers,2,3200,0.25,-3840,-870.4,UPI,Returned
+ORD100615,11-11-2025,1200,Vivaan Singh,Consumer,East,Patna,Electronics,Keyboard,3,1800,0.15,0,0,Net Banking,Cancelled
+ORD100616,25-12-2025,1252,Karan Gupta,Home Office,East,Ranchi,Fashion,T-Shirt,4,900,0.25,2700,612,Credit Card,Delivered
+ORD100617,04-01-2024,1197,Aarav Agarwal,Corporate,South,Kochi,Electronics,Smartwatch,3,5000,0.1,-10800,-1440,Cash on Delivery,Returned
+ORD100618,26-02-2024,1324,Aditi Kumar,Corporate,East,Kolkata,Home & Kitchen,Coffee Maker,3,3800,0,11400,3192,Credit Card,Delivered
+ORD100619,29-06-2024,1284,Riya Gupta,Corporate,South,Bengaluru,Home & Kitchen,Cookware Set,2,3200,0.1,-4608,-921.6,UPI,Returned
+ORD100620,07-10-2025,1184,Isha Patel,Consumer,East,Ranchi,Electronics,Headphones,4,2500,0.25,7500,-300,UPI,Delivered
+ORD100621,16-07-2024,1013,Simran Mishra,Home Office,South,Hyderabad,Fashion,Sneakers,4,3200,0,0,0,Debit Card,Cancelled
+ORD100622,26-05-2025,1274,Rohan Sharma,Corporate,South,Kochi,Electronics,Laptop,1,55000,0.1,49500,6600,UPI,Delivered
+ORD100623,19-02-2025,1061,Pooja Kumar,Consumer,East,Bhubaneswar,Fashion,Backpack,4,1500,0.25,0,0,Net Banking,Cancelled
+ORD100624,26-08-2024,1037,Aarav Yadav,Corporate,West,Mumbai,Electronics,Keyboard,4,1800,0.25,5400,-216,Net Banking,Delivered
+ORD100625,16-02-2024,1125,Rohan Agarwal,Corporate,South,Hyderabad,Electronics,Laptop,2,55000,0.25,82500,-3300,UPI,Delivered
+ORD100626,12-04-2025,1313,Arjun Verma,Corporate,North,Lucknow,Beauty,Perfume,1,1800,0,1800,810,Net Banking,Delivered
+ORD100627,22-09-2025,1113,Meera Agarwal,Home Office,South,Bengaluru,Furniture,Office Chair,4,6500,0.1,-18720,-4576,Cash on Delivery,Returned
+ORD100628,28-11-2024,1062,Neha Agarwal,Consumer,West,Pune,Home & Kitchen,Air Fryer,2,6500,0,0,0,Debit Card,Cancelled
+ORD100629,05-03-2024,1062,Neha Agarwal,Corporate,West,Ahmedabad,Electronics,Keyboard,4,1800,0.05,-5472,-979.2,Net Banking,Returned
+ORD100630,17-06-2024,1225,Aditi Yadav,Home Office,South,Hyderabad,Beauty,Perfume,1,1800,0.05,1710,720,Net Banking,Delivered
+ORD100631,20-01-2025,1081,Priya Agarwal,Consumer,North,Delhi,Fashion,Sneakers,1,3200,0,3200,1344,UPI,Delivered
+ORD100632,24-12-2025,1334,Rohan Sharma,Consumer,East,Patna,Fashion,T-Shirt,4,900,0.25,2700,612,Credit Card,Delivered
+ORD100633,17-10-2025,1139,Kavya Singh,Home Office,East,Ranchi,Fashion,T-Shirt,2,900,0.05,0,0,UPI,Cancelled
+ORD100634,02-09-2025,1093,Aditya Kumar,Corporate,East,Ranchi,Beauty,Hair Dryer,1,2200,0.25,1650,440,Cash on Delivery,Delivered
+ORD100635,05-01-2024,1286,Pooja Yadav,Home Office,West,Pune,Furniture,Office Chair,1,6500,0.2,5200,780,Debit Card,Delivered
+ORD100636,06-07-2025,1260,Ananya Sharma,Consumer,South,Hyderabad,Fashion,Jeans,2,1800,0.1,3240,1152,UPI,Delivered
+ORD100637,01-06-2024,1243,Simran Mishra,Consumer,North,Chandigarh,Electronics,Mouse,2,900,0.25,1350,-54,Debit Card,Delivered
+ORD100638,18-10-2024,1108,Yash Yadav,Consumer,West,Surat,Furniture,Bookshelf,3,4500,0.2,10800,1620,UPI,Delivered
+ORD100639,23-02-2024,1276,Simran Jain,Consumer,East,Bhubaneswar,Electronics,Mouse,1,900,0.15,0,0,UPI,Cancelled
+ORD100640,28-08-2024,1228,Arjun Patel,Corporate,South,Chennai,Fashion,T-Shirt,2,900,0.25,-1080,-244.8,Credit Card,Returned
+ORD100641,22-04-2024,1167,Ananya Verma,Consumer,South,Hyderabad,Electronics,Smartwatch,2,5000,0.25,7500,-300,Cash on Delivery,Delivered
+ORD100642,13-08-2024,1038,Priya Mishra,Consumer,South,Kochi,Beauty,Perfume,4,1800,0,7200,3240,Credit Card,Delivered
+ORD100643,16-09-2025,1233,Meera Mishra,Home Office,South,Hyderabad,Home & Kitchen,Cookware Set,3,3200,0.05,9120,2208,Credit Card,Delivered
+ORD100644,09-10-2025,1184,Isha Patel,Home Office,East,Patna,Furniture,Office Chair,3,6500,0.05,18525,5265,Net Banking,Delivered
+ORD100645,02-03-2024,1144,Isha Yadav,Consumer,North,Lucknow,Electronics,Smartwatch,4,5000,0.15,17000,1400,Debit Card,Delivered
+ORD100646,13-08-2024,1152,Simran Agarwal,Consumer,North,Lucknow,Beauty,Hair Dryer,2,2200,0.2,0,0,UPI,Cancelled
+ORD100647,25-02-2025,1268,Karan Agarwal,Consumer,West,Surat,Furniture,Office Chair,4,6500,0.15,22100,4420,Cash on Delivery,Delivered
+ORD100648,09-09-2024,1127,Aarav Agarwal,Home Office,East,Patna,Fashion,T-Shirt,2,900,0.2,1440,396,UPI,Delivered
+ORD100649,03-03-2025,1023,Meera Kumar,Corporate,North,Delhi,Fashion,Sneakers,1,3200,0.15,0,0,Cash on Delivery,Cancelled
+ORD100650,14-12-2025,1051,Nisha Kumar,Consumer,East,Ranchi,Fashion,Sneakers,2,3200,0,0,0,Cash on Delivery,Cancelled
+ORD100651,11-08-2024,1068,Pooja Patel,Consumer,South,Chennai,Home & Kitchen,Mixer Grinder,2,4200,0.25,6300,252,Cash on Delivery,Delivered
+ORD100652,16-11-2025,1157,Meera Sharma,Consumer,North,Lucknow,Fashion,Jeans,1,1800,0.15,1530,486,Cash on Delivery,Delivered
+ORD100653,08-07-2024,1190,Pooja Verma,Corporate,North,Chandigarh,Electronics,Laptop,1,55000,0.15,-37400,-3080,Net Banking,Returned
+ORD100654,03-02-2024,1152,Simran Agarwal,Home Office,North,Chandigarh,Furniture,Bookshelf,2,4500,0.25,6750,630,Debit Card,Delivered
+ORD100655,26-02-2024,1264,Aditi Jain,Corporate,West,Ahmedabad,Electronics,Smartphone,1,28000,0.15,23800,1960,Net Banking,Delivered
+ORD100656,11-02-2024,1188,Priya Kumar,Consumer,West,Ahmedabad,Electronics,Mouse,1,900,0.2,-576,-14.4,Credit Card,Returned
+ORD100657,08-12-2024,1123,Aditya Mishra,Corporate,East,Kolkata,Fashion,Sneakers,2,3200,0.25,4800,1088,Debit Card,Delivered
+ORD100658,30-09-2024,1258,Riya Agarwal,Corporate,South,Kochi,Furniture,Bookshelf,1,4500,0,4500,1440,Cash on Delivery,Delivered
+ORD100659,12-05-2025,1257,Nisha Patel,Corporate,East,Kolkata,Fashion,Sneakers,3,3200,0.15,0,0,UPI,Cancelled
+ORD100660,11-07-2024,1235,Aditya Mishra,Consumer,South,Bengaluru,Electronics,Headphones,4,2500,0.05,9500,1700,UPI,Delivered
+ORD100661,17-06-2024,1142,Meera Patel,Home Office,South,Bengaluru,Electronics,Keyboard,4,1800,0.05,6840,1224,UPI,Delivered
+ORD100662,27-10-2024,1214,Neha Singh,Home Office,East,Bhubaneswar,Fashion,Sneakers,3,3200,0.15,8160,2592,UPI,Delivered
+ORD100663,25-10-2024,1097,Kavya Verma,Corporate,West,Mumbai,Electronics,Laptop,2,55000,0.2,-70400,-1760,Cash on Delivery,Returned
+ORD100664,15-08-2025,1176,Pooja Singh,Home Office,East,Patna,Fashion,Sneakers,4,3200,0.15,10880,3456,Credit Card,Delivered
+ORD100665,09-11-2024,1088,Ananya Agarwal,Consumer,North,Jaipur,Furniture,Study Table,4,8500,0.1,30600,7480,Credit Card,Delivered
+ORD100666,27-12-2024,1146,Meera Mishra,Corporate,East,Ranchi,Electronics,Mouse,2,900,0.25,0,0,Credit Card,Cancelled
+ORD100667,28-06-2024,1342,Pooja Kumar,Corporate,West,Pune,Electronics,Mouse,2,900,0,1800,396,Net Banking,Delivered
+ORD100668,09-05-2024,1226,Aarav Agarwal,Home Office,East,Patna,Home & Kitchen,Coffee Maker,2,3800,0.05,0,0,UPI,Cancelled
+ORD100669,12-11-2025,1163,Priya Sharma,Consumer,South,Chennai,Electronics,Keyboard,3,1800,0.15,0,0,Net Banking,Cancelled
+ORD100670,04-11-2024,1063,Nisha Yadav,Corporate,West,Mumbai,Home & Kitchen,Cookware Set,4,3200,0.05,12160,2944,Credit Card,Delivered
+ORD100671,05-01-2024,1280,Kavya Verma,Home Office,North,Jaipur,Home & Kitchen,Mixer Grinder,4,4200,0.1,0,0,Credit Card,Cancelled
+ORD100672,01-08-2025,1227,Priya Patel,Home Office,North,Jaipur,Electronics,Smartwatch,4,5000,0,20000,4400,Net Banking,Delivered
+ORD100673,29-04-2024,1158,Aarav Singh,Consumer,East,Kolkata,Home & Kitchen,Cookware Set,2,3200,0.15,5440,832,Debit Card,Delivered
+ORD100674,26-02-2024,1312,Rahul Patel,Consumer,West,Pune,Beauty,Perfume,2,1800,0.1,3240,1260,UPI,Delivered
+ORD100675,05-07-2025,1229,Simran Patel,Corporate,North,Delhi,Fashion,Backpack,4,1500,0.05,5700,2220,Net Banking,Delivered
+ORD100676,11-09-2025,1262,Aditya Agarwal,Corporate,West,Mumbai,Home & Kitchen,Coffee Maker,4,3800,0.05,-11552,-2796.8,Debit Card,Returned
+ORD100677,30-01-2025,1191,Aditya Patel,Corporate,West,Mumbai,Home & Kitchen,Mixer Grinder,3,4200,0.1,11340,2268,Net Banking,Delivered
+ORD100678,30-03-2024,1111,Arjun Singh,Home Office,South,Kochi,Fashion,T-Shirt,4,900,0.1,3240,1152,Cash on Delivery,Delivered
+ORD100679,28-02-2025,1072,Rohan Mishra,Home Office,North,Delhi,Electronics,Keyboard,2,1800,0.1,3240,432,Debit Card,Delivered
+ORD100680,08-03-2024,1303,Rohan Verma,Corporate,South,Kochi,Electronics,Headphones,1,2500,0.15,-1700,-140,Cash on Delivery,Returned
+ORD100681,28-06-2024,1285,Nisha Patel,Corporate,West,Surat,Beauty,Perfume,2,1800,0.05,3420,1440,Debit Card,Delivered
+ORD100682,21-07-2025,1252,Karan Gupta,Home Office,East,Kolkata,Home & Kitchen,Mixer Grinder,3,4200,0.15,0,0,Cash on Delivery,Cancelled
+ORD100683,17-08-2024,1014,Yash Singh,Home Office,North,Delhi,Electronics,Keyboard,3,1800,0.1,-3888,-518.4,Cash on Delivery,Returned
+ORD100684,07-05-2024,1335,Ananya Mishra,Home Office,North,Jaipur,Fashion,T-Shirt,2,900,0.15,-1224,-388.8,Credit Card,Returned
+ORD100685,30-01-2024,1062,Neha Agarwal,Corporate,West,Ahmedabad,Fashion,Sneakers,1,3200,0.2,-2048,-563.2,Net Banking,Returned
+ORD100686,07-05-2025,1290,Aditya Mishra,Corporate,West,Surat,Furniture,Bookshelf,4,4500,0.25,13500,1260,Net Banking,Delivered
+ORD100687,12-08-2025,1009,Nisha Mishra,Corporate,West,Ahmedabad,Electronics,Mouse,1,900,0.05,855,153,Credit Card,Delivered
+ORD100688,31-12-2024,1084,Meera Singh,Corporate,West,Mumbai,Furniture,Bookshelf,3,4500,0.15,-9180,-1836,UPI,Returned
+ORD100689,23-10-2024,1150,Isha Mishra,Consumer,South,Bengaluru,Fashion,Backpack,2,1500,0.25,2250,510,Net Banking,Delivered
+ORD100690,20-06-2024,1279,Rahul Kumar,Home Office,North,Jaipur,Home & Kitchen,Air Fryer,3,6500,0.1,-14040,-2808,Debit Card,Returned
+ORD100691,08-04-2024,1274,Rohan Sharma,Corporate,South,Chennai,Electronics,Keyboard,1,1800,0.05,0,0,Debit Card,Cancelled
+ORD100692,11-05-2025,1211,Aarav Yadav,Home Office,North,Jaipur,Electronics,Mouse,1,900,0.05,855,153,Credit Card,Delivered
+ORD100693,11-07-2024,1287,Yash Mishra,Consumer,West,Mumbai,Fashion,T-Shirt,4,900,0,3600,1512,UPI,Delivered
+ORD100694,06-05-2025,1179,Simran Singh,Home Office,East,Patna,Home & Kitchen,Coffee Maker,2,3800,0.15,0,0,Debit Card,Cancelled
+ORD100695,25-06-2024,1156,Priya Kumar,Consumer,East,Kolkata,Electronics,Smartwatch,2,5000,0.05,-7600,-1360,Credit Card,Returned
+ORD100696,10-11-2024,1065,Yash Mishra,Consumer,West,Pune,Electronics,Keyboard,1,1800,0.15,-1224,-100.8,UPI,Returned
+ORD100697,20-01-2024,1248,Rohan Gupta,Home Office,South,Kochi,Electronics,Smartphone,2,28000,0,56000,12320,Net Banking,Delivered
+ORD100698,30-08-2025,1031,Sneha Agarwal,Corporate,North,Chandigarh,Electronics,Smartwatch,3,5000,0,15000,3300,UPI,Delivered
+ORD100699,08-04-2024,1064,Rohan Verma,Corporate,North,Lucknow,Beauty,Perfume,2,1800,0.05,-2736,-1152,UPI,Returned
+ORD100700,02-04-2024,1075,Priya Mishra,Home Office,West,Ahmedabad,Beauty,Perfume,3,1800,0.1,4860,1890,Net Banking,Delivered
+ORD100701,04-09-2024,1259,Kavya Gupta,Home Office,North,Delhi,Electronics,Smartwatch,1,5000,0.2,4000,100,Credit Card,Delivered
+ORD100702,15-10-2024,1088,Ananya Agarwal,Corporate,North,Delhi,Electronics,Smartwatch,2,5000,0.2,-6400,-160,Debit Card,Returned
+ORD100703,15-12-2025,1302,Ananya Jain,Corporate,East,Bhubaneswar,Fashion,Jeans,1,1800,0.05,1710,666,Cash on Delivery,Delivered
+ORD100704,07-08-2024,1264,Aditi Jain,Corporate,West,Pune,Fashion,T-Shirt,1,900,0.1,810,288,UPI,Delivered
+ORD100705,16-06-2025,1070,Meera Singh,Consumer,South,Kochi,Home & Kitchen,Coffee Maker,3,3800,0.2,-7296,-729.6,UPI,Returned
+ORD100706,01-12-2024,1253,Arjun Yadav,Home Office,North,Delhi,Home & Kitchen,Cookware Set,3,3200,0.15,0,0,Debit Card,Cancelled
+ORD100707,04-12-2025,1228,Arjun Patel,Consumer,South,Hyderabad,Beauty,Face Wash,4,450,0.1,1620,630,UPI,Delivered
+ORD100708,02-05-2025,1348,Aditya Kumar,Home Office,North,Jaipur,Electronics,Mouse,1,900,0.25,675,-27,UPI,Delivered
+ORD100709,09-02-2025,1225,Aditi Yadav,Home Office,South,Bengaluru,Electronics,Smartwatch,2,5000,0.15,8500,700,Net Banking,Delivered
+ORD100710,14-04-2024,1087,Neha Yadav,Home Office,South,Bengaluru,Home & Kitchen,Coffee Maker,2,3800,0.1,6840,1368,Cash on Delivery,Delivered
+ORD100711,05-05-2024,1120,Riya Patel,Home Office,East,Ranchi,Fashion,Sneakers,3,3200,0.25,0,0,Debit Card,Cancelled
+ORD100712,21-10-2025,1205,Isha Kumar,Corporate,North,Jaipur,Fashion,Sneakers,4,3200,0.15,0,0,Credit Card,Cancelled
+ORD100713,10-04-2025,1056,Simran Singh,Home Office,South,Bengaluru,Furniture,Bookshelf,4,4500,0.15,15300,3060,Credit Card,Delivered
+ORD100714,31-01-2024,1051,Nisha Kumar,Consumer,East,Kolkata,Electronics,Headphones,4,2500,0.25,7500,-300,Cash on Delivery,Delivered
+ORD100715,11-09-2025,1348,Aditya Kumar,Consumer,North,Jaipur,Electronics,Keyboard,3,1800,0.2,0,0,UPI,Cancelled
+ORD100716,07-11-2025,1267,Priya Jain,Corporate,East,Ranchi,Fashion,Jeans,2,1800,0.1,-2592,-921.6,Cash on Delivery,Returned
+ORD100717,31-05-2025,1134,Sneha Verma,Consumer,South,Chennai,Beauty,Face Wash,1,450,0,450,202.5,Cash on Delivery,Delivered
+ORD100718,05-04-2025,1162,Rahul Verma,Consumer,East,Ranchi,Fashion,Jeans,4,1800,0,7200,3024,Net Banking,Delivered
+ORD100719,06-11-2025,1156,Priya Kumar,Home Office,East,Bhubaneswar,Fashion,Sneakers,4,3200,0.05,12160,4736,Cash on Delivery,Delivered
+ORD100720,14-05-2025,1057,Arjun Gupta,Consumer,East,Ranchi,Beauty,Face Wash,4,450,0.15,0,0,Net Banking,Cancelled
+ORD100721,27-02-2024,1201,Sneha Verma,Corporate,North,Jaipur,Fashion,Sneakers,4,3200,0.2,-8192,-2252.8,Debit Card,Returned
+ORD100722,24-11-2024,1032,Aarav Verma,Corporate,East,Kolkata,Beauty,Perfume,1,1800,0.05,1710,720,Net Banking,Delivered
+ORD100723,28-01-2024,1321,Ananya Yadav,Corporate,North,Jaipur,Home & Kitchen,Cookware Set,1,3200,0.15,2720,416,Cash on Delivery,Delivered
+ORD100724,25-12-2024,1029,Nisha Agarwal,Home Office,West,Pune,Furniture,Study Table,2,8500,0.25,12750,1190,UPI,Delivered
+ORD100725,05-12-2025,1034,Yash Kumar,Home Office,East,Patna,Electronics,Smartwatch,3,5000,0.05,14250,2550,Debit Card,Delivered
+ORD100726,08-02-2024,1236,Meera Yadav,Home Office,West,Surat,Beauty,Perfume,4,1800,0.1,6480,2520,Cash on Delivery,Delivered
+ORD100727,25-08-2025,1012,Nisha Verma,Consumer,North,Jaipur,Home & Kitchen,Cookware Set,4,3200,0.1,0,0,Cash on Delivery,Cancelled
+ORD100728,12-04-2024,1346,Simran Agarwal,Corporate,West,Pune,Home & Kitchen,Air Fryer,4,6500,0.2,-16640,-1664,Credit Card,Returned
+ORD100729,21-09-2025,1154,Meera Yadav,Consumer,West,Ahmedabad,Fashion,T-Shirt,2,900,0.15,-1224,-388.8,Net Banking,Returned
+ORD100730,07-08-2024,1148,Vivaan Singh,Consumer,North,Jaipur,Electronics,Smartphone,3,28000,0.2,67200,1680,Net Banking,Delivered
+ORD100731,04-04-2024,1297,Rohan Agarwal,Home Office,South,Bengaluru,Beauty,Perfume,3,1800,0.1,4860,1890,Net Banking,Delivered
+ORD100732,01-05-2025,1219,Sneha Mishra,Home Office,East,Bhubaneswar,Home & Kitchen,Coffee Maker,1,3800,0.25,2850,114,Debit Card,Delivered
+ORD100733,19-03-2025,1340,Rohan Jain,Home Office,North,Jaipur,Furniture,Office Chair,4,6500,0.15,22100,4420,Net Banking,Delivered
+ORD100734,09-04-2025,1344,Aditi Yadav,Consumer,East,Bhubaneswar,Electronics,Laptop,2,55000,0.2,88000,2200,Cash on Delivery,Delivered
+ORD100735,01-10-2024,1327,Neha Yadav,Corporate,East,Ranchi,Beauty,Perfume,1,1800,0.2,1440,450,Cash on Delivery,Delivered
+ORD100736,31-05-2024,1124,Neha Gupta,Consumer,South,Hyderabad,Home & Kitchen,Mixer Grinder,4,4200,0.15,14280,2184,Credit Card,Delivered
+ORD100737,26-02-2025,1137,Priya Kumar,Consumer,East,Patna,Electronics,Mouse,3,900,0.25,0,0,Cash on Delivery,Cancelled
+ORD100738,01-09-2024,1059,Rohan Verma,Corporate,East,Bhubaneswar,Furniture,Office Chair,1,6500,0.05,6175,1755,Cash on Delivery,Delivered
+ORD100739,27-07-2025,1224,Rohan Agarwal,Consumer,South,Kochi,Electronics,Smartphone,2,28000,0.05,53200,9520,UPI,Delivered
+ORD100740,21-09-2024,1143,Isha Patel,Consumer,North,Lucknow,Electronics,Smartphone,4,28000,0,112000,24640,Debit Card,Delivered
+ORD100741,08-09-2025,1153,Karan Verma,Consumer,East,Kolkata,Fashion,T-Shirt,3,900,0.25,-1620,-367.2,Cash on Delivery,Returned
+ORD100742,23-05-2024,1121,Neha Sharma,Home Office,North,Delhi,Beauty,Perfume,1,1800,0.2,-1152,-360,Net Banking,Returned
+ORD100743,14-09-2024,1255,Pooja Kumar,Home Office,West,Mumbai,Furniture,Study Table,1,8500,0.1,7650,1870,Cash on Delivery,Delivered
+ORD100744,29-08-2024,1217,Yash Gupta,Corporate,South,Hyderabad,Electronics,Keyboard,1,1800,0.05,1710,306,Cash on Delivery,Delivered
+ORD100745,22-02-2025,1131,Aditi Kumar,Corporate,South,Bengaluru,Fashion,Sneakers,3,3200,0.25,7200,1632,Net Banking,Delivered
+ORD100746,09-03-2025,1244,Arjun Patel,Home Office,North,Lucknow,Furniture,Bookshelf,2,4500,0.1,8100,1980,Debit Card,Delivered
+ORD100747,11-11-2024,1011,Neha Gupta,Corporate,North,Delhi,Electronics,Smartphone,2,28000,0.1,0,0,Debit Card,Cancelled
+ORD100748,16-10-2025,1186,Neha Verma,Consumer,East,Kolkata,Beauty,Face Wash,2,450,0.15,765,270,Cash on Delivery,Delivered
+ORD100749,18-09-2024,1155,Nisha Agarwal,Corporate,East,Kolkata,Furniture,Study Table,3,8500,0.05,24225,6885,Debit Card,Delivered
+ORD100750,21-10-2025,1209,Meera Patel,Home Office,North,Delhi,Furniture,Bookshelf,1,4500,0.15,3825,765,Cash on Delivery,Delivered
+ORD100751,06-12-2024,1217,Yash Gupta,Corporate,South,Bengaluru,Electronics,Mouse,3,900,0.2,2160,54,Cash on Delivery,Delivered
+ORD100752,08-09-2025,1281,Aditi Agarwal,Home Office,North,Jaipur,Fashion,Jeans,1,1800,0,-1440,-604.8,Credit Card,Returned
+ORD100753,07-10-2025,1228,Arjun Patel,Corporate,South,Hyderabad,Electronics,Laptop,4,55000,0.05,-167200,-29920,Debit Card,Returned
+ORD100754,12-08-2025,1043,Karan Verma,Home Office,South,Bengaluru,Electronics,Mouse,2,900,0.2,-1152,-28.8,Credit Card,Returned
+ORD100755,31-08-2025,1211,Aarav Yadav,Corporate,North,Jaipur,Fashion,Jeans,4,1800,0.25,5400,1224,Credit Card,Delivered
+ORD100756,04-12-2025,1304,Vivaan Gupta,Corporate,East,Patna,Home & Kitchen,Mixer Grinder,2,4200,0,8400,2352,Credit Card,Delivered
+ORD100757,06-02-2025,1194,Aditi Singh,Home Office,East,Bhubaneswar,Electronics,Laptop,1,55000,0.2,-35200,-880,Credit Card,Returned
+ORD100758,01-04-2024,1237,Arjun Verma,Home Office,North,Lucknow,Furniture,Bookshelf,2,4500,0,9000,2880,Cash on Delivery,Delivered
+ORD100759,06-09-2025,1134,Sneha Verma,Consumer,South,Hyderabad,Electronics,Headphones,3,2500,0.05,0,0,UPI,Cancelled
+ORD100760,22-06-2025,1223,Yash Sharma,Consumer,East,Ranchi,Fashion,Sneakers,1,3200,0.05,-2432,-947.2,Credit Card,Returned
+ORD100761,29-09-2024,1148,Vivaan Singh,Home Office,North,Chandigarh,Home & Kitchen,Cookware Set,2,3200,0.15,5440,832,Credit Card,Delivered
+ORD100762,16-10-2024,1347,Aditya Patel,Consumer,North,Lucknow,Fashion,T-Shirt,2,900,0.15,1530,486,Debit Card,Delivered
+ORD100763,25-09-2024,1121,Neha Sharma,Home Office,North,Chandigarh,Furniture,Study Table,3,8500,0.2,-16320,-2448,Cash on Delivery,Returned
+ORD100764,28-03-2024,1006,Meera Singh,Home Office,South,Kochi,Electronics,Keyboard,3,1800,0.25,4050,-162,Credit Card,Delivered
+ORD100765,31-12-2025,1197,Aarav Agarwal,Home Office,South,Kochi,Beauty,Hair Dryer,3,2200,0,6600,2970,UPI,Delivered
+ORD100766,23-02-2024,1171,Karan Patel,Home Office,West,Pune,Fashion,Sneakers,3,3200,0.2,-6144,-1689.6,UPI,Returned
+ORD100767,06-01-2024,1130,Rahul Patel,Consumer,West,Surat,Home & Kitchen,Mixer Grinder,4,4200,0.25,12600,504,Net Banking,Delivered
+ORD100768,12-02-2024,1298,Simran Patel,Corporate,East,Bhubaneswar,Furniture,Bookshelf,2,4500,0.2,7200,1080,Cash on Delivery,Delivered
+ORD100769,15-05-2024,1046,Nisha Kumar,Consumer,North,Jaipur,Fashion,Backpack,4,1500,0.05,5700,2220,Debit Card,Delivered
+ORD100770,15-02-2024,1066,Ananya Agarwal,Corporate,East,Ranchi,Furniture,Bookshelf,3,4500,0.15,11475,2295,Net Banking,Delivered
+ORD100771,27-09-2024,1265,Karan Singh,Corporate,North,Jaipur,Fashion,T-Shirt,2,900,0.1,-1296,-460.8,Credit Card,Returned
+ORD100772,23-07-2025,1337,Ananya Patel,Consumer,West,Surat,Electronics,Smartphone,2,28000,0.05,53200,9520,Credit Card,Delivered
+ORD100773,06-02-2024,1241,Vivaan Gupta,Corporate,South,Chennai,Electronics,Mouse,4,900,0.15,3060,252,UPI,Delivered
+ORD100774,28-03-2025,1183,Neha Sharma,Consumer,East,Ranchi,Fashion,Jeans,4,1800,0,-5760,-2419.2,UPI,Returned
+ORD100775,23-12-2024,1048,Aditya Gupta,Home Office,South,Hyderabad,Home & Kitchen,Mixer Grinder,2,4200,0.05,-6384,-1545.6,Debit Card,Returned
+ORD100776,30-07-2025,1340,Rohan Jain,Consumer,North,Lucknow,Beauty,Perfume,1,1800,0.2,0,0,Cash on Delivery,Cancelled
+ORD100777,19-03-2024,1127,Aarav Agarwal,Home Office,East,Ranchi,Electronics,Smartwatch,3,5000,0,15000,3300,UPI,Delivered
+ORD100778,07-02-2025,1192,Aditi Yadav,Corporate,South,Bengaluru,Home & Kitchen,Air Fryer,2,6500,0,13000,3640,Cash on Delivery,Delivered
+ORD100779,09-04-2025,1322,Meera Gupta,Home Office,West,Ahmedabad,Beauty,Hair Dryer,1,2200,0.1,1980,770,Net Banking,Delivered
+ORD100780,08-04-2025,1167,Ananya Verma,Corporate,South,Hyderabad,Furniture,Office Chair,1,6500,0.25,4875,455,UPI,Delivered
+ORD100781,13-03-2024,1281,Aditi Agarwal,Consumer,North,Chandigarh,Electronics,Headphones,4,2500,0.1,9000,1200,Cash on Delivery,Delivered
+ORD100782,01-04-2024,1011,Neha Gupta,Home Office,North,Lucknow,Electronics,Mouse,4,900,0.15,3060,252,Credit Card,Delivered
+ORD100783,03-05-2024,1153,Karan Verma,Consumer,East,Ranchi,Fashion,T-Shirt,3,900,0.25,0,0,Debit Card,Cancelled
+ORD100784,12-11-2025,1050,Karan Mishra,Corporate,North,Jaipur,Fashion,Backpack,2,1500,0.15,2550,810,Cash on Delivery,Delivered
+ORD100785,01-10-2024,1289,Meera Patel,Consumer,South,Kochi,Electronics,Headphones,4,2500,0.1,0,0,Cash on Delivery,Cancelled
+ORD100786,07-10-2025,1219,Sneha Mishra,Consumer,East,Kolkata,Electronics,Smartphone,3,28000,0.15,-57120,-4704,Credit Card,Returned
+ORD100787,22-05-2025,1270,Vivaan Sharma,Corporate,South,Bengaluru,Home & Kitchen,Mixer Grinder,4,4200,0.15,14280,2184,Debit Card,Delivered
+ORD100788,01-06-2024,1066,Ananya Agarwal,Consumer,East,Patna,Furniture,Study Table,4,8500,0.1,0,0,Net Banking,Cancelled
+ORD100789,19-03-2024,1024,Karan Yadav,Corporate,South,Bengaluru,Fashion,Backpack,4,1500,0.15,5100,1620,Net Banking,Delivered
+ORD100790,16-09-2024,1182,Riya Mishra,Consumer,East,Patna,Beauty,Perfume,1,1800,0.2,1440,450,Cash on Delivery,Delivered
+ORD100791,02-07-2024,1094,Aditi Gupta,Corporate,South,Kochi,Electronics,Smartphone,1,28000,0.15,-19040,-1568,Debit Card,Returned
+ORD100792,24-08-2025,1233,Meera Mishra,Consumer,South,Kochi,Beauty,Hair Dryer,3,2200,0.1,5940,2310,Credit Card,Delivered
+ORD100793,21-03-2024,1310,Nisha Sharma,Consumer,East,Patna,Electronics,Smartwatch,4,5000,0.2,16000,400,Cash on Delivery,Delivered
+ORD100794,29-04-2024,1007,Vivaan Singh,Home Office,North,Lucknow,Fashion,Sneakers,4,3200,0.25,9600,2176,Net Banking,Delivered
+ORD100795,13-05-2025,1156,Priya Kumar,Consumer,East,Patna,Home & Kitchen,Cookware Set,3,3200,0,9600,2688,UPI,Delivered
+ORD100796,14-07-2024,1058,Kavya Singh,Home Office,South,Bengaluru,Furniture,Office Chair,1,6500,0.05,6175,1755,Credit Card,Delivered
+ORD100797,27-10-2025,1124,Neha Gupta,Corporate,South,Kochi,Beauty,Face Wash,2,450,0,900,405,Credit Card,Delivered
+ORD100798,30-04-2025,1217,Yash Gupta,Home Office,South,Bengaluru,Electronics,Smartwatch,2,5000,0.05,-7600,-1360,Cash on Delivery,Returned
+ORD100799,11-05-2025,1242,Aditi Kumar,Home Office,East,Kolkata,Fashion,Jeans,2,1800,0.05,3420,1332,Cash on Delivery,Delivered
+ORD100800,22-02-2024,1171,Karan Patel,Home Office,West,Mumbai,Electronics,Smartwatch,4,5000,0.15,17000,1400,Net Banking,Delivered
+ORD100801,02-09-2025,1284,Riya Gupta,Home Office,South,Chennai,Electronics,Smartphone,4,28000,0.15,95200,7840,Net Banking,Delivered
+ORD100802,18-09-2025,1348,Aditya Kumar,Corporate,North,Chandigarh,Furniture,Study Table,1,8500,0.2,6800,1020,Net Banking,Delivered
+ORD100803,19-11-2024,1284,Riya Gupta,Corporate,South,Bengaluru,Furniture,Bookshelf,4,4500,0.15,15300,3060,Credit Card ,Delivered
+ORD100804,23-10-2025,1178,Meera Mishra,Home Office,East,Ranchi,Fashion,T-Shirt,1,900,0.05,855,333,Credit Card,Delivered
+ORD100805,25-04-2025,1177,Vivaan Verma,Corporate,North,Chandigarh,Furniture,Study Table,2,8500,0.2,-10880,-1632,Net Banking,Returned
+ORD100806,03-11-2025,1240,Neha Patel,Home Office,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,4,4200,0.15,-11424,-1747.2,Debit Card,Returned
+ORD100807,28-04-2025,1083,Nisha Patel,Consumer,West,Pune,Home & Kitchen,Mixer Grinder,1,4200,0.25,3150,126,Credit Card,Delivered
+ORD100808,23-07-2024,1081,Priya Agarwal,Consumer,North,Chandigarh,Electronics,Smartwatch,4,5000,0.15,17000,1400,Credit Card,Delivered
+ORD100809,24-07-2025,1025,Priya Gupta,Consumer,West,Mumbai,Home & Kitchen,Coffee Maker,3,3800,0.1,-8208,-1641.6,Credit Card,Returned
+ORD100810,30-05-2025,1017,Pooja Sharma,Consumer,North,Delhi,Home & Kitchen,Air Fryer,4,6500,0,0,0,UPI,Cancelled
+ORD100811,29-07-2025,1115,Meera Verma,Home Office,South,Kochi,Furniture,Bookshelf,3,4500,0.1,12150,2970,Debit Card,Delivered
+ORD100812,03-06-2024,1264,Aditi Jain,Consumer,West,Mumbai,Electronics,Smartphone,4,28000,0.15,95200,7840,Net Banking,Delivered
+ORD100813,16-09-2025,1053,Nisha Mishra,Consumer,East,Kolkata,Fashion,Backpack,1,1500,0.05,-1140,-444,Credit Card,Returned
+ORD100814,05-01-2025,1081,Priya Agarwal,Consumer,North,Jaipur,Fashion,Jeans,4,1800,0.25,5400,1224,Debit Card,Delivered
+ORD100815,08-12-2024,1071,Rahul Verma,Consumer,North,Delhi,Furniture,Office Chair,4,6500,0.15,22100,4420,Cash on Delivery,Delivered
+ORD100816,15-12-2024,1147,Isha Agarwal,Corporate,North,Lucknow,Electronics,Headphones,3,2500,0.1,-5400,-720,Debit Card,Returned
+ORD100817,06-10-2025,1341,Sneha Singh,Corporate,South,Hyderabad,Electronics,Keyboard,4,1800,0.05,6840,1224,Cash on Delivery,Delivered
+ORD100818,23-02-2025,1235,Aditya Mishra,Home Office,South,Chennai,Electronics,Laptop,4,55000,0.05,209000,37400,Net Banking,Delivered
+ORD100819,12-03-2024,1044,Riya Yadav,Consumer,East,Patna,Home & Kitchen,Air Fryer,4,6500,0.05,24700,5980,Cash on Delivery,Delivered
+ORD100820,07-02-2024,1339,Neha Verma,Home Office,South,Hyderabad,Beauty,Perfume,1,1800,0.25,-1080,-288,Net Banking,Returned
+ORD100821,29-10-2024,1215,Vivaan Singh,Corporate,West,Surat,Beauty,Face Wash,3,450,0.25,-810,-216,Debit Card,Returned
+ORD100822,09-01-2024,1144,Isha Yadav,Home Office,North,Lucknow,Home & Kitchen,Cookware Set,4,3200,0.25,9600,384,Net Banking,Delivered
+ORD100823,25-09-2025,1334,Rohan Sharma,Consumer,East,Ranchi,Home & Kitchen,Coffee Maker,4,3800,0.05,14440,3496,UPI,Delivered
+ORD100824,04-07-2025,1172,Rohan Kumar,Home Office,South,Kochi,Electronics,Keyboard,3,1800,0.05,5130,918,Net Banking,Delivered
+ORD100825,15-11-2024,1267,Priya Jain,Home Office,East,Patna,Electronics,Mouse,1,900,0,0,0,Debit Card,Cancelled
+ORD100826,04-09-2024,1156,Priya Kumar,Corporate,East,Ranchi,Fashion,Backpack,1,1500,0.25,1125,255,Debit Card,Delivered
+ORD100827,04-10-2025,1260,Ananya Sharma,Corporate,South,Chennai,Electronics,Smartwatch,1,5000,0.25,3750,-150,Debit Card,Delivered
+ORD100828,09-08-2025,1003,Neha Yadav,Home Office,West,Surat,Home & Kitchen,Air Fryer,2,6500,0.25,0,0,Net Banking,Cancelled
+ORD100829,01-09-2025,1120,Riya Patel,Home Office,East,Patna,Home & Kitchen,Mixer Grinder,3,4200,0.25,-7560,-302.4,Credit Card,Returned
+ORD100830,21-01-2025,1267,Priya Jain,Consumer,East,Bhubaneswar,Electronics,Smartwatch,3,5000,0.2,0,0,Debit Card,Cancelled
+ORD100831,10-04-2025,1051,Nisha Kumar,Consumer,East,Bhubaneswar,Fashion,T-Shirt,4,900,0,3600,1512,Cash on Delivery,Delivered
+ORD100832,13-05-2024,1244,Arjun Patel,Home Office,North,Lucknow,Fashion,Jeans,1,1800,0.1,-1296,-460.8,Cash on Delivery,Returned
+ORD100833,25-08-2025,1287,Yash Mishra,Corporate,West,Surat,Furniture,Bookshelf,4,4500,0.25,13500,1260,Cash on Delivery,Delivered
+ORD100834,02-03-2025,1084,Meera Singh,Corporate,West,Pune,Fashion,Backpack,2,1500,0.15,-2040,-648,Credit Card,Returned
+ORD100835,22-12-2025,1263,Simran Agarwal,Home Office,East,Kolkata,Furniture,Office Chair,4,6500,0.15,22100,4420,Credit Card,Delivered
+ORD100836,26-07-2025,1190,Pooja Verma,Corporate,North,Delhi,Beauty,Hair Dryer,4,2200,0,8800,3960,Net Banking,Delivered
+ORD100837,23-10-2024,1021,Ananya Singh,Corporate,West,Pune,Electronics,Smartwatch,3,5000,0.1,13500,1800,Debit Card,Delivered
+ORD100838,12-05-2025,1015,Yash Verma,Corporate,North,Lucknow,Electronics,Keyboard,4,1800,0,7200,1584,Credit Card,Delivered
+ORD100839,06-07-2024,1251,Vivaan Kumar,Corporate,West,Mumbai,Electronics,Smartwatch,3,5000,0,15000,3300,Cash on Delivery,Delivered
+ORD100840,09-08-2025,1159,Aarav Sharma,Home Office,West,Surat,Home & Kitchen,Air Fryer,4,6500,0.15,-17680,-2704,Credit Card,Returned
+ORD100841,21-05-2024,1259,Kavya Gupta,Corporate,North,Chandigarh,Fashion,Jeans,4,1800,0.05,-5472,-2131.2,UPI,Returned
+ORD100842,01-10-2025,1341,Sneha Singh,Home Office,South,Kochi,Home & Kitchen,Cookware Set,2,3200,0.15,5440,832,UPI,Delivered
+ORD100843,17-11-2025,1227,Priya Patel,Home Office,North,Jaipur,Electronics,Headphones,2,2500,0.25,3750,-150,Debit Card,Delivered
+ORD100844,28-07-2025,1331,Meera Mishra,Home Office,East,Kolkata,Beauty,Face Wash,1,450,0.05,0,0,Net Banking,Cancelled
+ORD100845,24-02-2024,1292,Karan Jain,Home Office,West,Pune,Fashion,Sneakers,1,3200,0,-2560,-1075.2,Credit Card,Returned
+ORD100846,20-01-2024,1141,Aditi Yadav,Home Office,South,Hyderabad,Furniture,Study Table,4,8500,0,0,0,Debit Card,Cancelled
+ORD100847,15-02-2025,1302,Ananya Jain,Consumer,East,Kolkata,Fashion,Sneakers,1,3200,0.1,2880,1024,Cash on Delivery,Delivered
+ORD100848,25-01-2024,1271,Priya Jain,Consumer,North,Jaipur,Home & Kitchen,Cookware Set,3,3200,0,9600,2688,Net Banking,Delivered
+ORD100849,21-06-2024,1147,Isha Agarwal,Corporate,North,Lucknow,Electronics,Mouse,3,900,0,2700,594,Cash on Delivery,Delivered
+ORD100850,25-11-2025,1087,Neha Yadav,Home Office,South,Bengaluru,Beauty,Hair Dryer,3,2200,0.05,6270,2640,UPI,Delivered
+ORD100851,01-11-2024,1200,Vivaan Singh,Corporate,East,Kolkata,Home & Kitchen,Air Fryer,2,6500,0.15,11050,1690,Cash on Delivery,Delivered
+ORD100852,03-05-2024,1027,Aarav Jain,Home Office,South,Hyderabad,Furniture,Study Table,2,8500,0.15,0,0,Cash on Delivery,Cancelled
+ORD100853,27-04-2024,1138,Kavya Mishra,Consumer,West,Mumbai,Home & Kitchen,Air Fryer,4,6500,0.2,20800,2080,Cash on Delivery,Delivered
+ORD100854,30-01-2024,1209,Meera Patel,Home Office,North,Lucknow,Electronics,Laptop,3,55000,0.2,0,0,UPI,Cancelled
+ORD100855,09-09-2024,1285,Nisha Patel,Home Office,West,Pune,Home & Kitchen,Mixer Grinder,4,4200,0.15,14280,2184,Net Banking,Delivered
+ORD100856,27-07-2024,1073,Simran Sharma,Corporate,West,Ahmedabad,Beauty,Face Wash,2,450,0.05,0,0,Net Banking,Cancelled
+ORD100857,07-04-2025,1022,Aditya Sharma,Consumer,East,Kolkata,Fashion,Jeans,3,1800,0.25,4050,918,UPI,Delivered
+ORD100858,08-05-2025,1140,Yash Sharma,Home Office,North,Jaipur,Home & Kitchen,Cookware Set,3,3200,0.25,7200,288,Net Banking,Delivered
+ORD100859,15-10-2024,1024,Karan Yadav,Corporate,South,Hyderabad,Beauty,Face Wash,1,450,0.1,405,157.5,UPI,Delivered
+ORD100860,23-05-2024,1285,Nisha Patel,Corporate,West,Ahmedabad,Fashion,T-Shirt,2,900,0.2,0,0,Debit Card,Cancelled
+ORD100861,12-10-2025,1134,Sneha Verma,Corporate,South,Kochi,Furniture,Bookshelf,2,4500,0.25,6750,630,Credit Card,Delivered
+ORD100862,15-04-2025,1307,Aarav Gupta,Home Office,North,Jaipur,Electronics,Laptop,2,55000,0.25,82500,-3300,Cash on Delivery,Delivered
+ORD100863,05-01-2024,1005,Neha Gupta,Consumer,West,Pune,Fashion,T-Shirt,4,900,0.15,0,0,UPI,Cancelled
+ORD100864,05-07-2025,1016,Nisha Agarwal,Corporate,East,Ranchi,Electronics,Smartwatch,3,5000,0.15,0,0,Cash on Delivery,Cancelled
+ORD100865,30-06-2024,1005,Neha Gupta,Consumer,West,Mumbai,Fashion,Jeans,3,1800,0.05,5130,1998,Credit Card,Delivered
+ORD100866,21-01-2024,1144,Isha Yadav,Corporate,North,Jaipur,Furniture,Office Chair,1,6500,0.2,-4160,-624,Credit Card,Returned
+ORD100867,27-08-2024,1253,Arjun Yadav,Home Office,North,Jaipur,Electronics,Smartphone,3,28000,0.15,-57120,-4704,Net Banking,Returned
+ORD100868,02-08-2024,1004,Neha Agarwal,Home Office,South,Hyderabad,Home & Kitchen,Cookware Set,1,3200,0.1,0,0,Cash on Delivery,Cancelled
+ORD100869,23-06-2024,1283,Nisha Agarwal,Consumer,East,Bhubaneswar,Beauty,Perfume,2,1800,0,0,0,UPI,Cancelled
+ORD100870,10-05-2024,1133,Nisha Singh,Consumer,South,Hyderabad,Fashion,Backpack,3,1500,0.05,-3420,-1332,Net Banking,Returned
+ORD100871,21-09-2025,1130,Rahul Patel,Home Office,West,Surat,Electronics,Laptop,4,55000,0.25,-132000,-5280,UPI,Returned
+ORD100872,26-11-2024,1222,Neha Agarwal,Corporate,South,Kochi,Furniture,Bookshelf,1,4500,0.25,0,0,Cash on Delivery,Cancelled
+ORD100873,05-01-2025,1265,Karan Singh,Home Office,North,Delhi,Furniture,Study Table,1,8500,0.1,7650,1870,Cash on Delivery,Delivered
+ORD100874,19-11-2024,1003,Neha Yadav,Consumer,West,Surat,Furniture,Office Chair,3,6500,0,0,0,Credit Card,Cancelled
+ORD100875,07-12-2025,1217,Yash Gupta,Corporate,South,Bengaluru,Furniture,Study Table,2,8500,0.05,16150,4590,UPI,Delivered
+ORD100876,03-10-2025,1321,Ananya Yadav,Home Office,North,Delhi,Electronics,Laptop,4,55000,0.15,187000,15400,Debit Card,Delivered
+ORD100877,13-09-2024,1127,Aarav Agarwal,Corporate,East,Kolkata,Fashion,Sneakers,2,3200,0.1,5760,2048,Net Banking,Delivered
+ORD100878,30-08-2024,1038,Priya Mishra,Consumer,South,Kochi,Electronics,Smartwatch,4,5000,0.2,16000,400,UPI,Delivered
+ORD100879,04-02-2024,1194,Aditi Singh,Consumer,East,Patna,Electronics,Headphones,2,2500,0,5000,1100,Debit Card,Delivered
+ORD100880,17-09-2025,1321,Ananya Yadav,Home Office,North,Chandigarh,Electronics,Headphones,1,2500,0.25,1875,-75,UPI,Delivered
+ORD100881,28-10-2024,1196,Arjun Verma,Home Office,West,Surat,Electronics,Smartwatch,4,5000,0.05,0,0,Net Banking,Cancelled
+ORD100882,11-01-2024,1233,Meera Mishra,Consumer,South,Kochi,Fashion,Jeans,4,1800,0.2,0,0,Debit Card,Cancelled
+ORD100883,28-10-2025,1346,Simran Agarwal,Consumer,West,Mumbai,Fashion,Jeans,3,1800,0.2,4320,1188,UPI,Delivered
+ORD100884,13-01-2024,1305,Neha Verma,Home Office,North,Delhi,Beauty,Perfume,2,1800,0.2,2880,900,Net Banking,Delivered
+ORD100885,19-09-2024,1182,Riya Mishra,Consumer,East,Ranchi,Fashion,Sneakers,4,3200,0.05,12160,4736,UPI,Delivered
+ORD100886,02-03-2024,1066,Ananya Agarwal,Corporate,East,Patna,Beauty,Perfume,4,1800,0.2,-4608,-1440,Debit Card,Returned
+ORD100887,20-08-2025,1278,Arjun Gupta,Corporate,North,Lucknow,Electronics,Keyboard,4,1800,0.1,0,0,Debit Card,Cancelled
+ORD100888,12-01-2025,1005,Neha Gupta,Consumer,West,Pune,Electronics,Smartphone,2,28000,0.2,0,0,Cash on Delivery,Cancelled
+ORD100889,18-12-2024,1101,Aarav Agarwal,Home Office,West,Pune,Furniture,Office Chair,1,6500,0.1,5850,1430,Cash on Delivery,Delivered
+ORD100890,12-12-2025,1240,Neha Patel,Corporate,East,Patna,Beauty,Perfume,3,1800,0.2,4320,1350,Debit Card,Delivered
+ORD100891,15-06-2024,1054,Sneha Kumar,Home Office,East,Ranchi,Electronics,Smartphone,4,28000,0.05,106400,19040,Credit Card,Delivered
+ORD100892,10-12-2025,1118,Arjun Yadav,Home Office,South,Kochi,Beauty,Hair Dryer,2,2200,0.05,4180,1760,Debit Card,Delivered
+ORD100893,19-01-2025,1106,Isha Gupta,Consumer,East,Ranchi,Electronics,Mouse,1,900,0.1,810,108,Debit Card,Delivered
+ORD100894,31-01-2024,1285,Nisha Patel,Home Office,West,Mumbai,Electronics,Keyboard,3,1800,0.15,4590,378,Net Banking,Delivered
+ORD100895,03-01-2025,1023,Meera Kumar,Consumer,North,Delhi,Furniture,Office Chair,2,6500,0.1,11700,2860,Debit Card,Delivered
+ORD100896,27-06-2024,1174,Vivaan Agarwal,Corporate,East,Bhubaneswar,Electronics,Mouse,2,900,0,1800,396,UPI,Delivered
+ORD100897,22-01-2024,1347,Aditya Patel,Corporate,North,Lucknow,Home & Kitchen,Cookware Set,1,3200,0.1,2880,576,Cash on Delivery,Delivered
+ORD100898,02-09-2024,1190,Pooja Verma,Consumer,North,Jaipur,Electronics,Mouse,4,900,0.25,2700,-108,Credit Card,Delivered
+ORD100899,13-05-2024,1098,Aditi Patel,Corporate,South,Hyderabad,Beauty,Face Wash,4,450,0.25,1350,360,Net Banking,Delivered
+ORD100900,15-03-2025,1326,Kavya Kumar,Consumer,South,Hyderabad,Electronics,Smartphone,2,28000,0.2,44800,1120,Debit Card,Delivered
+ORD100901,10-09-2024,1028,Rohan Singh,Consumer,East,Patna,Electronics,Keyboard,4,1800,0.05,-5472,-979.2,Cash on Delivery,Returned
+ORD100902,10-11-2025,1315,Isha Patel,Corporate,North,Delhi,Electronics,Mouse,4,900,0.25,0,0,Cash on Delivery,Cancelled
+ORD100903,15-06-2025,1238,Vivaan Gupta,Corporate,West,Pune,Home & Kitchen,Air Fryer,3,6500,0.2,-12480,-1248,Cash on Delivery,Returned
+ORD100904,30-04-2025,1138,Kavya Mishra,Consumer,West,Surat,Beauty,Perfume,1,1800,0.05,1710,720,Cash on Delivery,Delivered
+ORD100905,28-08-2024,1203,Isha Verma,Consumer,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,4,4200,0.15,0,0,Debit Card,Cancelled
+ORD100906,17-09-2024,1282,Rohan Mishra,Home Office,West,Mumbai,Electronics,Keyboard,1,1800,0.1,1620,216,Debit Card,Delivered
+ORD100907,23-08-2024,1299,Ananya Gupta,Corporate,West,Mumbai,Fashion,Jeans,3,1800,0.15,4590,1458,Cash on Delivery,Delivered
+ORD100908,22-02-2025,1189,Rohan Singh,Consumer,South,Kochi,Home & Kitchen,Air Fryer,3,6500,0.15,16575,2535,Cash on Delivery,Delivered
+ORD100909,27-08-2024,1136,Rahul Sharma,Home Office,East,Kolkata,Home & Kitchen,Coffee Maker,1,3800,0.1,0,0,Net Banking,Cancelled
+ORD100910,21-10-2025,1041,Isha Patel,Corporate,North,Jaipur,Furniture,Study Table,1,8500,0,8500,2720,UPI,Delivered
+ORD100911,13-07-2025,1103,Aditi Jain,Home Office,East,Patna,Furniture,Office Chair,3,6500,0.1,17550,4290,Debit Card,Delivered
+ORD100912,14-07-2024,1310,Nisha Sharma,Corporate,East,Bhubaneswar,Beauty,Face Wash,3,450,0,1350,607.5,Debit Card,Delivered
+ORD100913,17-02-2025,1208,Arjun Jain,Consumer,North,Delhi,Fashion,Sneakers,2,3200,0.15,5440,1728,Credit Card,Delivered
+ORD100914,30-04-2025,1120,Riya Patel,Consumer,East,Ranchi,Fashion,Jeans,3,1800,0,5400,2268,Cash on Delivery,Delivered
+ORD100915,15-12-2025,1214,Neha Singh,Corporate,East,Bhubaneswar,Fashion,Jeans,4,1800,0.2,5760,1584,Credit Card,Delivered
+ORD100916,14-08-2025,1066,Ananya Agarwal,Corporate,East,Patna,Electronics,Laptop,4,55000,0.25,165000,-6600,Credit Card,Delivered
+ORD100917,05-03-2025,1218,Nisha Mishra,Consumer,East,Ranchi,Beauty,Face Wash,3,450,0.1,0,0,Net Banking,Cancelled
+ORD100918,02-02-2024,1072,Rohan Mishra,Corporate,North,Lucknow,Home & Kitchen,Air Fryer,4,6500,0.15,22100,3380,UPI,Delivered
+ORD100919,01-07-2025,1198,Karan Verma,Corporate,North,Lucknow,Fashion,Sneakers,1,3200,0.1,0,0,Debit Card,Cancelled
+ORD100920,05-04-2024,1088,Ananya Agarwal,Home Office,North,Delhi,Beauty,Face Wash,2,450,0,-720,-324,Cash on Delivery,Returned
+ORD100921,28-01-2024,1096,Neha Jain,Consumer,North,Lucknow,Electronics,Headphones,4,2500,0.1,9000,1200,Debit Card,Delivered
+ORD100922,06-11-2025,1269,Neha Jain,Consumer,East,Kolkata,Fashion,Jeans,1,1800,0.1,0,0,Credit Card,Cancelled
+ORD100923,30-11-2024,1211,Aarav Yadav,Corporate,North,Chandigarh,Electronics,Mouse,1,900,0.05,0,0,Cash on Delivery,Cancelled
+ORD100924,11-03-2024,1200,Vivaan Singh,Home Office,East,Bhubaneswar,Electronics,Keyboard,2,1800,0.1,3240,432,Cash on Delivery,Delivered
+ORD100925,11-06-2024,1310,Nisha Sharma,Home Office,East,Patna,Beauty,Perfume,2,1800,0.2,-2304,-720,Cash on Delivery,Returned
+ORD100926,09-10-2024,1104,Rahul Patel,Home Office,East,Kolkata,Electronics,Keyboard,4,1800,0,7200,1584,Credit Card,Delivered
+ORD100927,22-06-2025,1169,Rahul Mishra,Home Office,West,Surat,Fashion,Jeans,4,1800,0.2,5760,1584,UPI,Delivered
+ORD100928,21-10-2024,1331,Meera Mishra,Consumer,East,Ranchi,Home & Kitchen,Coffee Maker,3,3800,0.15,0,0,Cash on Delivery,Cancelled
+ORD100929,12-09-2024,1092,Simran Gupta,Home Office,West,Surat,Fashion,Jeans,4,1800,0.25,5400,1224,Net Banking,Delivered
+ORD100930,07-04-2024,1202,Riya Mishra,Home Office,East,Kolkata,Furniture,Study Table,2,8500,0.1,-12240,-2992,Debit Card,Returned
+ORD100931,13-11-2025,1035,Meera Verma,Corporate,South,Hyderabad,Fashion,Sneakers,4,3200,0.2,10240,2816,UPI,Delivered
+ORD100932,17-04-2024,1259,Kavya Gupta,Consumer,North,Jaipur,Fashion,T-Shirt,4,900,0.05,3420,1332,Net Banking,Delivered
+ORD100933,15-02-2024,1237,Arjun Verma,Home Office,North,Delhi,Electronics,Headphones,4,2500,0.15,8500,700,Cash on Delivery,Delivered
+ORD100934,18-07-2024,1204,Sneha Yadav,Consumer,West,Mumbai,Electronics,Laptop,3,55000,0,-132000,-29040,Debit Card,Returned
+ORD100935,17-11-2025,1238,Vivaan Gupta,Home Office,West,Surat,Fashion,Jeans,1,1800,0,0,0,Credit Card,Cancelled
+ORD100936,31-12-2025,1225,Aditi Yadav,Consumer,South,Hyderabad,Fashion,Sneakers,3,3200,0.05,9120,3552,Net Banking,Delivered
+ORD100937,12-04-2024,1091,Pooja Patel,Home Office,South,Chennai,Electronics,Smartwatch,4,5000,0.05,19000,3400,UPI,Delivered
+ORD100938,24-11-2025,1140,Yash Sharma,Home Office,North,Lucknow,Fashion,Jeans,3,1800,0.05,5130,1998,UPI,Delivered
+ORD100939,22-11-2025,1273,Vivaan Mishra,Home Office,West,Pune,Fashion,Jeans,1,1800,0.25,0,0,UPI,Cancelled
+ORD100940,03-02-2025,1158,Aarav Singh,Consumer,East,Ranchi,Electronics,Smartphone,1,28000,0,28000,6160,Credit Card,Delivered
+ORD100941,18-01-2025,1123,Aditya Mishra,Consumer,East,Bhubaneswar,Electronics,Headphones,1,2500,0.15,2125,175,Debit Card,Delivered
+ORD100942,15-07-2024,1349,Riya Singh,Home Office,South,Bengaluru,Furniture,Study Table,1,8500,0.25,6375,595,Credit Card,Delivered
+ORD100943,15-02-2024,1213,Aditya Singh,Consumer,South,Bengaluru,Home & Kitchen,Air Fryer,3,6500,0.2,-12480,-1248,Net Banking,Returned
+ORD100944,31-07-2024,1278,Arjun Gupta,Consumer,North,Chandigarh,Fashion,T-Shirt,1,900,0.05,855,333,Debit Card,Delivered
+ORD100945,27-11-2024,1089,Aditi Verma,Consumer,North,Delhi,Home & Kitchen,Cookware Set,3,3200,0,9600,2688,Cash on Delivery,Delivered
+ORD100946,13-08-2024,1034,Yash Kumar,Consumer,East,Patna,Beauty,Hair Dryer,3,2200,0,6600,2970,Cash on Delivery,Delivered
+ORD100947,04-11-2024,1307,Aarav Gupta,Home Office,North,Chandigarh,Electronics,Smartwatch,2,5000,0.1,9000,1200,Debit Card,Delivered
+ORD100948,08-10-2025,1199,Aditya Singh,Corporate,West,Pune,Home & Kitchen,Air Fryer,2,6500,0.25,-7800,-312,Cash on Delivery,Returned
+ORD100949,10-03-2024,1172,Rohan Kumar,Home Office,South,Bengaluru,Beauty,Hair Dryer,4,2200,0.15,0,0,Credit Card,Cancelled
+ORD100950,30-05-2025,1301,Riya Sharma,Corporate,East,Kolkata,Furniture,Study Table,1,8500,0.2,6800,1020,Credit Card,Delivered
+ORD100951,14-03-2025,1125,Rohan Agarwal,Corporate,South,Bengaluru,Electronics,Smartphone,2,28000,0.1,50400,6720,Credit Card,Delivered
+ORD100952,04-06-2024,1193,Rahul Patel,Corporate,East,Bhubaneswar,Electronics,Smartphone,2,28000,0.25,0,0,Debit Card,Cancelled
+ORD100953,17-05-2024,1143,Isha Patel,Consumer,North,Jaipur,Electronics,Smartphone,4,28000,0.25,84000,-3360,Credit Card,Delivered
+ORD100954,05-12-2024,1176,Pooja Singh,Home Office,East,Bhubaneswar,Furniture,Office Chair,1,6500,0.25,4875,455,Credit Card,Delivered
+ORD100955,14-09-2025,1196,Arjun Verma,Consumer,West,Ahmedabad,Electronics,Mouse,4,900,0.25,2700,-108,Cash on Delivery,Delivered
+ORD100956,12-03-2024,1099,Simran Jain,Consumer,East,Kolkata,Electronics,Keyboard,2,1800,0.05,3420,612,Net Banking,Delivered
+ORD100957,16-07-2025,1105,Rahul Jain,Corporate,West,Pune,Fashion,Backpack,1,1500,0.15,-1020,-324,Debit Card,Returned
+ORD100958,17-06-2024,1102,Sneha Gupta,Corporate,South,Hyderabad,Fashion,T-Shirt,2,900,0.2,1440,396,Debit Card,Delivered
+ORD100959,13-08-2025,1230,Sneha Gupta,Corporate,North,Lucknow,Furniture,Bookshelf,4,4500,0,18000,5760,Cash on Delivery,Delivered
+ORD100960,20-06-2024,1242,Aditi Kumar,Consumer,East,Ranchi,Fashion,T-Shirt,4,900,0.05,3420,1332,Cash on Delivery,Delivered
+ORD100961,13-03-2025,1043,Karan Verma,Consumer,South,Chennai,Beauty,Hair Dryer,2,2200,0.2,-2816,-880,Debit Card,Returned
+ORD100962,24-01-2025,1238,Vivaan Gupta,Home Office,West,Ahmedabad,Fashion,Jeans,3,1800,0.15,0,0,Cash on Delivery,Cancelled
+ORD100963,14-03-2024,1171,Karan Patel,Consumer,West,Pune,Fashion,Sneakers,2,3200,0.05,6080,2368,UPI,Delivered
+ORD100964,27-05-2025,1192,Aditi Yadav,Corporate,South,Kochi,Home & Kitchen,Cookware Set,4,3200,0.15,-8704,-1331.2,Cash on Delivery,Returned
+ORD100965,16-05-2025,1158,Aarav Singh,Home Office,East,Kolkata,Fashion,T-Shirt,1,900,0,900,378,Credit Card,Delivered
+ORD100966,17-07-2024,1224,Rohan Agarwal,Corporate,South,Chennai,Home & Kitchen,Coffee Maker,4,3800,0.25,-9120,-364.8,UPI,Returned
+ORD100967,28-10-2025,1198,Karan Verma,Corporate,North,Chandigarh,Furniture,Study Table,2,8500,0.15,14450,2890,UPI,Delivered
+ORD100968,15-12-2025,1341,Sneha Singh,Corporate,South,Hyderabad,Furniture,Bookshelf,4,4500,0.25,13500,1260,Credit Card,Delivered
+ORD100969,08-09-2025,1297,Rohan Agarwal,Home Office,South,Hyderabad,Electronics,Laptop,1,55000,0,-44000,-9680,Cash on Delivery,Returned
+ORD100970,11-02-2025,1301,Riya Sharma,Corporate,East,Kolkata,Fashion,Backpack,2,1500,0.15,2550,810,Debit Card,Delivered
+ORD100971,09-12-2025,1155,Nisha Agarwal,Home Office,East,Ranchi,Beauty,Perfume,3,1800,0.25,4050,1080,UPI,Delivered
+ORD100972,21-04-2024,1326,Kavya Kumar,Home Office,South,Chennai,Electronics,Keyboard,3,1800,0.25,4050,-162,Cash on Delivery,Delivered
+ORD100973,16-12-2025,1158,Aarav Singh,Consumer,East,Kolkata,Electronics,Mouse,4,900,0,3600,792,Cash on Delivery,Delivered
+ORD100974,21-06-2025,1214,Neha Singh,Consumer,East,Patna,Fashion,T-Shirt,2,900,0.05,1710,666,Credit Card,Delivered
+ORD100975,21-07-2024,1250,Vivaan Jain,Consumer,South,Hyderabad,Fashion,Backpack,1,1500,0.15,0,0,Credit Card,Cancelled
+ORD100976,24-07-2024,1031,Sneha Agarwal,Home Office,North,Lucknow,Furniture,Office Chair,3,6500,0.15,16575,3315,Net Banking,Delivered
+ORD100977,21-04-2024,1326,Kavya Kumar,Consumer,South,Hyderabad,Electronics,Headphones,3,2500,0,7500,1650,Debit Card,Delivered
+ORD100978,06-03-2024,1176,Pooja Singh,Home Office,East,Kolkata,Beauty,Perfume,2,1800,0.15,3060,1080,UPI,Delivered
+ORD100979,10-01-2024,1032,Aarav Verma,Home Office,East,Patna,Electronics,Laptop,1,55000,0,55000,12100,UPI,Delivered
+ORD100980,19-01-2025,1309,Ananya Gupta,Corporate,East,Patna,Fashion,Sneakers,4,3200,0.1,0,0,Debit Card,Cancelled
+ORD100981,14-01-2025,1350,Rahul Jain,Corporate,East,Patna,Home & Kitchen,Air Fryer,2,6500,0.1,-9360,-1872,Cash on Delivery,Returned
+ORD100982,17-09-2025,1030,Aditi Jain,Home Office,West,Ahmedabad,Home & Kitchen,Air Fryer,1,6500,0,6500,1820,Cash on Delivery,Delivered
+ORD100983,22-05-2024,1014,Yash Singh,Corporate,North,Delhi,Fashion,Backpack,3,1500,0.25,3375,765,Cash on Delivery,Delivered
+ORD100984,25-09-2025,1338,Aarav Gupta,Consumer,West,Surat,Fashion,Backpack,4,1500,0.25,4500,1020,Debit Card,Delivered
+ORD100985,18-01-2024,1325,Aarav Gupta,Consumer,South,Chennai,Electronics,Smartphone,3,28000,0.25,63000,-2520,Net Banking,Delivered
+ORD100986,11-05-2025,1205,Isha Kumar,Home Office,North,Delhi,Home & Kitchen,Coffee Maker,4,3800,0.15,-10336,-1580.8,UPI,Returned
+ORD100987,29-01-2025,1151,Karan Yadav,Consumer,North,Lucknow,Electronics,Keyboard,1,1800,0.05,1710,306,Debit Card,Delivered
+ORD100988,20-11-2025,1281,Aditi Agarwal,Home Office,North,Chandigarh,Electronics,Mouse,4,900,0,3600,792,Net Banking,Delivered
+ORD100989,03-09-2024,1125,Rohan Agarwal,Home Office,South,Hyderabad,Electronics,Mouse,1,900,0,900,198,UPI,Delivered
+ORD100990,13-06-2024,1168,Aditya Yadav,Home Office,North,Chandigarh,Furniture,Bookshelf,2,4500,0.25,6750,630,Cash on Delivery,Delivered
+ORD100991,17-11-2025,1064,Rohan Verma,Corporate,North,Lucknow,Beauty,Face Wash,4,450,0,-1440,-648,Credit Card,Returned
+ORD100992,12-08-2025,1308,Aditya Verma,Home Office,West,Mumbai,Home & Kitchen,Air Fryer,4,6500,0.25,-15600,-624,Cash on Delivery,Returned
+ORD100993,31-10-2025,1329,Ananya Gupta,Corporate,West,Surat,Furniture,Study Table,2,8500,0.1,15300,3740,UPI,Delivered
+ORD100994,24-04-2024,1046,Nisha Kumar,Home Office,North,Jaipur,Beauty,Perfume,2,1800,0.25,2700,720,Debit Card,Delivered
+ORD100995,10-05-2024,1161,Yash Kumar,Home Office,North,Chandigarh,Beauty,Perfume,1,1800,0.1,1620,630,Net Banking,Delivered
+ORD100996,13-07-2024,1199,Aditya Singh,Home Office,West,Surat,Home & Kitchen,Air Fryer,3,6500,0.25,14625,585,Net Banking,Delivered
+ORD100997,27-08-2025,1114,Yash Yadav,Corporate,West,Mumbai,Home & Kitchen,Cookware Set,1,3200,0.2,2560,256,Credit Card,Delivered
+ORD100998,30-10-2024,1113,Meera Agarwal,Consumer,South,Kochi,Fashion,Jeans,2,1800,0.2,2880,792,UPI,Delivered
+ORD100999,05-09-2025,1164,Isha Singh,Home Office,North,Jaipur,Fashion,Backpack,1,1500,0.1,-1080,-384,Cash on Delivery,Returned
+ORD101000,08-10-2025,1111,Arjun Singh,Consumer,South,Kochi,Home & Kitchen,Mixer Grinder,4,4200,0,16800,4704,Credit Card,Delivered
+ORD101001,18-08-2024,1027,Aarav Jain,Consumer,South,Hyderabad,Fashion,Sneakers,4,3200,0.1,-9216,-3276.8,UPI,Returned
+ORD101002,15-07-2025,1201,Sneha Verma,Corporate,North,Jaipur,Fashion,T-Shirt,4,900,0.1,3240,1152,UPI,Delivered
+ORD101003,24-06-2025,1145,Neha Verma,Corporate,South,Chennai,Furniture,Office Chair,4,6500,0,26000,8320,Net Banking,Delivered
+ORD101004,25-02-2024,1156,Priya Kumar,Corporate,East,Ranchi,Electronics,Mouse,2,900,0.15,-1224,-100.8,Debit Card,Returned
+ORD101005,28-05-2024,1108,Yash Yadav,Home Office,West,Pune,Furniture,Office Chair,1,6500,0.1,-4680,-1144,UPI,Returned
+ORD101006,25-11-2025,1076,Yash Mishra,Corporate,West,Surat,Fashion,T-Shirt,2,900,0,1800,756,Cash on Delivery,Delivered
+ORD101007,02-07-2024,1027,Aarav Jain,Consumer,South,Bengaluru,Fashion,Backpack,3,1500,0.2,3600,990,Cash on Delivery,Delivered
+ORD101008,07-09-2024,1018,Isha Gupta,Home Office,West,Mumbai,Furniture,Study Table,4,8500,0.15,28900,5780,Net Banking,Delivered
+ORD101009,25-06-2024,1335,Ananya Mishra,Corporate,North,Chandigarh,Electronics,Headphones,4,2500,0.25,7500,-300,Cash on Delivery,Delivered
+ORD101010,11-01-2025,1006,Meera Singh,Home Office,South,Bengaluru,Electronics,Smartwatch,1,5000,0,5000,1100,Net Banking,Delivered
+ORD101011,18-08-2024,1012,Nisha Verma,Corporate,North,Chandigarh,Furniture,Bookshelf,1,4500,0.2,3600,540,Cash on Delivery,Delivered
+ORD101012,22-10-2025,1223,Yash Sharma,Consumer,East,Patna,Beauty,Perfume,2,1800,0,3600,1620,Net Banking,Delivered
+ORD101013,08-07-2024,1208,Arjun Jain,Home Office,North,Delhi,Home & Kitchen,Cookware Set,4,3200,0,0,0,Net Banking,Cancelled
+ORD101014,31-12-2025,1334,Rohan Sharma,Home Office,East,Kolkata,Furniture,Office Chair,1,6500,0.05,0,0,Credit Card,Cancelled
+ORD101015,06-01-2024,1285,Nisha Patel,Home Office,West,Surat,Home & Kitchen,Air Fryer,1,6500,0,6500,1820,Credit Card,Delivered
+ORD101016,30-10-2025,1083,Nisha Patel,Consumer,West,Mumbai,Beauty,Face Wash,3,450,0,1350,607.5,Net Banking,Delivered
+ORD101017,01-11-2024,1187,Isha Gupta,Consumer,South,Hyderabad,Fashion,T-Shirt,1,900,0.05,855,333,Net Banking,Delivered
+ORD101018,27-10-2024,1338,Aarav Gupta,Home Office,West,Surat,Electronics,Keyboard,4,1800,0.25,5400,-216,Debit Card,Delivered
+ORD101019,12-09-2025,1276,Simran Jain,Consumer,East,Bhubaneswar,Electronics,Smartwatch,1,5000,0.05,4750,850,Credit Card,Delivered
+ORD101020,02-11-2024,1111,Arjun Singh,Corporate,South,Hyderabad,Beauty,Hair Dryer,2,2200,0.2,3520,1100,Credit Card,Delivered
+ORD101021,29-09-2025,1217,Yash Gupta,Home Office,South,Bengaluru,Beauty,Face Wash,3,450,0.1,1215,472.5,Credit Card,Delivered
+ORD101022,13-02-2025,1234,Aditya Mishra,Home Office,North,Delhi,Furniture,Bookshelf,4,4500,0.25,13500,1260,Credit Card,Delivered
+ORD101023,13-03-2024,1323,Rohan Gupta,Home Office,West,Ahmedabad,Furniture,Office Chair,3,6500,0.2,-12480,-1872,Net Banking,Returned
+ORD101024,11-09-2025,1084,Meera Singh,Consumer,West,Surat,Electronics,Keyboard,3,1800,0.15,4590,378,Net Banking,Delivered
+ORD101025,10-09-2024,1040,Rohan Patel,Corporate,North,Jaipur,Electronics,Smartwatch,1,5000,0.25,0,0,UPI,Cancelled
+ORD101026,03-12-2024,1328,Pooja Agarwal,Consumer,East,Kolkata,Home & Kitchen,Coffee Maker,3,3800,0.1,10260,2052,Debit Card,Delivered
+ORD101027,11-01-2024,1051,Nisha Kumar,Consumer,East,Ranchi,Furniture,Study Table,4,8500,0,34000,10880,Net Banking,Delivered
+ORD101028,09-11-2024,1302,Ananya Jain,Corporate,East,Ranchi,Electronics,Smartwatch,3,5000,0.25,0,0,Net Banking,Cancelled
+ORD101029,04-10-2024,1312,Rahul Patel,Consumer,West,Mumbai,Electronics,Smartphone,2,28000,0.1,50400,6720,Debit Card,Delivered
+ORD101030,25-11-2025,1273,Vivaan Mishra,Home Office,West,Surat,Fashion,Sneakers,2,3200,0.1,5760,2048,Net Banking,Delivered
+ORD101031,31-12-2025,1080,Aditi Yadav,Corporate,West,Pune,Electronics,Keyboard,4,1800,0.2,-4608,-115.2,UPI,Returned
+ORD101032,16-10-2025,1190,Pooja Verma,Consumer,North,Lucknow,Beauty,Hair Dryer,4,2200,0.25,6600,1760,Cash on Delivery,Delivered
+ORD101033,28-12-2024,1240,Neha Patel,Consumer,East,Patna,Furniture,Bookshelf,4,4500,0.2,-11520,-1728,Debit Card,Returned
+ORD101034,12-10-2025,1045,Meera Gupta,Consumer,West,Ahmedabad,Fashion,T-Shirt,3,900,0,-2160,-907.2,UPI,Returned
+ORD101035,02-09-2024,1048,Aditya Gupta,Corporate,South,Hyderabad,Beauty,Perfume,1,1800,0,-1440,-648,Net Banking,Returned
+ORD101036,19-05-2025,1006,Meera Singh,Home Office,South,Kochi,Fashion,Backpack,2,1500,0.15,2550,810,Net Banking,Delivered
+ORD101037,15-12-2025,1064,Rohan Verma,Home Office,North,Chandigarh,Electronics,Laptop,2,55000,0.25,82500,-3300,Cash on Delivery,Delivered
+ORD101038,20-12-2025,1274,Rohan Sharma,Consumer,South,Chennai,Furniture,Study Table,1,8500,0.2,6800,1020,Net Banking,Delivered
+ORD101039,18-08-2024,1090,Riya Gupta,Consumer,North,Delhi,Home & Kitchen,Coffee Maker,2,3800,0.2,6080,608,Cash on Delivery,Delivered
+ORD101040,22-05-2025,1195,Pooja Sharma,Consumer,North,Lucknow,Home & Kitchen,Coffee Maker,1,3800,0.1,-2736,-547.2,Net Banking,Returned
+ORD101041,30-04-2024,1149,Ananya Sharma,Consumer,South,Chennai,Fashion,Sneakers,3,3200,0.1,8640,3072,Net Banking,Delivered
+ORD101042,07-02-2025,1112,Isha Agarwal,Corporate,North,Jaipur,Fashion,Backpack,1,1500,0.15,0,0,UPI,Cancelled
+ORD101043,30-12-2024,1004,Neha Agarwal,Consumer,South,Kochi,Home & Kitchen,Air Fryer,3,6500,0.1,17550,3510,Debit Card,Delivered
+ORD101044,09-07-2024,1206,Nisha Gupta,Consumer,West,Ahmedabad,Electronics,Laptop,1,55000,0.15,46750,3850,UPI,Delivered
+ORD101045,25-06-2025,1264,Aditi Jain,Consumer,West,Pune,Fashion,T-Shirt,1,900,0.15,765,243,Debit Card,Delivered
+ORD101046,19-08-2024,1241,Vivaan Gupta,Consumer,South,Kochi,Home & Kitchen,Coffee Maker,3,3800,0.1,10260,2052,Net Banking,Delivered
+ORD101047,02-10-2024,1056,Simran Singh,Home Office,South,Kochi,Fashion,Jeans,2,1800,0.05,3420,1332,Cash on Delivery,Delivered
+ORD101048,06-01-2024,1184,Isha Patel,Consumer,East,Bhubaneswar,Electronics,Smartwatch,2,5000,0.1,9000,1200,Cash on Delivery,Delivered
+ORD101049,07-03-2025,1170,Simran Singh,Corporate,East,Kolkata,Electronics,Mouse,2,900,0.15,-1224,-100.8,UPI,Returned
+ORD101050,07-03-2025,1251,Vivaan Kumar,Home Office,West,Surat,Electronics,Keyboard,3,1800,0.15,0,0,Cash on Delivery,Cancelled
+ORD101051,14-05-2024,1057,Arjun Gupta,Home Office,East,Kolkata,Electronics,Laptop,2,55000,0.05,104500,18700,UPI,Delivered
+ORD101052,01-12-2025,1122,Ananya Yadav,Consumer,East,Kolkata,Home & Kitchen,Air Fryer,4,6500,0.2,-16640,-1664,Cash on Delivery,Returned
+ORD101053,06-05-2025,1149,Ananya Sharma,Home Office,South,Chennai,Fashion,Sneakers,1,3200,0.15,2720,864,Credit Card,Delivered
+ORD101054,07-06-2025,1096,Neha Jain,Consumer,North,Lucknow,Furniture,Bookshelf,1,4500,0.1,-3240,-792,Cash on Delivery,Returned
+ORD101055,22-07-2024,1243,Simran Mishra,Home Office,North,Delhi,Fashion,Backpack,2,1500,0.05,0,0,Credit Card,Cancelled
+ORD101056,22-08-2024,1062,Neha Agarwal,Consumer,West,Pune,Home & Kitchen,Cookware Set,1,3200,0.1,2880,576,Cash on Delivery,Delivered
+ORD101057,19-01-2024,1316,Aarav Sharma,Home Office,South,Hyderabad,Electronics,Headphones,1,2500,0.15,2125,175,Debit Card,Delivered
+ORD101058,17-12-2025,1325,Aarav Gupta,Consumer,South,Hyderabad,Furniture,Study Table,3,8500,0.15,21675,4335,Net Banking,Delivered
+ORD101059,13-03-2025,1330,Sneha Patel,Corporate,West,Mumbai,Home & Kitchen,Mixer Grinder,1,4200,0.1,3780,756,Debit Card,Delivered
+ORD101060,29-12-2025,1215,Vivaan Singh,Consumer,West,Pune,Home & Kitchen,Air Fryer,1,6500,0.05,6175,1495,UPI,Delivered
+ORD101061,07-11-2025,1165,Neha Jain,Consumer,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,4,4200,0.1,0,0,Cash on Delivery,Cancelled
+ORD101062,08-07-2024,1130,Rahul Patel,Consumer,West,Surat,Home & Kitchen,Coffee Maker,3,3800,0.1,10260,2052,UPI,Delivered
+ORD101063,30-11-2025,1283,Nisha Agarwal,Home Office,East,Bhubaneswar,Home & Kitchen,Air Fryer,3,6500,0.25,14625,585,Net Banking,Delivered
+ORD101064,25-06-2025,1310,Nisha Sharma,Corporate,East,Patna,Furniture,Study Table,3,8500,0.05,0,0,UPI,Cancelled
+ORD101065,18-04-2024,1067,Meera Mishra,Corporate,South,Bengaluru,Electronics,Smartphone,2,28000,0.05,-42560,-7616,UPI,Returned
+ORD101066,17-03-2024,1280,Kavya Verma,Home Office,North,Jaipur,Home & Kitchen,Mixer Grinder,4,4200,0.05,0,0,Credit Card,Cancelled
+ORD101067,14-02-2024,1066,Ananya Agarwal,Corporate,East,Bhubaneswar,Fashion,T-Shirt,3,900,0.2,2160,594,Cash on Delivery,Delivered
+ORD101068,06-10-2025,1061,Pooja Kumar,Home Office,East,Ranchi,Electronics,Headphones,4,2500,0.15,0,0,UPI,Cancelled
+ORD101069,19-06-2024,1307,Aarav Gupta,Consumer,North,Jaipur,Electronics,Keyboard,3,1800,0,0,0,Credit Card,Cancelled
+ORD101070,11-02-2025,1254,Karan Sharma,Home Office,West,Mumbai,Electronics,Mouse,4,900,0.2,2880,72,Cash on Delivery,Delivered
+ORD101071,14-02-2025,1311,Neha Jain,Home Office,North,Jaipur,Furniture,Office Chair,2,6500,0,13000,4160,Credit Card,Delivered
+ORD101072,29-08-2025,1005,Neha Gupta,Corporate,West,Surat,Fashion,Backpack,3,1500,0.1,4050,1440,Debit Card,Delivered
+ORD101073,19-07-2025,1061,Pooja Kumar,Corporate,East,Bhubaneswar,Furniture,Study Table,1,8500,0.2,6800,1020,UPI,Delivered
+ORD101074,16-10-2025,1076,Yash Mishra,Consumer,West,Ahmedabad,Electronics,Keyboard,3,1800,0,-4320,-950.4,Credit Card,Returned
+ORD101075,01-07-2025,1060,Vivaan Kumar,Home Office,West,Mumbai,Home & Kitchen,Coffee Maker,3,3800,0.1,10260,2052,Net Banking,Delivered
+ORD101076,27-09-2024,1069,Arjun Patel,Home Office,North,Chandigarh,Beauty,Hair Dryer,3,2200,0.1,5940,2310,UPI,Delivered
+ORD101077,30-12-2024,1113,Meera Agarwal,Home Office,South,Chennai,Electronics,Mouse,3,900,0,0,0,Net Banking,Cancelled
+ORD101078,18-04-2024,1196,Arjun Verma,Corporate,West,Ahmedabad,Beauty,Hair Dryer,2,2200,0.15,3740,1320,Debit Card,Delivered
+ORD101079,27-07-2024,1298,Simran Patel,Home Office,East,Ranchi,Electronics,Keyboard,4,1800,0.05,-5472,-979.2,Cash on Delivery,Returned
+ORD101080,12-01-2025,1076,Yash Mishra,Consumer,West,Surat,Electronics,Headphones,4,2500,0.05,9500,1700,Credit Card,Delivered
+ORD101081,12-07-2024,1292,Karan Jain,Consumer,West,Surat,Electronics,Mouse,3,900,0,2700,594,Credit Card,Delivered
+ORD101082,07-02-2025,1312,Rahul Patel,Consumer,West,Pune,Electronics,Headphones,2,2500,0,5000,1100,Cash on Delivery,Delivered
+ORD101083,22-10-2025,1207,Vivaan Jain,Home Office,East,Kolkata,Fashion,Backpack,2,1500,0.25,2250,510,UPI,Delivered
+ORD101084,21-01-2025,1197,Aarav Agarwal,Consumer,South,Bengaluru,Electronics,Smartwatch,1,5000,0.25,3750,-150,Credit Card,Delivered
+ORD101085,26-03-2024,1138,Kavya Mishra,Home Office,West,Pune,Beauty,Hair Dryer,1,2200,0,2200,990,Debit Card,Delivered
+ORD101086,25-12-2025,1044,Riya Yadav,Consumer,East,Bhubaneswar,Electronics,Keyboard,4,1800,0.2,5760,144,Debit Card,Delivered
+ORD101087,05-12-2024,1246,Vivaan Agarwal,Corporate,South,Hyderabad,Furniture,Study Table,1,8500,0.2,-5440,-816,Net Banking,Returned
+ORD101088,06-05-2024,1011,Neha Gupta,Corporate,North,Delhi,Electronics,Smartwatch,3,5000,0,0,0,Credit Card,Cancelled
+ORD101089,02-01-2024,1115,Meera Verma,Corporate,South,Bengaluru,Furniture,Study Table,4,8500,0.15,28900,5780,Debit Card,Delivered
+ORD101090,19-08-2024,1197,Aarav Agarwal,Consumer,South,Bengaluru,Fashion,Sneakers,2,3200,0,6400,2688,Debit Card,Delivered
+ORD101091,31-12-2024,1040,Rohan Patel,Home Office,North,Jaipur,Electronics,Smartwatch,3,5000,0,15000,3300,Credit Card,Delivered
+ORD101092,01-07-2024,1220,Ananya Sharma,Consumer,East,Patna,Beauty,Hair Dryer,2,2200,0.25,3300,880,Debit Card,Delivered
+ORD101093,01-10-2025,1147,Isha Agarwal,Corporate,North,Jaipur,Electronics,Smartwatch,3,5000,0.15,-10200,-840,Debit Card,Returned
+ORD101094,29-12-2025,1040,Rohan Patel,Corporate,North,Delhi,Electronics,Keyboard,2,1800,0.1,3240,432,Cash on Delivery,Delivered
+ORD101095,04-05-2025,1035,Meera Verma,Consumer,South,Bengaluru,Beauty,Perfume,4,1800,0.25,5400,1440,UPI,Delivered
+ORD101096,26-11-2024,1066,Ananya Agarwal,Corporate,East,Bhubaneswar,Home & Kitchen,Cookware Set,3,3200,0.1,8640,1728,Cash on Delivery,Delivered
+ORD101097,11-12-2025,1212,Rohan Singh,Home Office,West,Ahmedabad,Electronics,Keyboard,2,1800,0.15,3060,252,Cash on Delivery,Delivered
+ORD101098,05-07-2025,1274,Rohan Sharma,Home Office,South,Kochi,Beauty,Face Wash,2,450,0.15,765,270,Cash on Delivery,Delivered
+ORD101099,23-06-2025,1296,Priya Verma,Consumer,East,Bhubaneswar,Electronics,Headphones,2,2500,0.1,4500,600,UPI,Delivered
+ORD101100,06-01-2025,1286,Pooja Yadav,Corporate,West,Surat,Electronics,Keyboard,1,1800,0,1800,396,Credit Card,Delivered
+ORD101101,28-10-2024,1236,Meera Yadav,Consumer,West,Pune,Beauty,Face Wash,4,450,0.05,1710,720,UPI,Delivered
+ORD101102,21-05-2024,1061,Pooja Kumar,Corporate,East,Bhubaneswar,Home & Kitchen,Cookware Set,1,3200,0.25,2400,96,UPI,Delivered
+ORD101103,19-12-2025,1055,Sneha Patel,Corporate,North,Delhi,Fashion,Sneakers,2,3200,0,6400,2688,Credit Card,Delivered
+ORD101104,21-03-2024,1126,Riya Jain,Corporate,East,Kolkata,Electronics,Laptop,4,55000,0.05,209000,37400,Credit Card,Delivered
+ORD101105,24-06-2025,1154,Meera Yadav,Home Office,West,Surat,Fashion,T-Shirt,3,900,0.15,-1836,-583.2,UPI,Returned
+ORD101106,20-10-2024,1057,Arjun Gupta,Home Office,East,Bhubaneswar,Electronics,Smartphone,1,28000,0.2,22400,560,Credit Card,Delivered
+ORD101107,12-01-2024,1203,Isha Verma,Corporate,East,Ranchi,Fashion,Jeans,3,1800,0.2,0,0,Credit Card,Cancelled
+ORD101108,09-03-2025,1081,Priya Agarwal,Consumer,North,Jaipur,Electronics,Headphones,4,2500,0.05,-7600,-1360,Cash on Delivery,Returned
+ORD101109,25-09-2025,1029,Nisha Agarwal,Home Office,West,Pune,Home & Kitchen,Cookware Set,2,3200,0.25,0,0,UPI,Cancelled
+ORD101110,10-12-2025,1240,Neha Patel,Consumer,East,Ranchi,Home & Kitchen,Air Fryer,4,6500,0.15,22100,3380,Debit Card,Delivered
+ORD101111,24-10-2025,1218,Nisha Mishra,Corporate,East,Bhubaneswar,Furniture,Bookshelf,1,4500,0,4500,1440,Net Banking,Delivered
+ORD101112,09-12-2024,1015,Yash Verma,Consumer,North,Lucknow,Home & Kitchen,Mixer Grinder,2,4200,0.2,6720,672,Credit Card,Delivered
+ORD101113,03-09-2025,1006,Meera Singh,Consumer,South,Chennai,Furniture,Office Chair,2,6500,0.25,9750,910,Debit Card,Delivered
+ORD101114,28-03-2024,1292,Karan Jain,Corporate,West,Mumbai,Beauty,Perfume,4,1800,0,7200,3240,UPI,Delivered
+ORD101115,12-11-2024,1005,Neha Gupta,Corporate,West,Ahmedabad,Home & Kitchen,Mixer Grinder,4,4200,0.2,13440,1344,Cash on Delivery,Delivered
+ORD101116,30-12-2024,1067,Meera Mishra,Consumer,South,Bengaluru,Home & Kitchen,Air Fryer,4,6500,0.25,0,0,Net Banking,Cancelled
+ORD101117,02-06-2024,1013,Simran Mishra,Consumer,South,Kochi,Fashion,Sneakers,1,3200,0.1,2880,1024,Cash on Delivery,Delivered
+ORD101118,21-03-2024,1321,Ananya Yadav,Consumer,North,Delhi,Furniture,Study Table,2,8500,0.25,-10200,-952,Credit Card,Returned
+ORD101119,28-05-2025,1265,Karan Singh,Corporate,North,Jaipur,Fashion,Jeans,2,1800,0.1,3240,1152,Net Banking,Delivered
+ORD101120,17-03-2025,1021,Ananya Singh,Consumer,West,Surat,Furniture,Study Table,2,8500,0.2,0,0,Credit Card,Cancelled
+ORD101121,03-08-2025,1322,Meera Gupta,Home Office,West,Surat,Electronics,Smartwatch,1,5000,0.05,4750,850,UPI,Delivered
+ORD101122,25-05-2025,1049,Aditi Sharma,Consumer,South,Kochi,Home & Kitchen,Air Fryer,2,6500,0.1,11700,2340,Debit Card,Delivered
+ORD101123,13-08-2025,1187,Isha Gupta,Corporate,South,Chennai,Electronics,Headphones,1,2500,0.05,-1900,-340,Debit Card,Returned
+ORD101124,29-04-2025,1132,Meera Mishra,Consumer,East,Ranchi,Electronics,Keyboard,1,1800,0.2,1440,36,Debit Card,Delivered
+ORD101125,20-10-2024,1206,Nisha Gupta,Home Office,West,Surat,Beauty,Hair Dryer,2,2200,0.15,3740,1320,Net Banking,Delivered
+ORD101126,17-11-2024,1192,Aditi Yadav,Consumer,South,Bengaluru,Fashion,T-Shirt,4,900,0.1,-2592,-921.6,Net Banking,Returned
+ORD101127,21-10-2025,1030,Aditi Jain,Corporate,West,Pune,Beauty,Face Wash,1,450,0.05,427.5,180,Cash on Delivery,Delivered
+ORD101128,11-06-2024,1292,Karan Jain,Home Office,West,Surat,Electronics,Headphones,2,2500,0.15,4250,350,UPI,Delivered
+ORD101129,23-12-2024,1239,Riya Agarwal,Consumer,North,Chandigarh,Beauty,Face Wash,4,450,0,1800,810,UPI,Delivered
+ORD101130,10-02-2025,1222,Neha Agarwal,Corporate,South,Hyderabad,Home & Kitchen,Cookware Set,3,3200,0,9600,2688,Net Banking,Delivered
+ORD101131,12-05-2025,1109,Aditya Agarwal,Home Office,South,Kochi,Electronics,Smartwatch,3,5000,0.15,12750,1050,Credit Card,Delivered
+ORD101132,26-04-2025,1075,Priya Mishra,Consumer,West,Pune,Home & Kitchen,Air Fryer,1,6500,0.2,5200,520,Debit Card,Delivered
+ORD101133,16-03-2025,1243,Simran Mishra,Corporate,North,Lucknow,Electronics,Smartphone,2,28000,0,-44800,-9856,Debit Card,Returned
+ORD101134,15-09-2024,1326,Kavya Kumar,Corporate,South,Hyderabad,Electronics,Headphones,2,2500,0,5000,1100,UPI,Delivered
+ORD101135,01-11-2024,1232,Ananya Patel,Consumer,East,Ranchi,Fashion,Backpack,2,1500,0.25,2250,510,UPI,Delivered
+ORD101136,04-04-2024,1220,Ananya Sharma,Corporate,East,Patna,Home & Kitchen,Mixer Grinder,2,4200,0.05,7980,1932,Cash on Delivery,Delivered
+ORD101137,01-05-2025,1275,Meera Mishra,Corporate,North,Lucknow,Fashion,T-Shirt,3,900,0.25,0,0,UPI,Cancelled
+ORD101138,28-07-2025,1306,Aarav Singh,Home Office,West,Pune,Electronics,Headphones,2,2500,0.1,-3600,-480,Debit Card,Returned
+ORD101139,15-01-2024,1078,Nisha Jain,Home Office,West,Surat,Electronics,Keyboard,4,1800,0.1,6480,864,Cash on Delivery,Delivered
+ORD101140,26-09-2024,1267,Priya Jain,Home Office,East,Kolkata,Fashion,Jeans,2,1800,0.25,2700,612,Net Banking,Delivered
+ORD101141,09-04-2024,1019,Priya Sharma,Consumer,North,Lucknow,Furniture,Office Chair,4,6500,0.25,0,0,Net Banking,Cancelled
+ORD101142,21-01-2025,1111,Arjun Singh,Consumer,South,Chennai,Furniture,Office Chair,2,6500,0.25,0,0,Debit Card,Cancelled
+ORD101143,07-01-2025,1009,Nisha Mishra,Home Office,West,Ahmedabad,Home & Kitchen,Mixer Grinder,1,4200,0.25,3150,126,Cash on Delivery,Delivered
+ORD101144,27-02-2025,1211,Aarav Yadav,Consumer,North,Jaipur,Home & Kitchen,Coffee Maker,4,3800,0.2,12160,1216,Credit Card,Delivered
+ORD101145,14-04-2025,1220,Ananya Sharma,Corporate,East,Patna,Electronics,Mouse,2,900,0.2,1440,36,Debit Card,Delivered
+ORD101146,06-11-2025,1349,Riya Singh,Consumer,South,Kochi,Home & Kitchen,Mixer Grinder,1,4200,0,4200,1176,UPI,Delivered
+ORD101147,23-09-2025,1211,Aarav Yadav,Home Office,North,Delhi,Fashion,Sneakers,1,3200,0.25,2400,544,Net Banking,Delivered
+ORD101148,03-02-2024,1342,Pooja Kumar,Home Office,West,Ahmedabad,Fashion,T-Shirt,2,900,0.05,1710,666,Cash on Delivery,Delivered
+ORD101149,27-04-2024,1101,Aarav Agarwal,Home Office,West,Surat,Electronics,Smartwatch,3,5000,0.15,12750,1050,Cash on Delivery,Delivered
+ORD101150,08-01-2024,1192,Aditi Yadav,Corporate,South,Hyderabad,Fashion,Backpack,3,1500,0.1,-3240,-1152,Debit Card,Returned
+ORD101151,28-02-2025,1345,Vivaan Singh,Consumer,North,Lucknow,Electronics,Laptop,4,55000,0,220000,48400,Credit Card,Delivered
+ORD101152,18-01-2025,1266,Nisha Verma,Consumer,East,Patna,Home & Kitchen,Air Fryer,2,6500,0.2,10400,1040,Net Banking,Delivered
+ORD101153,04-02-2025,1099,Simran Jain,Corporate,East,Ranchi,Electronics,Smartphone,4,28000,0.05,-85120,-15232,Credit Card,Returned
+ORD101154,16-02-2025,1163,Priya Sharma,Consumer,South,Hyderabad,Fashion,T-Shirt,2,900,0,-1440,-604.8,Net Banking,Returned
+ORD101155,01-05-2024,1324,Aditi Kumar,Consumer,East,Ranchi,Furniture,Bookshelf,2,4500,0.1,8100,1980,UPI,Delivered
+ORD101156,27-01-2024,1224,Rohan Agarwal,Home Office,South,Bengaluru,Beauty,Perfume,2,1800,0,0,0,Net Banking,Cancelled
+ORD101157,21-03-2024,1293,Riya Kumar,Home Office,West,Surat,Electronics,Laptop,2,55000,0.15,-74800,-6160,Debit Card,Returned
+ORD101158,10-07-2024,1123,Aditya Mishra,Home Office,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,2,4200,0.2,6720,672,Cash on Delivery,Delivered
+ORD101159,23-09-2024,1338,Aarav Gupta,Consumer,West,Mumbai,Furniture,Bookshelf,1,4500,0.05,-3420,-972,Net Banking,Returned
+ORD101160,15-04-2024,1057,Arjun Gupta,Corporate,East,Ranchi,Beauty,Hair Dryer,1,2200,0,2200,990,Debit Card,Delivered
+ORD101161,03-07-2024,1048,Aditya Gupta,Consumer,South,Bengaluru,Fashion,Sneakers,3,3200,0.05,9120,3552,Cash on Delivery,Delivered
+ORD101162,23-01-2024,1212,Rohan Singh,Corporate,West,Mumbai,Fashion,Sneakers,1,3200,0.05,-2432,-947.2,Cash on Delivery,Returned
+ORD101163,17-11-2024,1325,Aarav Gupta,Consumer,South,Kochi,Electronics,Mouse,2,900,0.1,1620,216,Net Banking,Delivered
+ORD101164,08-10-2025,1311,Neha Jain,Home Office,North,Delhi,Electronics,Smartwatch,3,5000,0.1,13500,1800,Net Banking,Delivered
+ORD101165,13-07-2025,1003,Neha Yadav,Home Office,West,Pune,Fashion,Backpack,3,1500,0,4500,1890,UPI,Delivered
+ORD101166,02-07-2025,1012,Nisha Verma,Consumer,North,Lucknow,Furniture,Office Chair,3,6500,0,19500,6240,Debit Card,Delivered
+ORD101167,21-05-2024,1113,Meera Agarwal,Consumer,South,Bengaluru,Electronics,Keyboard,3,1800,0.1,4860,648,UPI,Delivered
+ORD101168,22-12-2024,1283,Nisha Agarwal,Corporate,East,Patna,Fashion,Jeans,4,1800,0.15,0,0,Credit Card,Cancelled
+ORD101169,13-09-2024,1089,Aditi Verma,Home Office,North,Lucknow,Furniture,Bookshelf,4,4500,0,0,0,Debit Card,Cancelled
+ORD101170,18-06-2024,1106,Isha Gupta,Home Office,East,Ranchi,Fashion,T-Shirt,4,900,0.15,0,0,Debit Card,Cancelled
+ORD101171,22-11-2024,1319,Sneha Gupta,Home Office,West,Mumbai,Beauty,Hair Dryer,4,2200,0.15,7480,2640,Debit Card,Delivered
+ORD101172,17-01-2025,1324,Aditi Kumar,Corporate,East,Kolkata,Fashion,Jeans,2,1800,0,0,0,Net Banking,Cancelled
+ORD101173,23-02-2025,1151,Karan Yadav,Corporate,North,Jaipur,Home & Kitchen,Cookware Set,1,3200,0,3200,896,Cash on Delivery,Delivered
+ORD101174,09-07-2024,1184,Isha Patel,Corporate,East,Bhubaneswar,Electronics,Headphones,2,2500,0.25,3750,-150,Credit Card,Delivered
+ORD101175,17-11-2024,1063,Nisha Yadav,Consumer,West,Mumbai,Home & Kitchen,Air Fryer,1,6500,0.25,4875,195,Cash on Delivery,Delivered
+ORD101176,04-08-2025,1165,Neha Jain,Home Office,East,Bhubaneswar,Beauty,Face Wash,1,450,0.15,382.5,135,Credit Card,Delivered
+ORD101177,23-06-2025,1112,Isha Agarwal,Home Office,North,Delhi,Beauty,Face Wash,3,450,0.25,0,0,UPI,Cancelled
+ORD101178,10-08-2025,1331,Meera Mishra,Consumer,East,Ranchi,Fashion,T-Shirt,3,900,0.1,2430,864,UPI,Delivered
+ORD101179,20-05-2025,1256,Arjun Verma,Corporate,North,Delhi,Furniture,Bookshelf,4,4500,0,18000,5760,Credit Card,Delivered
+ORD101180,07-09-2025,1168,Aditya Yadav,Home Office,North,Chandigarh,Furniture,Study Table,1,8500,0.1,7650,1870,Net Banking,Delivered
+ORD101181,05-01-2024,1237,Arjun Verma,Home Office,North,Jaipur,Electronics,Keyboard,4,1800,0,0,0,UPI,Cancelled
+ORD101182,11-12-2024,1331,Meera Mishra,Home Office,East,Kolkata,Electronics,Headphones,4,2500,0,10000,2200,Debit Card,Delivered
+ORD101183,08-10-2024,1163,Priya Sharma,Corporate,South,Chennai,Home & Kitchen,Cookware Set,1,3200,0.2,2560,256,Net Banking,Delivered
+ORD101184,18-02-2024,1202,Riya Mishra,Corporate,East,Patna,Fashion,Jeans,4,1800,0.25,5400,1224,Net Banking,Delivered
+ORD101185,15-04-2024,1015,Yash Verma,Corporate,North,Lucknow,Electronics,Smartphone,1,28000,0.05,26600,4760,Cash on Delivery,Delivered
+ORD101186,19-08-2024,1088,Ananya Agarwal,Home Office,North,Delhi,Furniture,Office Chair,3,6500,0.2,15600,2340,UPI,Delivered
+ORD101187,22-09-2024,1023,Meera Kumar,Corporate,North,Delhi,Electronics,Smartphone,3,28000,0,84000,18480,Net Banking,Delivered
+ORD101188,23-01-2025,1139,Kavya Singh,Corporate,East,Bhubaneswar,Electronics,Keyboard,4,1800,0,7200,1584,Credit Card,Delivered
+ORD101189,21-08-2025,1212,Rohan Singh,Home Office,West,Surat,Electronics,Smartwatch,2,5000,0.2,8000,200,Cash on Delivery,Delivered
+ORD101190,14-10-2024,1165,Neha Jain,Home Office,East,Ranchi,Furniture,Study Table,1,8500,0.1,7650,1870,UPI,Delivered
+ORD101191,27-12-2024,1286,Pooja Yadav,Consumer,West,Pune,Furniture,Office Chair,1,6500,0,6500,2080,Credit Card,Delivered
+ORD101192,14-01-2024,1344,Aditi Yadav,Consumer,East,Bhubaneswar,Fashion,Jeans,4,1800,0.05,6840,2664,Debit Card,Delivered
+ORD101193,01-08-2024,1303,Rohan Verma,Home Office,South,Chennai,Home & Kitchen,Mixer Grinder,4,4200,0.25,12600,504,UPI,Delivered
+ORD101194,13-05-2024,1113,Meera Agarwal,Consumer,South,Chennai,Home & Kitchen,Cookware Set,4,3200,0.2,0,0,Cash on Delivery,Cancelled
+ORD101195,11-07-2024,1036,Priya Jain,Home Office,East,Patna,Fashion,T-Shirt,2,900,0.25,1350,306,UPI,Delivered
+ORD101196,30-05-2024,1237,Arjun Verma,Consumer,North,Delhi,Electronics,Smartwatch,2,5000,0,10000,2200,Debit Card,Delivered
+ORD101197,30-01-2024,1244,Arjun Patel,Consumer,North,Chandigarh,Home & Kitchen,Coffee Maker,3,3800,0,0,0,Debit Card,Cancelled
+ORD101198,17-03-2025,1109,Aditya Agarwal,Consumer,South,Hyderabad,Home & Kitchen,Cookware Set,4,3200,0.2,10240,1024,Cash on Delivery,Delivered
+ORD101199,06-10-2024,1190,Pooja Verma,Consumer,North,Delhi,Electronics,Smartphone,4,28000,0.25,84000,-3360,Debit Card,Delivered
+ORD101200,12-07-2024,1207,Vivaan Jain,Corporate,East,Bhubaneswar,Beauty,Hair Dryer,3,2200,0.2,0,0,Net Banking,Cancelled
