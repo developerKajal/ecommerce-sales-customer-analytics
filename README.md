@@ -30,6 +30,8 @@ The goal is to transform raw data into meaningful information that can support d
 4. **Dashboard Development:** Created a Power BI dashboard to visualize the data.
 5. **Business Understanding:** Used the analysis to explore patterns and support business decisions.
 
+6. ![E-commerce Sales and Customer Analytics Dashboard](ecommerce-dashboard.png)
+
 ## Repository Contents
 
 | File                                       | Description                       |
